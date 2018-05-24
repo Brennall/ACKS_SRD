@@ -587,8 +587,7 @@ This pre-generated template represents a keen-eyed archer and tracker. The templ
 | 13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
 | 14+   |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
 
-## Freebooter
-
+### Freebooter
 
 | Prime Requisite: | DEX (plus one ability score determined by path)
 | :--------------- | :----------
