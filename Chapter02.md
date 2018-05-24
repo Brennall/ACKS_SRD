@@ -366,9 +366,9 @@ This pre-generated template represents a wandering minstrel with magic in his so
 
 ## Human Chosen
 
-Prime Requisite: Lowest ability score
-Requirements: Any ability score 18
-Hit Dice: 1d6
+Prime Requisite: Lowest ability score  
+Requirements: Any ability score 18  
+Hit Dice: 1d6  
 Maximum Level: 14
 
 Some men and women, whether out of desire for wealth, or fame, or power, or mere wanderlust, choose to be adventurers. But others are **chosen**, their paths guided by great powers toward heroic roads that lead them to everlasting glory—or ignominious death. A chosen can appear anywhere and at any time. The humblest farm boy is as likely to be marked by fate as the scion of a king. Chosen are, however, quite rare; fewer than 1 in 1,000 adventurers are chosen, and most people will live their entire lives without ever seeing one. When they do appear, they inevitably draw the attention of the great powers of light and darkness, ever ready to anoint a new champion or preemptively slay a new foe before he can come into the fullness of his power.
@@ -393,7 +393,8 @@ To qualify as a chosen, a character must have at least one natural ability score
 | 650,000                                             | Chosen, 12th lvl | 12        | 9d6+3\*      | +5        | 14        |
 | 770,000                                             | Chosen, 13th lvl | 13        | 9d6+4\*      | +5        | 15        |
 | 890,000                                             | The One          | 14        | 9d6+5\*      | +5        | 16        |
-\*Hit point modifiers from Constitution are ignored
+
+_\*Hit point modifiers from Constitution are ignored_
 
 Chosen are blessed with an instinctive natural aptitude for combat. At first level, chosen hit an unarmored foe (AC 0) with an attack throw of 10+. Like fighters, they advance in attack throws and saving throws by two points every three levels of experience. Whether from preternatural skill or uncanny link, chosen increase their base damage roll from successful melee and missile attacks by +1 at 1st level and by an additional +1 at 3rd, 6th, 9th, and 12th level. A chosen can fight with a two-handed weapon, a weapon in each hand, or a weapon and shield, as desired.
 
