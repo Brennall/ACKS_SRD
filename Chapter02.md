@@ -366,10 +366,11 @@ This pre-generated template represents a wandering minstrel with magic in his so
 
 ## Human Chosen
 
-Prime Requisite: Lowest ability score  
-Requirements: Any ability score 18  
-Hit Dice: 1d6  
-Maximum Level: 14
+| Prime Requisite: | Lowest ability score
+| :--------------- | :----------
+| Requirements:    | Any ability score 18       
+| Hit Dice:        | 1d6
+| Maximum Level:   | 14
 
 Some men and women, whether out of desire for wealth, or fame, or power, or mere wanderlust, choose to be adventurers. But others are **chosen**, their paths guided by great powers toward heroic roads that lead them to everlasting glory—or ignominious death. A chosen can appear anywhere and at any time. The humblest farm boy is as likely to be marked by fate as the scion of a king. Chosen are, however, quite rare; fewer than 1 in 1,000 adventurers are chosen, and most people will live their entire lives without ever seeing one. When they do appear, they inevitably draw the attention of the great powers of light and darkness, ever ready to anoint a new champion or preemptively slay a new foe before he can come into the fullness of his power.
 
@@ -406,7 +407,7 @@ At 1st level (Innocent), a chosen begins with three gifts. With each level of ex
 
 Just as each chosen has a different destiny, so each has a different set of gifts. Chosen select their gifts from the list below. All selections must be approved by the Judge. Some gifts may be banned from particular settings where they are inappropriate or where they refer to optional rules that the Judge has opted not to use. Chosen can only select the same gift multiple times at the same level with the Judge’s approval.
 
-**Chosen Gifts**
+#### Chosen Gifts
 
 *Armor Training:* The chosen trains to fight in armor. This gift may be selected multiple times. If selected once, the chosen can wear leather armor. If selected twice, the chosen can wear chain mail armor. If selected thrice, the chosen can wear plate armor.
 
@@ -492,30 +493,29 @@ At 9th level (Chosen), a chosen can **establish a stronghold** and become a prot
 
 **Chosen Proficiency List:** Alertness, Arcane Dabbling, Armor Training, Beast Friendship, Blind Fighting, Combat Reflexes, Combat Trickery (force back, overrun, sunder), Command, Diplomacy, Divine Blessing, Endurance, Farseeing\*, Fighting Style, Goblin-Slaying, Healing, Laying on Hands, Leadership, Military Strategy, Mystic Aura, Passing Without Trace, Prophecy\*, Running, Second Sight\*, Skirmishing, Weapon Finesse, Weapon Focus\*
 
-\*Modified or new proficiency described on p. XX.
+_\*Modified or new proficiency described on p. XX._
 
-| **Template:**           | Dalish Inheritor                                                                                                                                                                                                     |
-|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Proficiencies:**      | Weapon Focus (swords), Manual of Arms, *Armor Training, Chosen Weapon, Martial Training (swords/daggers)*                                                                                                            |
-| **Starting Equipment:** | *Chosen sword +1* in finely-made scabbard (25gp value)*,* dagger, leather armor, shield, armiger’s tunic and pants, low leather boots, leather belt, backpack, 2 flasks of military oil, 2 weeks’ iron rations, 15gp |
+| Template:           | Dalish Inheritor
+| :------------------ | :---------
+| Proficiencies:      | Weapon Focus (swords), Manual of Arms, *Armor Training, Chosen Weapon, Martial Training (swords/daggers)*
+| Starting Equipment: | *Chosen sword +1* in finely-made scabbard (25gp value)*,* dagger, leather armor, shield, armiger’s tunic and pants, low leather boots, leather belt, backpack, 2 flasks of military oil, 2 weeks’ iron rations, 15gp
 
 **Dalish Inheritor Template:** This pre-generated template represents a Man of Dale who has inherited a chosen weapon (perhaps dwarf-forged) from a heroic ancestor. The template is ready for adventure. However, if your beastmaster’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see **Starting Proficiencies** in Chapter 4 of *ACKS*).
 
-| **Chosen Attack and Saving Throws** |
-|-|
+#### Chosen Attack and Saving Throws
 
-| **Level**                             |**Petrification & Paralysis**|**Poison & Death**|**Blast & Breath**|**Staffs & Wands**|**Spells**|**Attack Throw**|
-| ------------------------------------- |:---------------------------:|:----------------:|:----------------:|:----------------:|:--------:|:--------------:|
-| 1                                     |15+                          |14+               |16+               |16+               |17+       |10+             |
-| 2&#8209;3                             |14+                          |13+               |15+               |15+               |16+       |9+              |
-| 4                                     |13+                          |12+               |14+               |14+               |15+       |8+              |
-| 5&#8209;6                             |12+                          |11+               |13+               |13+               |14+       |7+              |
-| 7                                     |11+                          |10+               |12+               |12+               |13+       |6+              |
-| 8&#8209;9                             |10+                          |9+                |11+               |11+               |12+       |5+              |
-| 10                                    |9+                           |8+                |10+               |10+               |11+       |4+              |
-| 11&#8209;12                           |8+                           |7+                |9+                |9+                |10+       |3+              |
-| 13                                    |7+                           |6+                |8+                |8+                |9+        |2+              |
-| 14                                    |6+                           |5+                |7+                |7+                |8+        |1+              |
+| Level       |Petrification & Paralysis|Poison & Death|Blast & Breath|Staffs & Wands|Spells|Attack Throw|
+| :---------- |------------------------:|-------------:|-------------:|-------------:|-----:|-----------:|
+| 1           |15+                      |14+           |16+           |16+           |17+   |10+         |
+| 2&#8209;3   |14+                      |13+           |15+           |15+           |16+   |9+          |
+| 4           |13+                      |12+           |14+           |14+           |15+   |8+          |
+| 5&#8209;6   |12+                      |11+           |13+           |13+           |14+   |7+          |
+| 7           |11+                      |10+           |12+           |12+           |13+   |6+          |
+| 8&#8209;9   |10+                      |9+            |11+           |11+           |12+   |5+          |
+| 10          |9+                       |8+            |10+           |10+           |11+   |4+          |
+| 11&#8209;12 |8+                       |7+            |9+            |9+            |10+   |3+          |
+| 13          |7+                       |6+            |8+            |8+            |9+    |2+          |
+| 14          |6+                       |5+            |7+            |7+            |8+    |1+          |
 
 
 
