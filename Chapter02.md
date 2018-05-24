@@ -822,6 +822,169 @@ pick one or more additional general proficiencies before play if you’d like (s
 |14         | 1+       
 
 
+### Loremaster
+
+| Prime Requisite: | INT and WIS
+| :--------------- | :----------
+| Requirements:    | None
+| Hit Dice:        | 1d4
+| Maximum Level:   | 14
+
+Loremasters pursue knowledge and preserve ancient wisdom handed down from time immemorial. Most loremasters live ascetic lives devoted to annotating and
+studying the books and scrolls collected by their predecessors. But the boldest
+and most ambitious become adventurers, delving into the dungeons and tombs of
+past kingdoms in search of knowledge which has been lost. Wielding secrets
+forgotten for centuries, these loremasters become the most powerful of their
+kind, legends whose deeds will become the subject of study by the annalists of
+the future.
+
+Because of their devotion to study, loremasters receive limited combat training.
+At first level, loremasters hit an unarmored foe (AC 0) with an attack throw of
+10+. They advance in attack throws only two points every *six* levels of
+experience (i.e. half as fast as fighters), though they advance in saving throws
+by two points every four levels (i.e. as clerics). They may only fight with
+quarterstaffs, clubs, daggers, and darts. They are unable to use shields, fight
+with two weapons, or wear any kind of armor. For these reasons, loremasters are
+quite vulnerable to physical danger, and in an adventuring group they should be
+protected.
+
+The books and scrolls of interest to the loremaster are virtually never written
+in the Common tongue so loremasters soon become familiar with even the most
+obscure scripts, codes, and languages. At 1st level, a loremaster may **read
+languages** unfamiliar to them (including ciphers, treasure maps, and dead
+languages, but not magical writings) with a proficiency throw of 5+ on 1d20. If
+the roll does not succeed, the loremaster may not try to read that particular
+piece of writing until he reaches a higher level of experience.
+
+From careful study of ancient annals and legends, loremasters can decipher
+occult mysteries, remember ancient history, identify historic artifacts, and
+similar tasks. At 1st level, a loremaster must make a proficiency throw of 18+
+on 1d20 to succeed in **loremastery**. The proficiency throw for loremastery
+reduces by 1 per level.
+
+Most importantly, the scholarly pursuits of loremasters allow them to **learn
+and perform eldritch ceremonies** in the **theurgical tradition**. A
+loremaster’s selection of ceremonies is limited to the ceremonies in his
+**repertoire**. A loremaster’s repertoire can include a number of eldritch
+ceremonies up to the number and level of ceremonies listed for his level,
+increased by his Intelligence bonus. A loremaster can use any magic items usable
+by mages or clerics, and can make trinkets to aid his performance of ceremonies.
+More information on ceremonial magic, and individual spell descriptions, can be
+found in the Heroic Magic chapter (p. XX).
+
+As they advance in level, loremasters may add new ceremonies to their repertoire
+by visiting an athenaeum or other place of learning (see below) and spending one
+game week per ceremony. Particular athenaeums may only offer particular
+ceremonies at each level, either due to the limitations of their libraries or
+doctrinal beliefs. Loremasters who wish to learn unavailable ceremonies must
+find or research them on their own. The specific ceremonies taught at any given
+athenaeum should be determined by the Judge based on his setting.
+
+As part of his training in ceremonial magic, every loremaster creates a
+**personal talisman** to aid him in performing ceremonies. The loremaster’s
+personal talisman provides a +1 bonus to ceremony throws for ceremonies of one
+particular type. (The loremaster may choose from death & necromancy; detection;
+elemental air; elemental earth; elemental fire; elemental water; enchantment &
+illusion; healing; movement; protection; summoning; and transmogrification).
+When the loremaster advances to 3rd level, his personal talisman can increase
+its bonus by +1 for ceremonies of one particular type (e.g. increase the bonus
+to +2 for the current type or add a bonus of +1 with a new type). When the
+loremaster reaches 11th level, his personal talisman can increase its bonus by
+another +1 for ceremonies of one particular type (e.g. increase a +2 bonus to +3
+for a current type, or increase a +1 bonus to +2 for a current type, or add a
+bonus of +1 with a new type). If desired, the loremaster may increase the bonus
+afforded by, or number of ceremony types covered by, his personal talisman by
+selecting the Personal Talisman proficiency (see p. XX). More information on
+talismans can be found in the Ceremonial Talismans section of the Heroic Magic
+chapter (p. XX).
+
+|Loremaster Level Progression| Loremaster Ceremony Progression
+|:---------------------------|----:
+
+|Experience|Title               |Level|Hit Dice|Special Abilities                             | 1|2|3|4|5|6
+|---------:|:-------------------|----:|-------: |---------------------------------------------:|---:|---:|---:|---:|---:|---:
+|0         |Learner             |1    |1d4      |Loremastery, personal talisman, read languages| 2| \-    | \-    | \-    | \-    | \-    
+|2,000     |Disciple            |2    |2d4      |\-                                            | 3| \-    | \-    | \-    | \-    | \-    
+|4,000     |Scholastic          |3    |3d4      |Personal talisman 2                           | 3| 1     | \-    | \-    | \-    | \-    
+|8,000     |Archivist           |4    |4d4      |\-                                            | 3| 2     | \-    | \-    | \-    | \-    
+|16,000    |Scholar             |5    |5d4      |Magic research (minor)                        | 3| 2     | 1     | \-    | \-    | \-    
+|32,000    |Antiquarian         |6    |6d4      |\-                                            | 3| 3     | 2     | \-    | \-    | \-    
+|65,000    |Annalist            |7    |7d4      |\-                                            | 4| 3     | 2     | 1     | \-    | \-    
+|130,000   |Savant              |8    |8d4      |\-                                            | 4| 3     | 3     | 2     | \-    | \-    
+|230,000   |Loremaster          |9    |9d4      |Athenaeum, magic research                     | 4| 4     | 3     | 2     | 1     | \-    
+|330,000   |Loremaster, 10th lvl|10   |9d4+1\*  |                                              | 4| 4     | 3     | 3     | 2     | \-    
+|430,000   |Loremaster, 11th lvl|11   |9d4+2\*  |Magic research (advanced), personal talisman 3| 5| 4     | 4     | 3     | 2     | 1     
+|530,000   |Loremaster, 12th lvl|12   |9d4+3\*  |\-                                            | 5| 4     | 4     | 3     | 3     | 2     
+|630,000   |Loremaster, 13th lvl|13   |9d4+4\*  |\-                                            | 5| 5     | 4     | 4     | 3     | 2     
+|730,000   |Sage                |14   |9d4+5\*  |\-                                            | 6| 5     | 4     | 4     | 3     | 3     
+
+*\*Hit point modifiers from constitution are ignored*
+
+
+When a loremaster reaches 5th level (Scholar), he may begin to research
+ceremonies, scribe scrolls, brew potions, and make talismans. Loremasters may
+collect and use divine power as clerics in order to fuel their magical research.
+
+When a loremaster reaches 9th level (Loremaster), he is able to create more
+powerful magic items such as weapons, rings, and staffs. A loremaster may also
+build an **athenaeum**, typically a great library, when he reaches 9th level. He
+will then attract 1d6 apprentices of 1st-3rd level plus 2d6 normal men seeking
+to become loremasters. Their intelligence scores will be above average, but many
+will become discouraged from the rigorous mental training and quit after 1d6
+months. While in the loremaster’s service, apprentices must be provided food and
+lodging, but need not be paid wages. If the loremaster builds a **menagerie**
+beneath or near his athenaeum, monsters may be collected therein. Loremaster’s
+athenaeum and menageries are otherwise identical to mages’ sanctums and
+dungeons, as detailed in the **Campaign** chapter of the *ACKS* Rulebook.
+
+At 11th level, a loremaster may create learn and cast ritual eldritch spells of
+great power (7th, 8th, and 9th level), craft magical constructs, and create
+magical cross-breeds. If chaotic, the loremaster may create necromantic servants
+and become undead.
+
+**Loremaster Proficiency List**: Alchemy\*, Battle Magic, Beast Friendship,
+Black Lore of Zahar, Bright Lore of Aura\*, Ceremonial Magic\*, Collegiate
+Wizardry, Contemplation\*, Craft\*, Diplomacy, Elementalism, Elven Bloodline,
+Engineering, Familiar, Farseeing\*, Healing, Knowledge, Magical Engineering,
+Mystic Aura, Naturalism, Personal Talisman\*, Prestidigitation, Prophecy\*,
+Second Sight\*, Sensing Power, Transmogrification, Soothsaying\*, Unflappable
+Casting
+
+_\*Modified or new proficiency described on p. XX._
+
+|Template:                    |Magical Scholar
+|---------------------------- |------
+|**Proficiencies:**           |Magical Engineering, Collegiate Wizardry
+|**Starting&#160;Equipment:** |Well-kept ceremonial codex with **slumber**, rune-etched staff, blue mage’s cassock, leather belt, low boots, backpack, theurgical implements (level 1), quill and ink, 1 week’s iron rations, 55gp
+
+**Magical Scholar:** This pre-generated template represents a curious magical
+scholar from an organized guild of mages. The template is ready for adventure.
+However, if your loremaster’s INT is 13 or greater, you may pick one or more
+additional general proficiencies and starting spells before play if you’d like
+(see **Starting Proficiencies** in Chapter 4 and **Spell Repertoire** in Chapter
+5 of *ACKS*).
+
+#### Loremaster Saving Throws
+
+|Level       |Petrification & Paralysis|Poison & Death|Blast & Breath| Staffs & Wands|Spells
+|:---------- |------------------------:|-------------:|-------------:| -------------:|------:
+|1&#8209;2   |13+                      |10+           |16+           | 13+           |15+   
+|3&#8209;4   |12+                      |9+            |15+           | 12+           |14+   
+|5&#8209;6   |11+                      |8+            |14+           | 11+           |13+   
+|7&#8209;8   |10+                      |7+            |13+           | 10+           |12+   
+|9&#8209;10  |9+                       |6+            |12+           | 9+            |11+   
+|11&#8209;12 |8+                       |5+            |11+           | 8+            |10+   
+|13- 14      |7+                       |4+            |10+           | 7+            |9+    
+
+#### Loremaster Attack Throws
+
+| **Level**  | **Attack Throw**              
+| :----------|---:
+| 1&#8209;3  | 10+                           
+| 4&#8209;6  | 9+                           
+| 7&#8209;9  | 8+
+| 10&#8209;12| 7+                           
+| 13+        | 6+                            
 
 
 ## Demi-Human Classes
@@ -902,13 +1065,13 @@ Nothing is so revered among the dwarven people as craftsmanship. A dwarf's work 
 
 At first level, dwarven craftpriests hit an unarmored foe (AC 0) with an attack throw of 10+. Dwarven craftpriests advance in attack throws and saving throws as clerics, by two points every four levels of experience. Dwarven craftpriests may wear any armor and may use any of the traditional weapons of their people, including the battle axe, great axe, hand axe, flail, mace, morning star, and warhammer. They are trained to fight wielding a weapon and shield or wielding a weapon two-handed, but may not dual wield weapons.
 
-A dwarven craftpriest may turn undead like a cleric. Starting at 2nd level (Craft-Acolyte), a craftpriest may cast divine spells. Craftpriests follow the same spell progression as clerics, use the same rules for learning and casting spells, and select their spells from the same spell list. See the [Spells](Chapter05.md#chapter-5-spells) chapter for details. Because of their religious training, a craftpriest can automatically identify religious symbols, trappings, and holy days of the dwarven faith, and recognizes those of other faiths with a proficiency throw of 8+ on 1d20.
+Starting at 2nd level (Craft-Acolyte), a craftpriests begins to **learn and perform eldritch ceremonies** in the **runic tradition**. The craftpriest’s selection of ceremonies is limited to the ceremonies in his **repertoire**. The number and levels of ceremonies the craftpriest can include in his repertoire is shown on the Craftpriest Ceremony Progression table, but is increased by his Intelligence bonus. Craftpriests can use any magic items usable by mages or clerics. More information on ceremonial magic, and individual spell descriptions, can be found in the Magic chapter (p. XX).
 
-In addition, each dwarven craftpriest is a journeyman in a particular type of craft, such as armor-making, leatherworking, weapon-smithing, etc. With access to craftsman's tools, the character can produce 20gp worth of items per month, and supervise 3 apprentices in his craft. When examining works of his craft, the craftpriest can identify masterwork items, rare materials, and famous artisans with a proficiency throw of 8+ on 1d20. Their attention to detail gives craftpriests a +3 bonus on proficiency rolls for other proficiencies they learn as well.
+Because of their **religious training**, a craftpriest can automatically identify religious symbols, trappings, and holy days of the dwarven faith, and recognizes those of other faiths with a proficiency throw of 8+ on 1d20. In addition, each dwarven craftpriest is a **master in a particular type of craft**, such as armor-making, leatherworking, weapon-smithing, etc. With access to craftsman’s tools, the character can produce 40gp worth of items per month, and supervise 2 journeyman and 4 apprentices in his craft. When examining works of his craft, the craftpriest can identify masterwork items, rare materials, and famous artisans with a proficiency throw of 8+ on 1d20. Their **attention to detail** gives craftpriests a +3 bonus on proficiency rolls for other proficiencies they learn as well.
 
-Dwarves gain a +1 bonus to surprise rolls when underground due to sensitivity to the rock and stone around them. Because of their experience underground, dwarves may detect traps, false walls, hidden construction, or sloped passages with a proficiency throw of 14+ on 1d20. Dwarves must be actively searching for these abilities to function. In addition to these abilities, dwarves are particularly hardy people. The target values for all their saving throws versus Blast/Breath are reduced by 3, while the target values for all their other saving throws are reduced by 4. These adjustments are already factored into the saving throws on the [Dwarven Craftpriest Attack and Saving Throws](Chapter02.md#dwarven-craftpriest-cleric-attack-and-saving-throws) table below. Dwarven characters speak the Common and Dwarvish tongue and, because of their frequent interaction underground with these monsters, also speak Goblin, Gnome, and Kobold.
+Dwarves gain a +1 bonus to surprise rolls when underground due to **sensitivity to the rock and stone** around them. Because of their experience underground, dwarves may **detect traps**, false walls, hidden construction, or sloped passages with a proficiency throw of 14+ on 1d20. Dwarves must be actively searching for these abilities to function. In addition to these abilities, dwarves are particularly **hardy people**. The target values for all their saving throws versus Blast/Breath are reduced by 3, while the target values for all their other saving throws are reduced by 4. These adjustments are already factored into the saving throws on the Dwarven Craftpriest Attack and Saving Throws table below. Dwarven characters speak the Common and Dwarvish tongue and, because of their frequent interaction underground with these monsters, also speak Goblin, Gnome, and Kobold.
 
-Starting at 5th level (Craft-Vicar), a craftpriest may begin to research spells, scribe scrolls, and brew potions. At 9th level (Craft-Lord), he is able to create more powerful magic items such as weapons, rings, and staffs, and craft magical constructs such as golems. At 9th level, he also can construct a vault that will attract dwarves from far and wide. Dwarves of the character's clan will be the first to live under his roof, but dwarves from other clans will also come and live nearby to be ruled by the character. A total of 3d6x10 1st level NPCs of the same race will move in to help maintain and defend the vault at no cost to the character. A Craft-Lord is expected to employ only soldiers of dwarven descent, but may hire members of other races for other tasks. Additional rules for dwarven vaults are detailed in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
+Starting at 5th level (Craft-Vicar), a craftpriest may begin to research spells, scribe scrolls, and brew potions. At 9th level (Craft-Lord), he is able to create more powerful magic items such as weapons, rings, and staffs, and craft magical constructs such as golems. At 9th level, he also can construct a **vault** that will attract dwarves from far and wide. Dwarves of the character’s clan will be the first to live under his roof, but dwarves from other clans will also come and live nearby to be ruled by the character. A total of 3d6x10 1st level NPCs of the same race will move in to help maintain and defend the vault at no cost to the character. A Craft-Lord is expected to employ only soldiers of dwarven descent, but may hire members of other races for other tasks. Additional rules for dwarven vaults are detailed in the **Campaign** chapter.
 
 
 
