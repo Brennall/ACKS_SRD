@@ -364,7 +364,7 @@ This pre-generated template represents a wandering minstrel with magic in his so
 |    14 |              3+ |          5+
     
 
-## Human Chosen
+### Human Chosen
 
 | Prime Requisite: | Lowest ability score
 | :--------------- | :----------
