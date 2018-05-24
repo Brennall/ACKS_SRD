@@ -589,18 +589,12 @@ This pre-generated template represents a keen-eyed archer and tracker. The templ
 
 ## Freebooter
 
-*They lived by thievery, robbery, bodyguarding, brief commissions as couriers
-and agents—commissions they always, or almost always, fulfilled
-punctiliously—and by showmanship, the Mouser entertaining by legerdemain,
-juggling, and buffoonery, while Fafhrd with his gift for tongues and training as
-a singing skald excelled at minstrelsy. They never worked as cooks, clerks,
-carpenters, tree-fellers, or common servants...* – The Circle Curse, in Swords
-Against Death (Fritz Leiber)
 
-Prime Requisite: DEX (plus one ability score determined by path)  
-Requirements: None  
-Hit Dice: 1d4  
-Maximum Level: 14
+| Prime Requisite: | DEX (plus one ability score determined by path)
+| :--------------- | :----------
+| Requirements:    | None
+| Hit Dice:        | 1d4
+| Maximum Level:   | 14
 
 Freebooters are a motley assortment of adventurers who live and die for plunder.
 Some freebooters are dauntless expeditionaries who raid tombs for ancient
@@ -675,7 +669,7 @@ in four thief skills, and grants five bonus proficiencies. Note that each path
 has its own prime requisite in addition to DEX.
 
 |Path         | Description
-|-------------|---
+|:------------|:---
 |Expeditionary| A looter of tombs and a delver of dungeons, skilled in scouting, trap-finding, and lock-picking.
 |Ruffian      | A cut-throat and killer, skilled in breaking and entering, robbery, and intimidation.
 |Scoundrel    | A gentleman thief, skilled in subterfuge and disguise.
@@ -790,10 +784,10 @@ Sniping, Swashbuckling, Trap Finding, Weapon Finesse, Weapon Focus\*
 
 _\*Modified or new proficiency described on p. XX._
 
-| **Template:**           | Spelunker (Expeditionary path)                                                                                                                                                                                                                                                                                                                             |
-|---|---|
-| **Proficiencies:**      | Mountaineering, Caving                                                                                                                                                                                                                                                                                                                                     |
-| **Starting&#160;Equipment:** | Crossbow, case with 20 bolts, 10’ pole, short sword, 2 throwing daggers, sturdy leather armor, tanned brown cloak, thick tunic and pants, leather belt, low boots, backpack, 2 large treasure sacks, thieves’ tools, grappling hook, 50’ rope, tinderbox, lantern, small hammer, 12 iron spikes, 2 flasks of military oil, wineskin, 2 weeks’ iron rations |
+| Template:                    | Spelunker (Expeditionary path)
+| :--------------------------- |:---
+| **Proficiencies:**           | Mountaineering, Caving
+| **Starting&#160;Equipment:** | Crossbow, case with 20 bolts, 10’ pole, short sword, 2 throwing daggers, sturdy leather armor, tanned brown cloak, thick tunic and pants, leather belt, low boots, backpack, 2 large treasure sacks, thieves’ tools, grappling hook, 50’ rope, tinderbox, lantern, small hammer, 12 iron spikes, 2 flasks of military oil, wineskin, 2 weeks’ iron rations
 
 **Spelunker Template:** This pre-generated template represents a brave
 spelunker, expert in delving into the deepest caves and caverns. The template is
@@ -832,8 +826,6 @@ pick one or more additional general proficiencies before play if you’d like (s
 
 
 ## Demi-Human Classes
-
-
 ### Dwarven Vaultguard
 
 | Prime Requisite: | STR
