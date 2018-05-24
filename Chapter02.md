@@ -269,9 +269,6 @@ This pre-generated template represents a bold tomb raider. The template is ready
 
 *-1 penalty on the proficiency throw per each level the thief is lower than the victim.
 
-
-## Campaign Classes
-
 ### Bard
 
 | Prime Requisite: | DEX and CHA
@@ -986,8 +983,150 @@ additional general proficiencies and starting spells before play if you’d like
 | 10&#8209;12| 7+                           
 | 13+        | 6+                            
 
+### Venturer 
 
-## Demi-Human Classes
+| Prime Requisite: | CHA
+| :--------------- | :----------
+| Requirements:    | None
+| Hit Dice:        | 1d6
+| Maximum Level:   | 14
+
+Commerce is the great wheel upon which the world turns. From the fleshy fingers
+of slave traders to jewel-clad guild masters, the coin and commodities of the
+empire are controlled by merchants. But if the stereotypical merchant is a
+pot-bellied financier profiting from the work of others, the venturer is his
+opposite: An adventurous world traveler, he personally leads caravans into
+unknown lands, seeking out exotic goods and new markets. Every venturer is, by
+definition, an adventurer, and interested in any expedition that promises riches
+and reward.
+
+##### Venturer Level Progression
+
+|Experience|Level|Title                      |Hit Dice
+|---------:|----:|:--------------------------|----------:
+|0         |1    |Tinker                     |1d4        
+|1,250     |2    |Trader                     |2d4        
+|2,500     |3    |Arbitrager                 |3d4        
+|5,000     |4    |Commissary                 |4d4        
+|10,000    |5    |Mercantilist               |5d4        
+|20,000    |6    |Enterpriser                |6d4        
+|40,000    |7    |Venturer                   |7d4        
+|80,000    |8    |Merchant Venturer          |8d4        
+|180,000   |9    |Merchant Prince            |9d4        
+|280,000   |10   |Merchant Prince, 10th level|9d4+2\*    
+|380,000   |11   |Merchant Prince, 11th level|9d4+4\*    
+|480,000   |12   |Merchant Prince, 12th level|9d4+6\*    
+|580,000   |13   |Merchant Prince, 13th level|9d4+8\*    
+|680,000   |14   |Mogul                      |9d4+10\*   
+
+_\*Hit point modifiers from constitution are ignored_
+
+Venturers are trained combatants, although not as skilled as fighters. At first
+level, venturers hit an unarmored foe (AC 0) with an attack throw of 10+. They
+advance in attack throws and saving throws by two points every *four* levels of
+experience (i.e. the same as thieves). They may use any missile weapons and any
+one-handed melee weapons. They can fight with a shield or with a weapon in each
+hand, but cannot fight two-handed. Venturers prefer to stay mobile and cannot
+wear armor heavier than chainmail.
+
+The business of venturers is business, and their devotion to trade and profit
+yields them many special abilities. Foremost among these is the **mercantile
+network** of contacts, fences, and peddlers that venturers build through their
+travels. Whenever venturers buy and sell equipment, hire retainers, and engage
+in mercantile ventures in a market they have previously visited, they treat the
+market as if it were one market class larger than its actual size. (Class I
+markets remain Class I markets.)
+
+EXAMPLE: Cain, a 5th level venturer, is in Cyfaraun (a Class IV market). He
+wishes to purchase a heavy warhorse (700gp). According to the Equipment
+Availability by Market Class table, there is only a 25% chance for 1 heavy
+warhorse to be available in a Class IV market. However, Cain has visited
+Cyfaraun before, so he may treat it as a Class III market. There is a 100%
+chance for 1 heavy warhorse available in a Class III market, so Cain is able to
+purchase the heavy warhorse. His party members shake their heads in amazement
+that he’s found such a fine steed in an outpost town. “I know people,” he
+explains.
+
+Venturers are **expert bargainers** who get the best deals available for goods,
+services, and information. Any items the venturer purchases cost 10% less than
+the listed price and any items he sells go for 10% more than the listed price
+(as per the Bargaining proficiency). If trading with another venturer, or a
+character with the Bargaining proficiency, the opposed bargainers should make
+reaction rolls. Whichever character scores the higher result gets the discount.
+A venturer may select Bargaining proficiency to improve his skills. Each time
+the proficiency is selected, the character receives a +2 bonus on his reaction
+roll when negotiating with other bargainers.
+
+Venturers know that business empires can rise and fall on information, so they
+learn to keep their ears open at all times. All venturers can **hear noises** as
+thieves of their level.
+
+They likewise become conversant in the tongues of their trading partners.
+Venturers begin play with four **bonus languages** selected from among those in
+common use in the campaign setting (Judge’s discretion). Venturers are also
+experts in **reading languages***.* On a proficiency throw of 5+ on 1d20, the
+venturer can decipher a document (including ciphers, treasure maps, and dead
+languages, but not magical writings). If the roll does not succeed, the venturer
+may not try to read that particular piece of writing until he reaches a higher
+level of experience.
+
+While most merchants consider risk a financial term, venturers lead their own
+caravans or fleets, and do so with considerable skill. As **expert**
+t**ravelers**, venturers begin play with Riding or Seafaring proficiency (their
+choice). Any time the venturer’s party is in terrain familiar to the venturer,
+they get a +4 bonus on proficiency throws to **avoid getting lost**.
+
+In order to open new markets and establish trade with unknown tribes, venturers
+study **diplomacy**. They receive a +2 bonus on all reaction rolls when they
+attempt to parley with intelligent creatures (as per the Diplomacy proficiency).
+Of course, not every market obeys the rule of law, so venturers also become
+exceptionally skilled at the art of **bribery**. Offering a bribe permits an
+additional reaction roll during encounters, with the throw modified by the size
+of the bribe. As a general rule, a bribe equal to one day’s pay for the target
+provides a +1 bonus, a week’s pay provides a +2 bonus, and a month’s pay
+provides a +3 bonus. Only one bribe can be attempted per target in any given
+situation.
+
+When a venturer attains 9th level (Merchant Prince), he can establish a
+**guildhouse**, and 2d6 venturer apprentices of 1st level will offer to work for
+him. If hired, they must be paid standard rates for ruffians. Many venturers use
+these followers to start a syndicate, expanding their wealth through legitimate
+and illegitimate channels. Except as noted, a venturer’s guildhouse follows the
+rules for hideouts detailed in the **Hideouts & Hijinks** section of Chapter 7
+of *ACKS.*
+
+**Venturer Proficiency List:** Alertness, Ambushing, Arcane Dabbling\*,
+Bargaining, Climbing, Combat Reflexes, Combat Trickery (disarm, incapacitate),
+Command, Gambling, Intimidation, Language, Leadership, Lip Reading, Magical
+Engineering, Mapping, Mountaineering, Navigation, Passing Without Trace, Precise
+Shooting, Profession, Riding, Running, Seafaring, Signaling, Skirmishing,
+Swashbuckling, Weapon Finesse
+
+_\*Modified or new proficiency described on p. XX._
+
+|Template:               | Merchant Traveler 
+|:-----------------------|:---
+|Proficiencies:          | Alertness, Navigation
+|Starting&#160;Equipment:| Crossbow, case with 20 bolts, short sword, 2 throwing daggers, sturdy leather armor, tanned brown cloak, thick tunic and pants, leather belt, low boots, backpack, 2 large treasure sacks, 50’ rope, tinderbox, lantern, small hammer, 12 iron spikes, 2 flasks of military oil, wineskin, 2 weeks’ iron rations, 3gp
+
+**Merchant Traveler Template:** This pre-generated template represents a
+merchant traveler focused on long-distance trade. The Template is ready for
+adventure. However, if your venturer’s INT is 13 or greater, you may pick one or
+more additional general proficiencies before play if you’d like (see **Starting
+Proficiencies** in Chapter 4 of *ACKS*).
+
+##### Venturer Attack and Saving Throws
+
+|Level      |Petrification & Paralysis|Poison & Death|Blast & Breath|Staffs & Wands|Spells|Attack Throw
+|:----------|------------------------:|-------------:|-------------:|-------------:|-----:|------------:
+|1&#8209;2  |13+                      |13+           |16+           |14+           |15+   |10+         
+|3&#8209;4  |12+                      |12+           |15+           |13+           |14+   |9+          
+|5&#8209;6  |11+                      |11+           |14+           |12+           |13+   |8+          
+|7&#8209;8  |10+                      |10+           |13+           |11+           |12+   |7+          
+|9&#8209;10 |9+                       |9+            |12+           |10+           |11+   |6+          
+|11&#8209;12|8+                       |8+            |11+           |9+            |10+   |5+          
+|13&#8209;14|7+                       |7+            |10+           |8+            |9+    |4+          
+
 ### Dwarven Vaultguard
 
 | Prime Requisite: | STR
@@ -1110,6 +1249,68 @@ This pre-generated template represents a craftpriest focused on reclaiming lost 
 | 5-6   |                        7+ |             4+ |            11+ |             7+ |     9+ |           8+
 | 7-8   |                        6+ |             3+ |            10+ |             6+ |     8+ |           7+
 | 9-10  |                        5+ |             2+ |             9+ |             5+ |     7+ |           6+
+
+
+#### Dwarven Delver
+
+| Prime Requisite: | DEX
+| :--------------- | :----
+| Requirements:    | CON 9
+| Hit Dice:        | 1d6
+| Maximum Level:   | 11
+
+Deep into Middle Earth the dwarves have delved, there discovering labyrinthine caverns and winding tunnels stretching hundreds and perhaps thousands of miles under the earth. Even the most exhaustive of dwarven maps has charted only a fraction of these tunnels, and most have never been trod by dwarven boots. The dwarven delver is one of the brave few dwarves that explore and map these sepulchral lands, so far from the warm forges of home. Confronted by the perils of cave-ins, beastmen, and dark threats unknown to the light of day, few delvers survive their first expedition. This only adds to the renown of those who do, attracting a new generation of foolhardy young dwarves to the perils of the darkness below.
+
+Dwarven delvers are able combatants. Like thieves, they advance in attack throws and saving throws by two points every *four* levels of experience. At first level, delvers hit an unarmored foe (AC 0) with an attack throw of 10+. They may fight wielding a weapon in either hand or a wielding a weapon two-handed, but cannot use shields. Valuing mobility and stealth over the false security of heavy armor, delvers wear only leather armor or lighter. They are trained to fight with all missile weapons and all axes, hammers, flails, and maces. They may use any magic item usable by thieves.
+
+##### Dwarven Delver Level Progression
+
+|Experience|Title                      |Level|Hit Dice|Hide in Shadows|Move Silently|Climb Walls|Find Traps|Hear Noises|Back Stab|
+|---------:|:--------------------------|----:|-------:|--------------:|------------:|----------:|---------:|----------:|--------:|
+|0         |Dwarven Caver              |1    |1d6     |17+            |15+          |4+         |14+       |12+        |x2       |
+|2,000     |Dwarven Tunneler           |2    |2d6     |16+            |14+          |3+         |14+       |11+        |x2       |
+|4,000     |Dwarven Excavator          |3    |3d6     |15+            |13+          |3+         |14+       |10+        |x2       |
+|8,000     |Dwarven Undertrekker       |4    |4d6     |14+            |12+          |2+         |13+       |9+         |x2       |
+|16,000    |Dwarven Spelunker          |5    |5d6     |13+            |11+          |2+         |12+       |8+         |x3       |
+|32,000    |Dwarven Expeditionary      |6    |6d6     |12+            |10+          |2+         |11+       |7+         |x3       |
+|65,000    |Dwarven Pathfinder         |7    |7d6     |10+            |8+           |1+         |9+        |5+         |x3       |
+|130,000   |Dwarven Delver             |8    |8d6     |8+             |6+           |1+         |7+        |4+         |x3       |
+|260,000   |Dwarven Pioneer            |9    |9d6     |6+             |4+           |1+         |5+        |3+         |x4       |
+|390,000   |Dwarven Pioneer, 10th level|10   |9d6+3\* |4+             |2+           |1+         |3+        |2+         |x4       |
+|520,000   |Dwarven Pioneer, 11th level|11   |9d6+6\* |2+             |1+           |1+         |1+        |1+         |x4       |
+_\*Hit point modifiers from constitution are ignored_
+
+Dwarven delvers have several skills in common with the class of thieves, although these skills are not commonly employed for criminal enterprises. Because dwarven delvers prefer to evade foes where possible, they learn to **hide in shadows** and **move silently**. Chasms, sinkholes, and chimneys abound in the subterranean world, so every delver also learns **climb walls**. Decades of training in lightless environments teach delvers to **hear noises** that others miss. Subterranean dwellers are notorious for creating deadfalls, pits, and snares to capture or kill unwary trespassers, so dwarven delvers become expert at **finding traps**. (Unlike thieves, delvers generally avoid or bypass traps, and have no skill at disarming them.) Finally, a dwarven delver who catches an opponent unaware of his presence, either by surprise or by moving silently and/or hiding in shadows, may **backstab***.* When backstabbing, the delver receives an attack bonus of +4 and, if successful, deals additional damage for every four levels he has attained. The Dwarven Delver Level Progression table shows the target values by level for their thief skills.
+
+By necessity, all dwarven delver are **expert cavers**, able to keep maps in their heads of where they are when exploring underground caves, cavern complexes, and rivers. On a proficiency throw of 9+, a delver will be able to automatically know the route he has taken to get where he is, if he was conscious at the time.
+
+Dwarven delvers gain a +1 bonus on all surprise rolls when underground due to **sensitivity to the rock and stone** around them. When underground a delver can **detect false walls**, **hidden construction**, **or sloped passages** with a proficiency throw of 14+ on 1d20, if actively searching.
+
+Like all dwarves, delvers are **hardy people**. The target values for all their saving throws versus Blast/Breath are reduced by 3, while the target values for all their other saving throws are reduced by 4. These adjustments are already factored into the saving throws on the Dwarven Delver Attack and Saving Throws table below. Dwarven delvers will speak the Common and Dwarvish tongue and, because of their frequent interaction underground with these monsters, will also speak Goblin, Gnome, and Kobold.
+
+When a dwarven delver reaches 9th level (Dwarven Pioneer), his reputation is such that he can attract dwarves from far and wide by constructing a new underground **vault** in an unsettled region. Dwarves usually live in clans, so dwarves of the character’s clan will be the first to live under his roof, but dwarves from other clans will also come and live nearby to be ruled by the character. A total of 3d6x10 1st level NPCs of the same race will move in to help maintain and defend the vault at no cost to the character. A dwarven delver is expected to employ only soldiers of dwarven descent, but may hire members of other races for other tasks. A delver’s vault follows all the rules for dwarven vaults detailed in the **Dwarven Vaults** section of Chapter 7 of *ACKS.*
+
+**Dwarven Delver Proficiency List:** Acrobatics, Alertness, Blind-Fighting, Cat Burglary, Combat Reflexes, Combat Trickery (disarm, knock down), Contortionism, Dungeon Bashing, Engineering, Fighting Style, Goblin-Slaying, Illusion Resistance, Mapping, Mountaineering, Navigation, Precise Shooting, Running, Siege Engineering, Signaling, Skirmishing, Skulking, Sniping, Survival, Swashbuckling, Tracking, Trap Finding, Trapping, Vermin Slaying\*, Weapon Finesse, Weapon Focus
+
+_\*New proficiencies described in Chapter 6._
+
+|Template:           | Tunnel Runner
+|:------------------ |:----
+|Proficiencies:      | Running, Mapping
+|Starting Equipment: | Crossbow, case with 20 bolts, 10’ pole, battle axe, 2 hand axes, sturdy leather armor, tanned brown cloak, thick tunic and pants, leather belt, low boots, backpack, 2 large sacks, 50’ rope, tinderbox, lantern, small hammer, 12 iron spikes, 2 flasks of military oil, wineskin, 2 weeks’ iron rations, 1gp
+
+**Tunnel Runner Template:** This pre-generated template represents a highly mobile dwarven tunnel runner, skilled at scouting and maneuver in the underdark. The template is ready for adventure. However, if your delver’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see **Starting Proficiencies** in Chapter 4 of *ACKS*).
+
+#### Dwarven Delver Attack and Saving Throws
+ 
+|Level|Petrification & Paralysis|Poison & Death|Blast & Breath|Staffs & Wands|Spells|Attack Throw
+|:----|------------------------:|-------------:|-------------:|-------------:|-----:|------------:
+|1-2  |9+                       |9+            |13+           |10+           |11+   |10+         
+|3-4  |8+                       |8+            |12+           |9+            |10+   |9+          
+|5-6  |7+                       |7+            |11+           |8+            |9+    |8+          
+|7-8  |6+                       |6+            |10+           |7+            |8+    |7+          
+|9-10 |5+                       |5+            |9+            |6+            |7+    |6+          
+|11   |4+                       |4+            |8+            |5+            |6+    |5+          
 
 
 ## Alignment
