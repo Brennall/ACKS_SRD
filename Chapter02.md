@@ -1127,6 +1127,163 @@ Proficiencies** in Chapter 4 of *ACKS*).
 |11&#8209;12|8+                       |8+            |11+           |9+            |10+   |5+          
 |13&#8209;14|7+                       |7+            |10+           |8+            |9+    |4+          
 
+### Witch
+
+| Prime Requisite: | WIS and CHA
+| :--------------- | :----------
+| Requirements:    | None
+| Hit Dice:        | 1d4
+| Maximum Level:   | 14
+
+The ignorant will often refer to any female spellcaster as a witch. Actual witches, however, are practitioners of a distinct craft of magic. Like priestesses and shamans, witches invoke ceremonial eldritch magic, but they do not organize into communities of faith nor do they dedicate themselves to the service of their gods or goddesses. Rather, the relationship of a witch to her divine patron is that of student to teacher, rooted in ancient pacts and secretive traditions. The witch seeks to gain personal knowledge and strength by accepting the guidance and patronage of ancient powers. This quest for knowledge and power often drives witches to become adventurers.
+
+|Witch Level Progression|Witch Spell Progression
+|:----------------------|-------------------------:
+
+|Experience|Title            |Level|Hit Dice|   |1|2 |3 |4 |5 |6
+|----------|-----------------|-----|--------|---|-|--|--|--|--|--
+|0         |Initiate         |1    |1d4     |   |2|\-|\-|\-|\-|\-
+|2,000     |Seeress          |2    |2d4     |   |3|\-|\-|\-|\-|\-
+|4,000     |Siren            |3    |3d4     |   |3|1 |\-|\-|\-|\-
+|8,000     |Pythoness        |4    |4d4     |   |3|2 |\-|\-|\-|\-
+|16,000    |Sibyl            |5    |5d4     |   |3|2 |1 |\-|\-|\-
+|32,000    |Enchantress      |6    |6d4     |   |3|3 |2 |\-|\-|\-
+|65,000    |Sorceress        |7    |7d4     |   |4|3 |2 |1 |\-|\-
+|130,000   |Incantrix        |8    |8d4     |   |4|3 |3 |2 |\-|\-
+|230,000   |Witch            |9    |9d4     |   |4|4 |3 |2 |1 |\-
+|430,000   |Witch, 11th level|11   |9d4+2\* |   |5|4 |3 |3 |2 |\-
+|330,000   |Witch, 10th level|10   |9d4+1\* |   |4|4 |4 |3 |2 |1
+|530,000   |Witch, 12th level|12   |9d4+3\* |   |5|4 |4 |3 |3 |2
+|630,000   |Witch, 13th level|13   |9d4+4\* |   |5|5 |4 |4 |3 |2
+|730,000   |Witch Queen      |14   |9d4+5\* |   |6|5 |4 |4 |3 |3
+
+
+_\*Hit point modifiers from constitution are ignored_
+
+Witches are viewed with deep suspicion by the most priests, but many rural villages nevertheless have a wise woman with some skill in witchcraft. Witches are fairly common in Dunland and the surrounding lands, each of which has flourishing traditions of witchcraft.
+
+Witches receive little combat training. At first level, witches hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws only two points every *six* levels of experience (i.e. the same as mages), but they advance in saving throws by two points every *four* levels of experience (i.e. as clerics). They may only fight with clubs, daggers, darts, or staffs. They are unable to use shields, fight with two weapons, or wear any kind of armor. 
+
+Starting at 1st level, a witch begins to **learn and perform eldritch ceremonies** in the ceremonial magic tradition which equates to their tradition of witchcraft. The witch’s selection of ceremonies is limited to the ceremonies in her **repertoire**. The number and levels of ceremonies the witch can include in her repertoire is shown on the Witch Ceremony Progression table, but is increased by her Intelligence bonus. Witches can use any magic items usable by mages or clerics. More information on ceremonial magic, and individual spell descriptions, can be found in the Magic chapter (p. XX).
+
+As part of her studies in eldritch ceremonial magic, every witch creates a **personal talisman** to aid her in performing ceremonies. The witch’s personal talisman provides a +1 bonus to ceremony throws for ceremonies of one particular type. When the witch advances to 3rd level, her personal talisman can increase its bonus by +1 for ceremonies of one particular type (e.g. increase the bonus to +2 for the current type). When the witch reaches 11th level, her personal talisman can increase its bonus by another +1 for ceremonies of one particular type (e.g. increase a +2 bonus to +3 for a current type, or increase a +1 bonus to +2 for a current type, or add a bonus of +1 with a new type). If desired, the witch may increase the bonus afforded by or number of ceremony types covered by her personal talisman by selecting the Personal Talisman proficiency (see p. XX). More information on talismans can be found in the Ceremonial Talismans section of the Heroic Magic chapter (p. XX). 
+
+When a witch reaches 3rd level (Siren), she may begin to brew potions. When a witch reaches 5th level (Sibyl), she is able to research spells. Upon reaching 7th level (Sorceress), she may scribe magical scrolls. At 9th level (Witch), she is able to create more powerful magic items such as weapons, rings, and staffs. At 11th level, a witch may learn and cast ritual divine spells of great power (6th and 7th level) and craft magical constructs. Witches perform such magic research as clerics of their level.
+
+Every witch must belong to a **tradition**, which defines her approach to the magic and her relationship with the gods and spirits that are her source of power. When a witch is created, select a tradition for the character from the Tradition table below, and write down the powers of the tradition. Each also provides a special ability at 1st, 3rd, 5th, and 7th level.
+
+Different traditions are practiced in different countries, the table below shows all the potential choices available.
+
+|Tradition  | Region                                              |Description
+|:----------| :---------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------
+|Antiquarian| Dunland, Hendrica, Mycernia, ~~Wefterna~~, ~~Jerez~~| Wise women who focus on healing and beneficial potions, they practice their traditional craft wherever rural human settlements may be found.
+|Chthonic   | ~~Shadowmire~~, ~~Far&#160;Isles~~,                 | Malefic practitioners who consort with the darkest of powers, reveling in the seduction and corruption of the innocent.                     
+|Sylvan     | ~~Acernai&#160;Tribes~~, ~~Viccada~~                | Reclusive witches who travel the borderlands between human settlements and fey forests.
+|Voudon     | ~~Viccada~~, ~~Anduria~~, ~~Far&#160;Isles~~        | Tribal witches who barter with ancestral spirits and animistic powers to gain power over the living and the dead.                            
+
+\* Struck through lands are not available to players yet.
+
+#### Antiquarian Witch
+
+1st level: With simple herbs and medicinal folklore, the antiquarian witch
+learns to treat ailments and injuries. The witch gains one rank of the
+**Healing** proficiency.
+
+3rd level: The antiquarian witch knows much that has been lost about the healing
+arts. She gains the power to **cure moderate wounds** by touch once every 8
+hours. Each use takes 1 turn (10 minutes).
+
+5th level: The antiquarian witch expands her knowledge of herbs and brews into
+truly arcane formulations. She gains one rank of Alchemy proficiency.
+
+7th level: Poisons are much studied and little feared by the antiquarian witch.
+She gains the power to **neutralize poison** once per day. Each use takes 1 turn
+(10 minutes).
+
+#### Chthonic Witch
+
+1st level: The chthonic witch learns depraved arts of pleasure from the dark
+powers. She gains the **Seduction** proficiency.
+
+3rd level: The mysteries of death are unlocked for the chthonic witch. She gains
+the **Black Lore of Zahar** proficiency.
+
+5th level: Few can resist the chthonic witch’s ravishing glamour. The witch
+gains the **Mystic Aura** proficiency.
+
+7th level: With dark whispers the chthonic witch can dominate the weak-willed.
+The witch gains the power to **charm person** once per day. Each use takes 1
+round (10 seconds).
+
+#### Sylvan Witch
+
+1st level: From long years in the company of wild and fey things, the sylvan
+witch gains the **Beast Friendship** proficiency.
+
+3rd level: Through fey glamours and bewitching dweomers, the witch can appear
+however she desires. She gains the power to **change shape** (as a warlock) once per day. Each use takes 1 turn (10 minutes).
+
+5th level: The sylvan witch becomes one with the forests around her. She gains
+the **Passing Without Trace** proficiency.
+
+7th level: No longer bound by the humanoid form, the sylvan witch can take on
+fantastical shapes. The witch gains the power to **polymorph self** once per
+week. Each use takes 1 turn (10 minutes).
+
+#### Voudon Witch
+
+1st level: The witch gains a **Craft** proficiency of her choice. Voudon witches craft a wide variety of symbols and talismans to be used when casting their spells, with individual witches choosing a single craft with which to make their talismans.
+
+3rd level: The witch has learned **grey lore**, straddling darkness and light. She gains the ability to turn undead as a cleric of one half her class level. When the witch casts spells that inflict fear effects (such as **cause fear**), the spell effects are calculated as if she were two class levels higher than her actual level of experience, and are resisted with a -2 penalty on the saving throw.
+
+5th level: Through ecstatic dancing, wild drumming, chanting, and intoxicating smoke, the voudon witch can regain her strength. She may **perform spiritual rituals** as a shaman. 
+
+7th level: The voudon witch’s evil eye can bewitch and deceive. She gains **mastery of charms and illusions**, identical to that of an elven enchanter. 
+
+Upon attaining 9th level (Witch), a witch of any tradition may establish a **coven**, usually in a remote and desolate location. If she does so, he will attract 1d6 apprentices of her tradition between 1st-3rd level plus 2d6 normal women seeking to become witches. Their Wisdom scores will be above average, but many will become fearful of the sacrifices involved and quit after 1d6 months. While in the witch’s service, apprentices must be provided food and lodging, but need not be paid wages. If the witch builds a **dungeon** beneath or near her coven, monsters will start to arrive to dwell within, followed shortly by adventurers seeking to fight them. Witches’ covens are otherwise identical to mages’ sanctums, as detailed in the **Campaign** chapter of the *ACKS* Rulebook.
+
+**Witch Proficiency List:** Alchemy, Apostasy, Arcane Dabbling, Beast
+Friendship, Black Lore of Zahar, Contemplation, Craft, Divine Blessing, Divine
+Health, Elementalism, Elven Bloodline, Familiar, Healing, Illusion Resistance,
+Laying on Hands, Loremastery, Magical Engineering, Magical Music, Mystic Aura,
+Naturalism, Prestidigitation, Prophecy, Quiet Magic, Seduction, Sensing Power,
+Theology, Transmogrification, Unflappable Casting
+
+|Template:          |Village Witch
+|:------------------|:---
+|Proficiencies:     | Laying on Hands Healing *Healing 2*
+|Starting Equipment:| Holy symbol (pair of horns around lunar disc), slender oak staff, freeholder’s dress, leather belt, leather shoes, backpack, 1lb birthwort, 2lb comfrey, 1lb goldenrod, 1lb woundwort, 5 scented wax candles, flask of holy water, 2 weeks’ iron rations, 7gp 
+
+**Village Witch Template:** This pre-generated template represents a rural witch
+from the antiquarian tradition. The template is ready for adventure. However, if
+your witch’s INT is 13 or greater, you may pick one or more additional general
+proficiencies before play if you’d like (see **Starting Proficiencies** in
+Chapter 4 of *ACKS*).
+
+#### Witch Saving Throws
+
+|Level      |Petrification & Paralysis|Poison & Death|Blast & Breath|Staffs & Wands|Spells
+|:----------|------------------------:|-------------:|-------------:|-------------:|-----:
+|1&#8209;2  |13+                      |10+           |16+           |13+           |15+   
+|3&#8209;4  |12+                      |9+            |15+           |12+           |14+   
+|5&#8209;6  |11+                      |8+            |14+           |11+           |13+   
+|7&#8209;8  |10+                      |7+            |13+           |10+           |12+   
+|9&#8209;10 |9+                       |6+            |12+           |9+            |11+   
+|11&#8209;12|8+                       |5+            |11+           |8+            |10+   
+|13&#8209;14|7+                       |4+            |10+           |7+            |9+    
+
+
+#### Witch Attack Throws
+
+|Level|Attack Throw
+|:----|---:
+|1-3  |10+                   
+|4-6  |9+                     
+|7-9  |8+                     
+|10-12|7+                   
+|13-14|6+                   
+
+
 ### Dwarven Vaultguard
 
 | Prime Requisite: | STR
