@@ -1,25 +1,24 @@
 # Chapter 2: Characters
 
-
 ## Creating a Character
 
 You've taken the first step on your adventure, but you are still a 0th level human. Don't despair, because you become 1st level when you create your first character, and progress from there! To create a character, follow the nine steps below:
 
 1. Start with a fresh character sheet. You can copy the one provided in this book, download and print one, or reproduce it by hand on a piece of paper. If all else fails, just scribble down notes on scratch paper!
 
-2. Roll 3d6 in order for your character's ability scores, as described below under Character Abilities, and write the results after the names of the abilities. Write down the ability score bonus or penalty for each score, as shown on the [Ability Score](Chapter02.md#ability-score) table.
+2. Roll 3d6 in order for your character's ability scores, as described below under Character Abilities, and write the results after the names of the abilities. Write down the ability score bonus or penalty for each score, as shown on the Ability Score table.
 
-3. Choose a class which suits your character's abilities from the [Character Classes](Chapter02.md#character-classes) section. All classes have prime requisites, and some classes require minimum scores for some abilities. If abilities are not quite high enough for the class you would like to play, see [Classes and Ability Scores](Chapter02.md#classes-and-ability-scores) for some options to adjust your scores. Write down the special abilities of your class, as described for each class.
+3. Choose a class which suits your character's abilities from the Character Classes section. All classes have prime requisites, and some classes require minimum scores for some abilities. If abilities are not quite high enough for the class you would like to play, see Classes and Ability Scores for some options to adjust your scores. Write down the special abilities of your class, as described for each class.
 
-4. Note on your character sheet that your character has zero (0) experience points (or XP); you may also want to note the number needed to advance to second level, as shown in the table for your class. Gaining experience points is explained in the [Adventures](Chapter06.md#chapter-6-adventures) and [Campaigns](Chapter07.md#chapter-7-campaigns) chapters.
+4. Note on your character sheet that your character has zero (0) experience points (or XP); you may also want to note the number needed to advance to second level, as shown in the table for your class. Gaining experience points is explained in the Adventures and Campaigns chapters.
 
 5. Roll hit points (hp) using the appropriate die for your class, adding your Constitution bonus or penalty, and note the result as your hit points on your character sheet. If your character has a Constitution penalty, the penalty will not lower any Hit Die roll below 1. (At your Judge's discretion, you may begin with the maximum hit points for 1st level.)
 
-6. Record your character's attack throws and saving throws on your character sheet. Attack throws and saving throws are listed with each class, and described fully in the [Adventures](Chapter06.md#chapter-6-adventures) chapter. Note that attacks with melee weapons are modified by your Strength, while missile weapons such as bows or thrown daggers are modified by Dexterity. Don't forget to adjust your attack throws to reflect these modifiers.
+6. Record your character's attack throws and saving throws on your character sheet. Attack throws and saving throws are listed with each class, and described fully in the Adventures chapter. Note that attacks with melee weapons are modified by your Strength, while missile weapons such as bows or thrown daggers are modified by Dexterity. Don't forget to adjust your attack throws to reflect these modifiers.
 
-7. Choose your character's starting proficiencies from the [Proficiencies](Chapter04.md#chapter-4-proficiencies) chapter. Apply any modifiers to your ability scores, hit points, attack throws, or saving throws from proficiencies. If you have chosen to play a mage or elven spellsword, roll for your starting spells, as described in the [Spells](Chapter05.md#chapter-5-spells) chapter.
+7. Choose your character's starting proficiencies from the Proficiencies chapter. Apply any modifiers to your ability scores, hit points, attack throws, or saving throws from proficiencies. If you have chosen to play a mage or elven spellsword, roll for your starting spells, as described in the Spells chapter.
 
-8. Generate your character's starting wealth by rolling 3d6x10 gold pieces (gp) and purchase equipment for your character from the lists in the [Equipment](Chapter03.md#chapter-3-equipment) chapter. Write your purchases on your character sheet, and note how much money remains afterward. Make sure you understand the weapon and armor restrictions for your class before making your purchases. Since you now know what armor your character is wearing, note your Armor Class (AC) on the character sheet based on the type of armor you choose. Don't forget to add your Dexterity bonus or penalty to AC. Likewise, record your weapon damages based on the type of weapons you choose, modified by your Strength bonus or penalty. Calculate your character's encumbrance based on how much weight he is carrying.
+8. Generate your character's starting wealth by rolling 3d6x10 gold pieces (gp) and purchase equipment for your character from the lists in the Equipment chapter. Write your purchases on your character sheet, and note how much money remains afterward. Make sure you understand the weapon and armor restrictions for your class before making your purchases. Since you now know what armor your character is wearing, note your Armor Class (AC) on the character sheet based on the type of armor you choose. Don't forget to add your Dexterity bonus or penalty to AC. Likewise, record your weapon damages based on the type of weapons you choose, modified by your Strength bonus or penalty. Calculate your character's encumbrance based on how much weight he is carrying.
 
 9. Give your character a name, and create a description of what your character looks like, his personality, and maybe even a brief note about the character's background. Then choose an appropriate Alignment for your character. Your Judge will have information on the setting of your character's world that can be helpful in naming your new character and developing his background.
 
@@ -35,21 +34,20 @@ Character Abilities must be determined by rolling randomly. Roll 3d6 for each ab
 
 When complete, your character will have a score ranging from 3 to 18 in each of the following abilities. A bonus or penalty is associated with each score, as shown on the table below. Each class has one or more prime requisite ability scores, which affect the rate at which the character will earn experience points. Some class may have other minimum ability requirements which must be met in addition.
 
-#### Ability Score
+###### Ability Score
+|Ability Score|Bonus/Penalty|
+|:-----------:|:-----------:|
+|3            |-3           |
+|4-5          |-2           |
+|6-8          |-1           |
+|9-12         |0            |
+|13-15        |+1           |
+|16-17        |+2           |
+|18           |+3           |
 
-| Ability Score | Bonus/Penalty
-| :------------ | ------------:
-| 3             |            -3
-| 4-5           |            -2
-| 6-8           |            -1
-| 9-12          |             0
-| 13-15         |            +1
-| 16-17         |            +2
-| 18            |            +3
+**Strength**: As the name implies, this ability measures the character's raw physical power. Strength is a prime requisite for assassins, explorers, dwarven vaultguards, elven spellswords, and fighters. Apply the ability bonus or penalty for Strength to all attack throws and damage rolls in melee (hand-to-hand) combat. Note that a penalty here will not reduce damage from a successful attack below one point, unless the target is otherwise invulnerable to the attack (see the Adventures chapter for details).
 
-**Strength**: As the name implies, this ability measures the character's raw physical power. Strength is a prime requisite for assassins, explorers, dwarven vaultguards, elven spellswords, and fighters. Apply the ability bonus or penalty for Strength to all attack throws and damage rolls in melee (hand-to-hand) combat. Note that a penalty here will not reduce damage from a successful attack below one point, unless the target is otherwise invulnerable to the attack (see the [Adventures](Chapter06.md#chapter-6-adventures) chapter for details).
-
-**Intelligence**: This is the ability to learn and apply knowledge. Intelligence is a prime requisite for elven nightblades, elven spellswords, and mages. The ability bonus for Intelligence is added to the number of proficiencies the character begins play with (see the [Proficiencies](Chapter04.md#chapter-4-proficiencies) chapter for details) and the number of languages the character is able to learn to read and write, as described below. Mages, elven nightblades, and elven spellswords increase the number of spells of each level in their repertoire by their Intelligence bonus (see the [Spells](Chapter05.md#chapter-5-spells) chapter for details).
+**Intelligence**: This is the ability to learn and apply knowledge. Intelligence is a prime requisite for elven nightblades, elven spellswords, and mages. The ability bonus for Intelligence is added to the number of proficiencies the character begins play with (see the Proficiencies chapter for details) and the number of languages the character is able to learn to read and write, as described below. Mages, elven nightblades, and elven spellswords increase the number of spells of each level in their repertoire by their Intelligence bonus (see the Spells chapter for details).
 
 All characters begin the game knowing their native language. In most campaign worlds, the majority of humans speak a common language, often called "Common."  The demi-human races (elves and dwarves) have their own languages, and members of these  races normally begin play knowing their racial language, Common (or the local human language if it isn't called Common), and certain other languages based on the race.
 
@@ -65,20 +63,18 @@ The languages available to characters include the demi-human languages (Elven, D
 
 **Charisma**: This is the ability to influence or even lead people; those with high Charisma are well-liked, or at least highly respected. Charisma is a prime requisite for bards. Apply the Charisma bonus or penalty to the character's reaction rolls. Charisma also determines the maximum number of henchmen the character may employ, and modifies their morale. The number of henchmen a character may hire is equal to 4 plus the Charisma bonus or penalty (and therefore ranges from 1 to 7); the average morale of any such henchmen will be 0, modified by the character's Charisma bonus or penalty.
 
-
-### Classes and Ability Scores
+## Classes and Ability Scores
 
 Once abilities have been determined, each player must choose a class. Each class has one or more prime requisite ability scores. A character must have an ability score of at least 9 in a class's prime requisite(s) in order to choose a particular class. Some classes have additional minimum ability score requirements. A character must have the minimum required ability, if one is indicated, in order to choose a particular class.
 
-If a character's prime requisite ability is high enough, the character will receive a bonus to experience points earned during play. The [Ability Prime Requisite](Chapter02.md#ability-prime-requisite) table, below, details the effect a score in a prime requisite has on experience points earned by characters. If a class has two prime requisites, calculate the character's experience adjustment based on whichever prime requisite has the lower ability score.
+If a character's prime requisite ability is high enough, the character will receive a bonus to experience points earned during play. The Ability Prime Requisite table, below, details the effect a score in a prime requisite has on experience points earned by characters. If a class has two prime requisites, calculate the character's experience adjustment based on whichever prime requisite has the lower ability score.
 
-#### Ability Prime Requisite
-
-| Score | Experience Adjustment
-| :---- | --------------------:
-| 9-12  |                    0%
-| 13-15 |                   +5%
-| 16-18 |                  +10%
+###### Ability Prime Requisite
+|Score|Experience Adjustment|
+|:---:|:-------------------:|
+|9-12 |0%                   |
+|13-15|+5%                  |
+|16-18|+10%                 |
 
 Once a player has selected his character class, he may raise the class's prime requisite ability or abilities if desired by sacrificing points in other abilities. 2 ability points may be sacrificed from an ability to raise a prime requisite ability 1 point. This may be done more than once, but no ability can be lowered below 9, and no ability may be lowered if it is also a prime requisite for the class, even if there are a few points to spare above the minimum required score.
 
@@ -87,30 +83,27 @@ Once a player has selected his character class, he may raise the class's prime r
 
 Hit points are a measure of a character's ability to survive in combat. When a character, or any other being, is reduced to 0 or fewer hit points, he is incapacitated and possibly dead. Hit points are not a direct representation of the character's capacity to receive physical injury. Rather, they represent a holistic combination of fighting skill, stamina, luck, and the favor of the gods, all of which contribute to helping the character roll with blows and survive attacks that would have killed a lesser combatant.
 
-Each character class rolls a different kind of die to determine hit points, as noted in the [Character Classes](Chapter02.md#character-classes) section, based on their toughness in battle. One die is rolled at first level, and further dice are rolled and cumulatively added to the total hp for each level of experience, unless otherwise noted. One optional rule, to allow first level characters to be hardier, is for the Judge to allow all hp rolls for first level characters to be considered the maximum result (e.g. an 8 for fighters or a 6 for clerics.)
+Each character class rolls a different kind of die to determine hit points, as noted in the Character Classes section, based on their toughness in battle. One die is rolled at first level, and further dice are rolled and cumulatively added to the total hp for each level of experience, unless otherwise noted. One optional rule, to allow first level characters to be hardier, is for the Judge to allow all hp rolls for first level characters to be considered the maximum result (e.g. an 8 for fighters or a 6 for clerics.)
 
 
 ## Character Classes
 
 In the Adventurer Conqueror King System, there are two types of classes: human classes and demi-human classes. Humans are the most widespread of all races. Their ambition, cunning, and courage have led them to settle most of the known world, so most characters in the game will belong to one of the human classes.
 
-The core human classes described in these rules are the fighter, mage, cleric, and thief. Four additional human classes, the assassin, bard, bladedancer, and explorer, are provided to show how the core classes can be customized for specific archetypes within a campaign setting.
+The classes described in these rules are from the area surrounding Dunland, as such they are made up of mainly human classes such as the fighter, thief, bard, explorer, chosen, freebooter, loremaster, venturer and witch. Any of the player classes above can come from Dunland, Hendrica or Mycernia. It is however encouraged that human players characters come from Dunland to begin with.
 
-Compared to humans, demi-humans are rare, and generally more specialized. Demi-human classes are defined by their race, with different classes available for dwarves, elves, and other demi-humans. The demi-human classes described in these rules are the dwarven vaultguard, dwarven craftpriest, elven spellsword, and elven nightblade.
+Compared to humans, other races are rare, and generally more specialized. In the area dwarves from the citadel of Bul Thurim can be found and the bastard giantkin, remnants of the war two decades before. The dwarven classes described in these rules are the dwarven vaultguard, dwarven craftpriest, dwarven delvers and the dwarven machinist. The left behind remnants of the giantkin found in Dunland are represented by the giantkin bastard and giantkin misbegotten. It is anticipated that in the future more player available races and cultures will be revealed by travel and adventure.
 
 Selecting equipment and proficiencies can be time-consuming, especially for new players. As a faster alternative, we offer a pre-generated template for each class, with weapons, armor, equipment, proficiencies, and spells ready for play. If you want to use these templates, you can skip step 8 (picking proficiencies and spells) and 9 (rolling for starting wealth and purchasing equipment) of character generation and simply use the template. A variety of additional templates, new classes, and rules for creating customized classes are available in the Adventurer Conqueror King System Player's Companion, available separately from Autarch.
 
+## Fighter
 
-## Core Classes
-
-
-### Fighter
-
-| Prime Requisite: | STR
-| :--------------- | :---
-| Requirements:    | None
-| Hit Dice:        | 1d8
-| Maximum Level:   | 14
+| Prime Requisite:|STR     |
+| :---------------|:-------|
+| Requirements:   |None    |
+| Hit Dice:       |1d8     |
+| Maximum Level:  |14      |
+| Age:            |14 + 1d8|
 
 Fighters are exclusively trained in the arts of combat and war. They are specialists at dealing physical blows. Fighters may have learned their arts as warriors, gladiators battling for glory in the arena, raiders, or sell-swords in the games of the noble houses.
 
@@ -118,7 +111,7 @@ As their name suggests, fighters are exceptionally skilled combatants. Fighters 
 
 When a fighter reaches 5th level (Exemplar), his battlefield prowess inspires others to follow him. Any henchmen and mercenaries hired by the fighter gain a +1 bonus to their morale score whenever he personally leads them. This bonus stacks with any modifiers from the fighter's Charisma or proficiencies.
 
-At 9th level (Warlord), a fighter can, assuming enough gold is at hand, build a castle and become a great leader of men, taking a leadership rank in his society. When he does so, up 1d4+1x10 0th level mercenaries and 1d6 fighters of 1st-3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. Through force of arms, the fighter may ultimately control several castles or even entire realms, but must be a capable, strong leader and provide protection. Additional rules for castles are detailed in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
+At 9th level (Warlord), a fighter can, assuming enough gold is at hand, build a castle and become a great leader of men, taking a leadership rank in his society. When he does so, up 1d4+1x10 0th level mercenaries and 1d6 fighters of 1st-3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. Through force of arms, the fighter may ultimately control several castles or even entire realms, but must be a capable, strong leader and provide protection. Additional rules for castles are detailed in the Campaigns chapter.
 
 
 | Template:           | Mercenary
@@ -126,55 +119,56 @@ At 9th level (Warlord), a fighter can, assuming enough gold is at hand, build a 
 | Proficiencies:      | Combat Reflexes, Manual of Arms
 | Starting Equipment: | Well-oiled sword, metal shield re-painted many times, slightly battered chainmail armor, crossbow, case with 20 quarrels,  military tunic, boots, backpack, 2 week's iron rations
 
-This pre-generated template represents a wary sellsword. The template is ready for adventure. However, if your fighter's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
+This pre-generated template represents a wary sellsword. The template is ready for adventure. However, if your fighter's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
 
 
-#### Fighter Level Progression
+###### Fighter Level Progression
 
 | Experience | Title             | Level | Hit Dice | Damage Bonus
-| ---------: | :---------------- | ----: | :------- | -----------:
-|          0 | Man-at-Arms       |     1 | 1d8      |           +1
-|      2,000 | Warrior           |     2 | 2d8      |           +1
-|      4,000 | Swordmaster       |     3 | 3d8      |           +2
-|      8,000 | Hero              |     4 | 4d8      |           +2
-|     16,000 | Exemplar          |     5 | 5d8      |           +2
-|     32,000 | Myrmidon          |     6 | 6d8      |           +3
-|     65,000 | Champion          |     7 | 7d8      |           +3
-|    130,000 | Epic Hero         |     8 | 8d8      |           +3
-|    250,000 | Warlord           |     9 | 9d8      |           +4
-|    370,000 | Warlord, 10th lvl |    10 | 9d8+2*   |           +4
-|    490,000 | Warlord, 11th lvl |    11 | 9d8+4*   |           +4
-|    610,000 | Warlord, 12th lvl |    12 | 9d8+6*   |           +5
-|    730,000 | Warlord, 13th lvl |    13 | 9d8+8*   |           +5
-|    850,000 | Overlord          |    14 | 9d8+10*  |           +5
+| :--------- | :---------------- | :---: | :------- | :----------:
+| 0          | Man-at-Arms       | 1     | 1d8      |           +1
+| 2,000      | Warrior           | 2     | 2d8      |           +1
+| 4,000      | Swordmaster       | 3     | 3d8      |           +2
+| 8,000      | Hero              | 4     | 4d8      |           +2
+| 16,000     | Exemplar          | 5     | 5d8      |           +2
+| 32,000     | Myrmidon          | 6     | 6d8      |           +3
+| 65,000     | Champion          | 7     | 7d8      |           +3
+| 130,000    | Epic Hero         | 8     | 8d8      |           +3
+| 250,000    | Warlord           | 9     | 9d8      |           +4
+| 370,000    | Warlord, 10th lvl | 10    | 9d8+2*   |           +4
+| 490,000    | Warlord, 11th lvl | 11    | 9d8+4*   |           +4
+| 610,000    | Warlord, 12th lvl | 12    | 9d8+6*   |           +5
+| 730,000    | Warlord, 13th lvl | 13    | 9d8+8*   |           +5
+| 850,000    | Overlord          | 14    | 9d8+10*  |           +5
 
 *Hit point modifiers from constitution are ignored
 
 
-#### Fighter Attack and Saving Throws
+###### Fighter Attack and Saving Throws
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-| 1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+
-| 2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+
-| 4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+
-| 5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+
-| 7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+
-| 8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+
-| 10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+
-| 11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+
-| 13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
-| 14    |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
+| :---- | :-----------------------: | :------------: | :------------: | :------------: | :----: | :-----------:
+| 1     | 15+                       | 14+            | 16+            | 16+            | 17+    |          10+
+| 2-3   | 14+                       | 13+            | 15+            | 15+            | 16+    |           9+
+| 4     | 13+                       | 12+            | 14+            | 14+            | 15+    |           8+
+| 5-6   | 12+                       | 11+            | 13+            | 13+            | 14+    |           7+
+| 7     | 11+                       | 10+            | 12+            | 12+            | 13+    |           6+
+| 8-9   | 10+                       | 9+             | 11+            | 11+            | 12+    |           5+
+| 10    | 9+                        | 8+             | 10+            | 10+            | 11+    |           4+
+| 11-12 | 8+                        | 7+             | 9+             | 9+             | 10+    |           3+
+| 13    | 7+                        | 6+             | 8+             | 8+             | 9+     |           2+
+| 14    | 6+                        | 5+             | 7+             | 7+             | 8+     |           1+
 
 
 
-### Thief
+## Thief
 
 | Prime Requisite: | DEX
 | :--------------- | :---
 | Requirements:    | None
 | Hit Dice:        | 1d4
 | Maximum Level:   | 14
+| Age:             | 15 + 1d8
 
 Thieves have a range of unique skills associated with their profession that make them very handy companions in adventures. However, thieves can be a bit shady and they sometimes are not as trustworthy as other classes. A thief will usually belong to a Thieves' Guild from the character's local town, where he can seek shelter and information between adventures. At the Judge's discretion, a thief may have to forfeit a portion of his earnings to the guild in exchange for protection. Thieves are everywhere, from the slums to the highest halls of the government.
 
@@ -182,7 +176,7 @@ Thieves are trained combatants, although not as skilled as fighters. At first le
 
 A thief also has the ability to backstab. He must catch an opponent unaware of his presence, either by surprise or by moving silently and/or hiding in shadows to sneak up on his opponent. When backstabbing, the thief will receive an attack bonus of +4 and, if successful, deal additional damage for every four levels he has attained. A thief at 1st through 4th levels does double the normal damage, at 5th-8th levels does triple the normal damage, at 9th-12th levels does quadruple the normal damage, and at 13th level or higher does quintuple the normal damage.
 
-Thieves have the following range of skills, which improve as the thief gains levels according to the progression on the [Thief Skills](Chapter02.md#thief-skills) table. When a thief attempts to make use of one of his skills, the character or Judge will make a proficiency throw of 1d20. (Usually the Judge will make rolls for these abilities, because a thief is not always aware when he has failed.) After applying any relevant modifiers (e.g. due to the complexity of a lock), the result is compared to the target value listed on the [Thief Skills](Chapter02.md#thief-skills) table below for the appropriate skill. A result that is greater than or equal to the value listed for the proficiency throw that corresponds to the thief's level is a success. A roll of 20 is always a success, and a roll of 1 is always a failure.
+Thieves have the following range of skills, which improve as the thief gains levels according to the progression on the Thief Skills table. When a thief attempts to make use of one of his skills, the character or Judge will make a proficiency throw of 1d20. (Usually the Judge will make rolls for these abilities, because a thief is not always aware when he has failed.) After applying any relevant modifiers (e.g. due to the complexity of a lock), the result is compared to the target value listed on the Thief Skills table below for the appropriate skill. A result that is greater than or equal to the value listed for the proficiency throw that corresponds to the thief's level is a success. A roll of 20 is always a success, and a roll of 1 is always a failure.
 
 **Opening Locks**: With the aid of thieves' tools, a thief may pick mechanical locks. He may only try to pick a particular lock once, and if he fails, he may not try the same lock again until he reaches a higher experience level. The Judge may apply bonuses or penalties to the roll, depending on the complexity of the lock.
 
@@ -200,7 +194,7 @@ Thieves have the following range of skills, which improve as the thief gains lev
 
 Upon attaining 4th level, a thief gains the ability to read languages (including ciphers, treasure maps, and dead languages, but not magical writings) with a proficiency throw of 5+ on 1d20. If the roll does not succeed, the thief may not try to read that particular piece of writing until he reaches a higher level of experience.
 
-When a thief attains 9th level (Master Thief), he can establish a hideout, and 2d6 thief apprentices of 1st level will come to work with the character. If hired, they must be paid standard rates for ruffians. A successful character might use these followers to start a Thieves' Guild. Additional rules for hideouts are detailed in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
+When a thief attains 9th level (Master Thief), he can establish a hideout, and 2d6 thief apprentices of 1st level will come to work with the character. If hired, they must be paid standard rates for ruffians. A successful character might use these followers to start a Thieves' Guild. Additional rules for hideouts are detailed in the Campaigns chapter.
 
 At 10th level, a thief can read and cast magic from arcane scrolls with a proficiency throw of 3+ on 1d20. However, a failed throw means the spell does not function as expected, and can create a horrible effect at the Judge's discretion.
 
@@ -210,78 +204,161 @@ At 10th level, a thief can read and cast magic from arcane scrolls with a profic
 | Proficiencies:      | Trap Finding, Mapping
 | Starting Equipment: | 10' pole, short sword, 2 throwing daggers,  crossbow, case with 20 quarrels, sturdy leather armor, tanned brown cloak, thick tunic and leggings, high boots, backpack, 2 large treasure sacks, thieves' tools, 50' rope, tinderbox, lantern, hammer and 12 iron spikes, 2 flasks of military oil, wineskin, 2 week's iron rations, 20sp
 
-This pre-generated template represents a bold tomb raider. The template is ready for adventure. However, if your thief's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
+This pre-generated template represents a bold tomb raider. The template is ready for adventure. However, if your thief's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
 
 
-#### Thief Level Progression
+###### Thief Level Progression
 
 | Experience | Title                    | Level | Hit Dice | Backstab
-| ---------: | :----------------------- | ----: | :------- | -------:
-|          0 | Footpad                  |     1 | 1d4      |       x2
-|      1,250 | Hood                     |     2 | 2d4      |       x2
-|      2,500 | Robber                   |     3 | 3d4      |       x2
-|      5,000 | Burglar                  |     4 | 4d4      |       x2
-|     10,000 | Rogue                    |     5 | 5d4      |       x3
-|     20,000 | Scoundrel                |     6 | 6d4      |       x3
-|     40,000 | Pilferer                 |     7 | 7d4      |       x3
-|     80,000 | Thief                    |     8 | 8d4      |       x3
-|    180,000 | Master Thief             |     9 | 9d4      |       x4
-|    280,000 | Master Thief, 10th level |    10 | 9d4+2*   |       x4
-|    380,000 | Master Thief, 11th level |    11 | 9d4+4*   |       x4
-|    480,000 | Master Thief, 12th level |    12 | 9d4+6*   |       x4
-|    580,000 | Master Thief, 13th level |    13 | 9d4+8*   |       x5
-|    680,000 | Prince of Thieves        |    14 | 9d4+10*  |       x5
+| :--------- | :----------------------- | :---: | :------- | :-------:
+| 0          | Footpad                  | 1     | 1d4      |       x2
+| 1,250      | Hood                     | 2     | 2d4      |       x2
+| 2,500      | Robber                   | 3     | 3d4      |       x2
+| 5,000      | Burglar                  | 4     | 4d4      |       x2
+| 10,000     | Rogue                    | 5     | 5d4      |       x3
+| 20,000     | Scoundrel                | 6     | 6d4      |       x3
+| 40,000     | Pilferer                 | 7     | 7d4      |       x3
+| 80,000     | Thief                    | 8     | 8d4      |       x3
+| 180,000    | Master Thief             | 9     | 9d4      |       x4
+| 280,000    | Master Thief, 10th level | 10    | 9d4+2*   |       x4
+| 380,000    | Master Thief, 11th level | 11    | 9d4+4*   |       x4
+| 480,000    | Master Thief, 12th level | 12    | 9d4+6*   |       x4
+| 580,000    | Master Thief, 13th level | 13    | 9d4+8*   |       x5
+| 680,000    | Prince of Thieves        | 14    | 9d4+10*  |       x5
 
 *Hit point modifiers from constitution are ignored
 
 
-#### Thief Attack and Saving Throws
+###### Thief Attack and Saving Throws
 
 | Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-| :----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-| 1-2    |                       13+ |            13+ |            16+ |            14+ |    15+ |          10+
-| 3-4    |                       12+ |            12+ |            15+ |            13+ |    14+ |           9+
-| 5-6    |                       11+ |            11+ |            14+ |            12+ |    13+ |           8+
-| 7-8    |                       10+ |            10+ |            13+ |            11+ |    12+ |           7+
-| 9-10   |                        9+ |             9+ |            12+ |            10+ |    11+ |           6+
-| 11-12  |                        8+ |             8+ |            11+ |             9+ |    10+ |           5+
-| 13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+ |           4+
+| :----- | :-----------------------: | :------------: | :------------: | :------------: | :----: | :-----------:
+| 1-2    | 13+                       | 13+            | 16+            | 14+            | 15+    |          10+
+| 3-4    | 12+                       | 12+            | 15+            | 13+            | 14+    |           9+
+| 5-6    | 11+                       | 11+            | 14+            | 12+            | 13+    |           8+
+| 7-8    | 10+                       | 10+            | 13+            | 11+            | 12+    |           7+
+| 9-10   | 9+                        | 9+             | 12+            | 10+            | 11+    |           6+
+| 11-12  | 8+                        | 8+             | 11+            | 9+             | 10+    |           5+
+| 13-14+ | 7+                        | 7+             | 10+            | 8+             | 9+     |           4+
 
 
-#### Thief Skills
+###### Thief Skills
 
 | Level | Open Locks | Find and Remove Traps | Pick Pockets* | Move Silently | Climb Walls | Hide in Shadows | Hear Noise
-| :---- | ---------: | --------------------: | ------------: | ------------: | ----------: | --------------: | ---------:
-|     1 |        18+ |                   18+ |           17+ |           17+ |          6+ |             19+ |        14+
-|     2 |        17+ |                   17+ |           16+ |           16+ |          5+ |             18+ |        13+
-|     3 |        16+ |                   16+ |           15+ |           15+ |          5+ |             17+ |        12+
-|     4 |        15+ |                   15+ |           14+ |           14+ |          4+ |             16+ |        11+
-|     5 |        14+ |                   14+ |           13+ |           13+ |          4+ |             15+ |        10+
-|     6 |        12+ |                   13+ |           12+ |           12+ |          4+ |             14+ |         9+
-|     7 |        10+ |                   11+ |           10+ |           10+ |          3+ |             12+ |         8+
-|     8 |         8+ |                    9+ |            8+ |            8+ |          3+ |             10+ |         7+
-|     9 |         6+ |                    7+ |            6+ |            6+ |          3+ |              8+ |         6+
-|    10 |         4+ |                    5+ |            4+ |            4+ |          3+ |              6+ |         5+
-|    11 |         3+ |                    3+ |            2+ |            2+ |          2+ |              4+ |         4+
-|    12 |         2+ |                    2+ |           -1+ |            2+ |          2+ |              3+ |         3+
-|    13 |         1+ |                    2+ |           -3+ |            1+ |          1+ |              2+ |         2+
-|    14 |         1+ |                    1+ |           -5+ |            1+ |          1+ |              1+ |         1+
+| :---- | :--------: | :-------------------: | :-----------: | :-----------: | :---------: | :-------------: | :---------:
+|     1 | 18+        | 18+                   | 17+           | 17+           | 6+          | 19+             |        14+
+|     2 | 17+        | 17+                   | 16+           | 16+           | 5+          | 18+             |        13+
+|     3 | 16+        | 16+                   | 15+           | 15+           | 5+          | 17+             |        12+
+|     4 | 15+        | 15+                   | 14+           | 14+           | 4+          | 16+             |        11+
+|     5 | 14+        | 14+                   | 13+           | 13+           | 4+          | 15+             |        10+
+|     6 | 12+        | 13+                   | 12+           | 12+           | 4+          | 14+             |         9+
+|     7 | 10+        | 11+                   | 10+           | 10+           | 3+          | 12+             |         8+
+|     8 | 8+         | 9+                    | 8+            | 8+            | 3+          | 10+             |         7+
+|     9 | 6+         | 7+                    | 6+            | 6+            | 3+          | 8+              |         6+
+|    10 | 4+         | 5+                    | 4+            | 4+            | 3+          | 6+              |         5+
+|    11 | 3+         | 3+                    | 2+            | 2+            | 2+          | 4+              |         4+
+|    12 | 2+         | 2+                    | -1+           | 2+            | 2+          | 3+              |         3+
+|    13 | 1+         | 2+                    | -3+           | 1+            | 1+          | 2+              |         2+
+|    14 | 1+         | 1+                    | -5+           | 1+            | 1+          | 1+              |         1+
 
 *-1 penalty on the proficiency throw per each level the thief is lower than the victim.
 
-### Bard
+## Crusader
+
+| Prime Requisite: | STR and INT
+| :--------------- | :----------
+| Requirements:    | None
+| Hit Dice:        | 1d6
+| Maximum Level:   | 14
+| Age:             | 14 + 1d6
+
+Crusaders are warrior priests of the Church of Nine, sworn to assist in the crusade against the Witchking of Shadowmire and preserve the lands of the faithful. Skilled combatants who use simplistic weapons and armour to fight, they can hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws and saving throws by 2 points every four levels of experience. Because crusaders lack the broad professional training of the fighter, they may only wear chain mail or lighter armor and are limited to fighting with clubs or staves, the simple  weapons that were taught on the crusade. Crusaders come from the lands of Dunland, Hendrica, Mycerna or Wefterna, they must be followers of the Nine lawful gods Alden, Bliss etc.
+
+The first lesson taught to those Crusaders found worthy was the Laying on of Hands, this simple ceremony invokes a healing glow to help the wounded recover and has been the saviour of many after a battle. The person healed recovers hit points as if he had rested for one day per two levels of the healer (rounded up).
+
+Starting at 2nd level (Lay worshipper) a Crusader begins to learn and perform eldritch ceremonies in the Liturgical tradition. The crusader’s selection of ceremonies is limited to the ceremonies in his repertoire. The number and levels of ceremonies the crusader can include in his repertoire is shown on the Crusader Ceremony Progression table, but is increased by his Intelligence bonus. Crusaders can use any magic items usable by mages or clerics. More information on ceremonial magic, and individual spell descriptions, can be found in the Heroic Magic chapter.
+
+The repertoire of most crusaders for the first few spells was quite rigid. Cure Light Wounds, Salving Rest, Remove Fear, Purify Food and Water.
+
+At 3rd level (Warder), a crusader gains the ability to inspire courage those accompanying him. Inspiring courage requires a few moments of oration before a battle (one round), and grants the crusaders’s allies within a 50' radius a +1 bonus to attack throws, damage rolls, morale rolls (for monsters or NPCs allied with the caster) and saving throws against magical fear. The bonus lasts for 10 minutes (1 turn). A crusader can inspire courage in any given character once per day per class level. (Even the most inspiring sermon gets old if you hear it twice in the same day.) A crusader cannot inspire courage on characters who are already engaged in combat.
+
+At 5th level (Catechist) due to the long time spent on crusade, resilience of the faithful is granted to the crusader. When a crusader is required to consult the Mortal Wounds table, the player may roll twice and choose the preferred result to apply. Crusaders also subtract their class level from the number of days of bed rest required to recover. When a crusader reaches 5th level he may also begin to research ceremonies, scribe scrolls, and brew potions. Crusaders may collect and use divine power as clerics in order to fuel their magical research
+
+Upon attaining 9th level (Crusader), a crusader may establish or build a fortified church. So long as the crusader is currently in favor with his god, he may buy or build his fortified church at half the normal price due to divine intervention. Once a fortified church is established, the crusader’s reputation will spread and he will attract 5d6x10 0th level soldiers armed with various weapons, plus another 1d6 crusaders of 1st-3rd level of the same religion to serve the order. They are completely loyal (morale +4). While in the crusaders’s service, his followers must be provided food and lodging, but need not be paid wages. The Judge determines which proportions of followers are archers, infantry, etc. Additional rules for fortified churches are detailed in the Campaign chapter.
+
+At 11th level (Lord Crusader), a crusader may, learn and cast ritual spells of great power (7th, 8th, and 9th level), craft magical constructs, and create magical cross-breeds. In addition, they enjoy divine health that renders them immune to all forms of disease, including magical diseases caused by spells, mummies, or lycanthropes.
+
+##### Crusaders divine code
+ 
+* _Comport oneself whilst at war in foreign land as one would at home_, Crusaders cannot pillage and must pay peasants for supplies they requisition.
+
+* _Must clearly display the symbol of the Nine at all times_, Crusaders must let it be known that they walk in the light of the Nine.
+
+* _Ban on indulgences_, Crusaders are forbidden from eating any food that was not available to the original Crusaders. Porridge, bread, eggs, turnips, roots, nuts, and any meat they personally hunt/catch are the typical fare of Crusaders
+
+* _Requirements of daily prayer_,  Crusaders must lead a daily group prayer of the faithful against the enemies of the Nine
+
+* _An Honourable passing_, Crusaders must cremate or give the correct burial rights for the deceased if time allows.
+
+Crusader Proficiency List: Apostacy, Armor Training, Battle Magic, Beast Friendship, Ceremonial Magic\*, Combat Reflexes, Combat Trickery (disarm, knock down), Command, Craft\*, Divine Blessing, Divine Health, Endurance, Farseeing\*, Fighting Style, Healing, Martial Training, Personal Talisman\*, Prestidigitation, Prophecy\*, Running, Second Sight\*, Sensing Evil, Skirmishing, Swashbuckling, Theology, Unflappable Casting, Weapon Finesse, Weapon Focus 
+
+_\*Modified or new proficiency described on p._ 
+
+###### Crusader Level Progression
+
+|Crusader Level Progression|Crusader Spell Progression|
+|:---|---:|
+
+|Experience|Title|Level|Hit Dice|Special Abilities|1|2|3|4|5|6|
+|:---------|:----|:---:|:-------|----------------:|:---:|:---:|:---:|:---:|:---:|:---:|
+|0|Worshipper|1|1d6|Lay on Hands|-|-|-|-|-|-|
+|1,500|Lay Worshipper|2|2d6|Ceremonial magic|1|-|-|-|-|-|
+|3,000|Warder|3|3d6|Inspire Courage|2|-|-|-|-|-|
+|6,000|Defender|4|4d6|-|2|1|-|-|-|-|
+|12,000|Catechist|5|5d6|Magic research (minor), Resilience of the Faithful|2|2|-|-|-|-|
+|24,000|Acolyte|6|6d6|-|2|2|1|-|-|-|
+|50,000|Lay Priest|7|7d6|-|2|2|2|-|-|-|
+|100,000|Curate|8|8d6|-|3|2|2|1|-|-|
+|200,000|Crusader|9|9d6|Fortified Church|3|2|2|1|1|-|
+|300,000|Lord Crusader|10|9d6+1*|-|3|3|2|2|1|-|
+|400,000|Lord Crusader|11|9d6+2*|Magic research (advanced), Divine Health|3|3|3|2|2|1|
+|500,000|Lord Crusader|12|9d6+3*|-|4|4|3|3|2|1|
+|600,000|Lord Crusader|13|9d6+4*|-|4|4|3|3|3|2|
+|700,000|Crusader Patriarch|14|9d6+5*|-|4|4|4|3|3|2|
+
+| Template:           | Lay member
+| :------------------ | :-----------------
+| Proficiencies:      | Endurance, Personal Talisman
+| Starting Equipment: | Holy symbol (The Nine Stars), Club, wooden shield, chain mail armor, black surcoat with Nine stars, leather belt, low boots, backpack, 1 flask of holy water, iron rations.
+
+This pre-generated template represents a lay member of the crusade  determined to free Dunland from the threats it faces. The template is ready for adventure. However, if your crusader's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
+
+###### Crusader Attack and Saving Throws
+
+|Level      |Petrification & Paralysis|Poison & Death|Blast & Breath|Staffs & Wands|Spells|Attack Throw|
+|:----------|:-----------------------:|:------------:|:------------:|:------------:|:----:|:----------:|
+|1&#8209;2  |13+                      |10+           |16+           |13+           |15+   |10+         |
+|3&#8209;4  |12+                      |9+            |15+           |12+           |14+   |9+          |
+|5&#8209;6  |11+                      |8+            |14+           |11+           |13+   |8+          |
+|7&#8209;8  |10+                      |7+            |13+           |10+           |12+   |7+          |
+|9&#8209;10 |9+                       |6+            |12+           |9+            |11+   |6+          |
+|11&#8209;12|8+                       |5+            |11+           |8+            |10+   |5+          |
+|13&#8209;14|7+                       |4+            |10+           |7+            |9+    |4+          |
+
+## Bard
 
 | Prime Requisite: | DEX and CHA
 | :--------------- | :----------
 | Requirements:    | None
 | Hit Dice:        | 1d6
 | Maximum Level:   | 14
+| Age:             | 14 + 1d8
 
 Successful adventurers live forever in the sagas and songs about their deeds. Remembering and recounting these sagas is the profession of bards. Most bards are content to recite the deeds of others, but some bold few participate in the dangers themselves and become inspiring heroes in their own right. A bard might be an adventuring minstrel with a sword in his hand and a song at his lips, a warrior-skald, or haughty aristocrat.
 
 Bards advance in attack throws and saving throws as a thief, by two points every four levels of experience. At first level, bards hit an unarmored foe (AC 0) with an attack throw of 10+. They may fight with any missile weapons and any one-handed melee weapons, and may wield a weapon in each hand if desired. They cannot wear armor heavier than leather, and cannot use shields.
 
-All bards can sing, recite poetry, or play a group of instruments in a skilled manner. The bard chooses the type of performance that his character knows. A bard may take the Perform proficiency to learn other types of performances (see [Chapter 4, Proficiencies](Chapter04.md#chapter-4-proficiencies)).
+All bards can sing, recite poetry, or play a group of instruments in a skilled manner. The bard chooses the type of performance that his character knows. A bard may take the Perform proficiency to learn other types of performances (see Chapter 4, Proficiencies).
 
 By reciting heroic lays and epic poems, bards can inspire courage. Inspiring courage requires  a few moments of oration before a battle (one round), and grants the bard's allies within a 50' radius a +1 bonus to attack throws, damage rolls, morale rolls (for monsters or NPCs allied with the caster), and saving throws against magical fear. The bonus lasts for 10 minutes (1 turn). A bard can inspire courage in any given character once per day per class level. (Even the most inspiring epic gets old if you hear it twice in the same day.) A bard cannot inspire courage on characters who are already engaged in combat.
 
@@ -293,7 +370,7 @@ Upon attaining 4th level (Annalist), the bard gains the ability to read language
 
 When a bard reaches 5th level (Chronicler), his chronicles of battle inspire his hirelings to strive for glory. Any henchmen and mercenaries hired by the bard gain a +1 bonus to their morale score if the bard is there to witness and record their deeds. This bonus stacks with any modifiers from the bard's Charisma or proficiencies.
 
-Upon reaching 9th level (Bard), a bard can build a hall and become a ruler. When he does so, up 1d4+1 x10 0th level mercenaries and 1d6 bards of 1st-3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. Additional rules for halls are detailed in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
+Upon reaching 9th level (Bard), a bard can build a hall and become a ruler. When he does so, up 1d4+1 x10 0th level mercenaries and 1d6 bards of 1st-3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. Additional rules for halls are detailed in the Campaigns chapter.
 
 At 10th level, the bard can read and cast magic from arcane scrolls with a proficiency throw of 3+ on 1d20. However, a failed throw means the spell does not function as expected, and can create a horrible effect at the Judge's discretion.
 
@@ -303,94 +380,75 @@ At 10th level, the bard can read and cast magic from arcane scrolls with a profi
 | Proficiencies:      | Magical Music, Diplomacy
 | Starting Equipment: | Crossbow, quiver with 20 bolts, short sword, dagger, well-maintained leather armor, traveler's tunic and sturdy boots, backpack, musical instrument, 2 week's iron rations
 
-This pre-generated template represents a wandering minstrel with magic in his song. The template is ready for adventure. However, if your bard's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
+This pre-generated template represents a wandering minstrel with magic in his song. The template is ready for adventure. However, if your bard's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
 
 
-#### Bard Level Progression
+###### Bard Level Progression
 
 | Experience | Title            | Level | Hit Dice | Arcane Dabbling | Loremastery
-| ---------: | :--------------- | ----: | :------- | --------------: | ----------:
-|          0 | Reciter          |     1 | 1d6      |             18+ |         18+
-|      1,400 | Versifier        |     2 | 2d6      |             16+ |         17+
-|      2,800 | Archivist        |     3 | 3d6      |             14+ |         16+
-|      5,600 | Annalist         |     4 | 4d6      |             12+ |         15+
-|     11,200 | Chronicler       |     5 | 5d6      |             10+ |         14+
-|     22,400 | Panegyrist       |     6 | 6d6      |              8+ |         13+
-|     45,000 | Skald            |     7 | 7d6      |              6+ |         12+
-|     90,000 | Rhapsodist       |     8 | 8d6      |              4+ |         11+
-|    190,000 | Bard             |     9 | 9d6      |              3+ |         10+
-|    290,000 | Bard, 10th level |    10 | 9d6+2*   |              3+ |          9+
-|    390,000 | Bard, 11th level |    11 | 9d6+4*   |              3+ |          8+
-|    490,000 | Bard, 12th level |    12 | 9d6+6*   |              3+ |          7+
-|    590,000 | Bard, 13th level |    13 | 9d6+8*   |              3+ |          6+
-|    690,000 | Master Bard      |    14 | 9d6+10*  |              3+ |          5+
+| :--------- | :--------------- | :---: | :------- | :-------------: | :----------:
+| 0          | Reciter          | 1     | 1d6      | 18+             |         18+
+| 1,400      | Versifier        | 2     | 2d6      | 16+             |         17+
+| 2,800      | Archivist        | 3     | 3d6      | 14+             |         16+
+| 5,600      | Annalist         | 4     | 4d6      | 12+             |         15+
+| 11,200     | Chronicler       | 5     | 5d6      | 10+             |         14+
+| 22,400     | Panegyrist       | 6     | 6d6      | 8+              |         13+
+| 45,000     | Skald            | 7     | 7d6      | 6+              |         12+
+| 90,000     | Rhapsodist       | 8     | 8d6      | 4+              |         11+
+| 190,000    | Bard             | 9     | 9d6      | 3+              |         10+
+| 290,000    | Bard, 10th level | 10    | 9d6+2*   | 3+              |          9+
+| 390,000    | Bard, 11th level | 11    | 9d6+4*   | 3+              |          8+
+| 490,000    | Bard, 12th level | 12    | 9d6+6*   | 3+              |          7+
+| 590,000    | Bard, 13th level | 13    | 9d6+8*   | 3+              |          6+
+| 690,000    | Master Bard      | 14    | 9d6+10*  | 3+              |          5+
 
 *Hit point modifiers from constitution are ignored
 
 
-#### Bard (Thief) Attack and Saving Throws
+###### Bard (Thief) Attack and Saving Throws
 
 | Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-| :----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-| 1-2    |                       13+ |            13+ |            16+ |            14+ |    15+ |          10+
-| 3-4    |                       12+ |            12+ |            15+ |            13+ |    14+ |           9+
-| 5-6    |                       11+ |            11+ |            14+ |            12+ |    13+ |           8+
-| 7-8    |                       10+ |            10+ |            13+ |            11+ |    12+ |           7+
-| 9-10   |                        9+ |             9+ |            12+ |            10+ |    11+ |           6+
-| 11-12  |                        8+ |             8+ |            11+ |             9+ |    10+ |           5+
-| 13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+ |           4+
+| :----- | :-----------------------: | :------------: | :------------: | :------------: | :----: | :-----------:
+| 1-2    | 13+                       | 13+            | 16+            | 14+            | 15+    |          10+
+| 3-4    | 12+                       | 12+            | 15+            | 13+            | 14+    |           9+
+| 5-6    | 11+                       | 11+            | 14+            | 12+            | 13+    |           8+
+| 7-8    | 10+                       | 10+            | 13+            | 11+            | 12+    |           7+
+| 9-10   | 9+                        | 9+             | 12+            | 10+            | 11+    |           6+
+| 11-12  | 8+                        | 8+             | 11+            | 9+             | 10+    |           5+
+| 13-14+ | 7+                        | 7+             | 10+            | 8+             | 9+     |           4+
+   
 
-
-#### Bard Skills
-
-| Level | Arcane Dabbling | Loremastery
-| ----: | --------------: | ----------:
-|     1 |             18+ |         18+
-|     2 |             16+ |         17+
-|     3 |             14+ |         16+
-|     4 |             12+ |         15+
-|     5 |             10+ |         14+
-|     6 |              8+ |         13+
-|     7 |              6+ |         12+
-|     8 |              4+ |         11+
-|     9 |              3+ |         10+
-|    10 |              3+ |          9+
-|    11 |              3+ |          8+
-|    12 |              3+ |          7+
-|    13 |              3+ |          6+
-|    14 |              3+ |          5+
-    
-
-### Chosen
+## Chosen
 
 | Prime Requisite: | Lowest ability score
 | :--------------- | :----------
 | Requirements:    | Any ability score 18       
 | Hit Dice:        | 1d6
 | Maximum Level:   | 14
+| Age:             | 17 + 2d6
 
-Some men and women, whether out of desire for wealth, or fame, or power, or mere wanderlust, choose to be adventurers. But others are **chosen**, their paths guided by great powers toward heroic roads that lead them to everlasting glory—or ignominious death. A chosen can appear anywhere and at any time. The humblest farm boy is as likely to be marked by fate as the scion of a king. Chosen are, however, quite rare; fewer than 1 in 1,000 adventurers are chosen, and most people will live their entire lives without ever seeing one. When they do appear, they inevitably draw the attention of the great powers of light and darkness, ever ready to anoint a new champion or preemptively slay a new foe before he can come into the fullness of his power.
+Some men and women, whether out of desire for wealth, or fame, or power, or mere wanderlust, choose to be adventurers. But others are **chosen**, their paths guided by great powers toward heroic roads that lead them to everlasting glory—or ignominious death. A chosen can appear anywhere and at any time. The humblest farm boy is as likely to be marked by fate as the scion of a king. Chosen are, however, quite rare; fewer than 1 in 1,000 adventurers are chosen, and most people will live their entire lives without ever seeing one. When they do appear, they inevitably draw the attention of the great powers of light and darkness, ever ready to anoint a new champion or pre-emptively slay a new foe before he can come into the fullness of his power.
 
-To qualify as a chosen, a character must have at least one natural ability score of 18. The chosen’s prime requisite is his lowest ability score. Since a character must have an ability score of at least 9 in a class’s prime requisite(s) in order to choose a particular class, a character must have at least 9 in every ability score or he cannot become a chosen. A chosen must always be of Lawful alignment. A chosen who changes to Neutral or Chaotic alignment loses all his gifts. (At the Judge’s discretion, Chaotic chosen may be permitted, who work for the powers of darkness.)
+To qualify as a chosen, a character must have at least one natural ability score of 18. The chosen’s prime requisite is his lowest ability score. Since a character must have an ability score of at least 9 in a class’s prime requisite(s) in order to choose a particular class, a character must have at least 9 in every ability score or he cannot become a chosen. A chosen must always be of Lawful alignment. A chosen who changes to Neutral or Chaotic alignment loses all his gifts.
 
-#### Chosen Level Progression
+###### Chosen Level Progression
 
-| Experience | Title|Level|Hit Dice|Damage|Gifts|
-|---:|:---|---:|:---|---:|---:|
-| 0                                                   | Innocent         | 1         | 1d6          | +1        | 3         |
-| 2,600                                               | Journeyer        | 2         | 2d6          | +1        | 4         |
-| 5,200                                               | Adventurer       | 3         | 3d6          | +2        | 5         |
-| 10,400                                              | Hero             | 4         | 4d6          | +2        | 6         |
-| 20,800                                              | Exemplar         | 5         | 5d6          | +2        | 7         |
-| 41,600                                              | Champion         | 6         | 6d6          | +3        | 8         |
-| 85,000                                              | Protagonist      | 7         | 7d6          | +3        | 9         |
-| 170,000                                             | Epic Hero        | 8         | 8d6          | +3        | 10        |
-| 290,000                                             | Chosen           | 9         | 9d6          | +4        | 11        |
-| 410,000                                             | Chosen, 10th lvl | 10        | 9d6+1\*      | +4        | 12        |
-| 530,000                                             | Chosen, 11th lvl | 11        | 9d6+2\*      | +4        | 13        |
-| 650,000                                             | Chosen, 12th lvl | 12        | 9d6+3\*      | +5        | 14        |
-| 770,000                                             | Chosen, 13th lvl | 13        | 9d6+4\*      | +5        | 15        |
-| 890,000                                             | The One          | 14        | 9d6+5\*      | +5        | 16        |
+|Experience|Title           |Level|Hit Dice|Damage|Gifts|
+|:---------|:---------------|:---:|:---|:----:|:---:|
+|0         |Innocent        |1    | 1d6          |+1    |3    |
+|2,600     |Journeyer       |2    | 2d6          |+1    |4    |
+|5,200     |Adventurer      |3    | 3d6          |+2    |5    |
+|10,400    |Hero            |4    | 4d6          |+2    |6    |
+|20,800    |Exemplar        |5    | 5d6          |+2    |7    |
+|41,600    |Champion        |6    | 6d6          |+3    |8    |
+|85,000    |Protagonist     |7    | 7d6          |+3    |9    |
+|170,000   |Epic Hero       |8    | 8d6          |+3    |10   |
+|290,000   |Chosen          |9    | 9d6          |+4    |11   |
+|410,000   |Chosen, 10th lvl|10   | 9d6+1\*      |+4    |12   |
+|530,000   |Chosen, 11th lvl|11   | 9d6+2\*      |+4    |13   |
+|650,000   |Chosen, 12th lvl|12   | 9d6+3\*      |+5    |14   |
+|770,000   |Chosen, 13th lvl|13   | 9d6+4\*      |+5    |15   |
+|890,000   |The One         |14   | 9d6+5\*      |+5    |16   |
 
 _\*Hit point modifiers from Constitution are ignored_
 
@@ -404,7 +462,7 @@ At 1st level (Innocent), a chosen begins with three gifts. With each level of ex
 
 Just as each chosen has a different destiny, so each has a different set of gifts. Chosen select their gifts from the list below. All selections must be approved by the Judge. Some gifts may be banned from particular settings where they are inappropriate or where they refer to optional rules that the Judge has opted not to use. Chosen can only select the same gift multiple times at the same level with the Judge’s approval.
 
-#### Chosen Gifts
+### Chosen Gifts
 
 *Armor Training:* The chosen trains to fight in armor. This gift may be selected multiple times. If selected once, the chosen can wear leather armor. If selected twice, the chosen can wear chain mail armor. If selected thrice, the chosen can wear plate armor.
 
@@ -492,17 +550,17 @@ At 9th level (Chosen), a chosen can **establish a stronghold** and become a prot
 
 _\*Modified or new proficiency described on p. XX._
 
-| Template:           | Dalish Inheritor
+| Template:           | Lost lord of Humanity
 | :------------------ | :---------
-| Proficiencies:      | Weapon Focus (swords), Manual of Arms, *Armor Training, Chosen Weapon, Martial Training (swords/daggers)*
-| Starting Equipment: | *Chosen sword +1* in finely-made scabbard (25gp value)*,* dagger, leather armor, shield, armiger’s tunic and pants, low leather boots, leather belt, backpack, 2 flasks of military oil, 2 weeks’ iron rations, 15gp
+| Proficiencies:      | Weapon Focus (swords), Manual of Arms, Armor Training, Chosen Weapon, Martial Training (swords/daggers)
+| Starting Equipment: | Chosen sword +1 in finely-made scabbard (25gp value), dagger, leather armor, shield, armiger’s tunic and pants, low leather boots, leather belt, backpack, 2 flasks of military oil, 2 weeks’ iron rations, 15gp
 
-**Dalish Inheritor Template:** This pre-generated template represents a Man of Dale who has inherited a chosen weapon (perhaps dwarf-forged) from a heroic ancestor. The template is ready for adventure. However, if your beastmaster’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see **Starting Proficiencies** in Chapter 4 of *ACKS*).
+**Lost lord of Humanity Template:** This pre-generated template represents a Man of Dunland who has inherited a chosen weapon (perhaps dwarf-forged) from a heroic ancestor. The template is ready for adventure. However, if your beastmaster’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see **Starting Proficiencies** in Chapter 4 of *ACKS*).
 
-#### Chosen Attack and Saving Throws
+###### Chosen Attack and Saving Throws
 
 | Level       |Petrification & Paralysis|Poison & Death|Blast & Breath|Staffs & Wands|Spells|Attack Throw|
-| :---------- |------------------------:|-------------:|-------------:|-------------:|-----:|-----------:|
+| :---------- |:-----------------------:|:------------:|:------------:|:------------:|:----:|:----------:|
 | 1           |15+                      |14+           |16+           |16+           |17+   |10+         |
 | 2&#8209;3   |14+                      |13+           |15+           |15+           |16+   |9+          |
 | 4           |13+                      |12+           |14+           |14+           |15+   |8+          |
@@ -516,15 +574,16 @@ _\*Modified or new proficiency described on p. XX._
 
 
 
-### Explorer
+## Explorer
 
 | Prime Requisite: | STR and DEX
 | :--------------- | :----------
 | Requirements:    | None
 | Hit Dice:        | 1d6
 | Maximum Level:   | 14
+| Age:             | 15 + 1d8
 
-Explorers are scouts and trackers, adept at both woodcraft and archery. Few adventuring parties would dare the wilderness without an experienced explorer to guide them. An explorer might be a long range scout, a barbarian hunter from the northern forests, or a settler pushing past the borders civilization.
+Explorers are scouts and trackers, adept at both woodcraft and archery. Few adventuring parties would dare the wilderness without an experienced explorer to guide them. An explorer might be a long range scout, a hunter from the northern forests, or a settler pushing past the borders civilization.
 
 While they prefer to evade foes where possible, explorers are cunning warriors when they need to be. Like fighters, they advance in attack throws and saving throws by two points every three levels of experience. At first level, explorers hit an unarmored foe (AC 0) with an attack throw of 10+. In addition, they gain an accuracy bonus of +1 to all attack throws with missile weapons. Due to their careful aim, they increase their base damage roll from successful missile and melee attacks by +1 at 1st level, and by an additional +1 at 3rd, 6th, 9th, and 12th level. Explorers are trained to fight with any missile weapons and any one-handed melee weapons, and may wear chain mail or lighter armor. They may fight wielding a weapon and shield, wielding a weapon two-handed, and wielding a weapon in each hand.
 
@@ -532,11 +591,11 @@ Explorers have animal reflexes, gaining +1 bonus to initiative and a +1 bonus to
 
 Parties guided by explorers gain significant advantages on wilderness adventures. Any time the explorer's party is in country familiar to the explorer, they get a +4 bonus on proficiency throws to avoid getting lost. In any terrain except clear and grassland terrain, the explorer's party receives a +5 bonus to proficiency throws to evade wilderness encounters.
 
-A party guided by an explorer can evade wilderness encounters even when surprised on a proficiency throw of 19+. See the [Wilderness Adventures](Chapter06.md#wilderness-adventures) and [Evasion and Pursuit](Chapter06.md#evasion-and-pursuit) sections of Chapter 6 for more details on getting lost and evading encounters.
+A party guided by an explorer can evade wilderness encounters even when surprised on a proficiency throw of 19+. See the Wilderness Adventures and Evasion and Pursuit sections of Chapter 6 for more details on getting lost and evading encounters.
 
 When an explorer reaches 5th level (Guide), his experience and hardiness reassures those who follow him into the wild. Hirelings on a wilderness adventure led by the explorer gain a +1 bonus to their morale score. This bonus stacks with any modifiers from the explorer's Charisma or proficiencies.
 
-When an explorer reaches 9th level (Warden), he may decide to build a border fort in the borderlands or wilderness. When he does so, up to 1d4+1 x10 0th level mercenaries and 1d6 explorers of 1st - 3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. The character becomes the warden of any nearby settlers, and will attract more settlers over time. These people will look to the Warden as their leader, responsible for the growth and safety of their settlement. Additional rules for border forts are detailed in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
+When an explorer reaches 9th level (Warden), he may decide to build a border fort in the borderlands or wilderness. When he does so, up to 1d4+1 x10 0th level mercenaries and 1d6 explorers of 1st - 3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. The character becomes the warden of any nearby settlers, and will attract more settlers over time. These people will look to the Warden as their leader, responsible for the growth and safety of their settlement. Additional rules for border forts are detailed in the Campaigns chapter.
 
 
 | Template:           | Pathfinder
@@ -544,53 +603,54 @@ When an explorer reaches 9th level (Warden), he may decide to build a border for
 | Proficiencies:      | Precise Shot, Tracking
 | Starting Equipment: | Sturdy longbow, quiver with 20 arrows, spear, short sword, dagger, chainmail armor, wind-battered fur cloak, boots, backpack, 2 week's iron rations, wineskin, lantern, tinderbox, 2 flasks of common oil, blanket, 50' rope, 12 iron spikes, small hammer and 20sp
 
-This pre-generated template represents a keen-eyed archer and tracker. The template is ready for adventure. However, if your explorer's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
+This pre-generated template represents a keen-eyed archer and tracker. The template is ready for adventure. However, if your explorer's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
 
 
-#### Explorer Level Progression
+###### Explorer Level Progression
 
-| Experience    | Title                   | Level  | Hit Dice       | Damage Bonus
-| ------------: | :---------------------- | -----: | :------------- | -----------:
-|             0 | Scout                   |      1 | 1d6            |           +1
-|         2,000 | Outrider                |      2 | 2d6            |           +1
-|         4,000 | Forester                |      3 | 3d6            |           +2
-|         8,000 | Explorer                |      4 | 4d6            |           +2
-|        16,000 | Guide                   |      5 | 5d6            |           +2
-|        32,000 | Tracker                 |      6 | 6d6            |           +3
-|        65,000 | Pathfinder              |      7 | 7d6            |           +3
-|       130,000 | Ranger                  |      8 | 8d6            |           +3
-|       250,000 | Warden                  |      9 | 9d6            |           +4
-|       370,000 | Warden, 10th level      |     10 | 9d6+2*         |           +4
-|       490,000 | Warden, 11th level      |     11 | 9d6+4*         |           +4
-|       610,000 | Warden, 12th level      |     12 | 9d6+6*         |           +5
-|       730,000 | Warden, 13th level      |     13 | 9d6+8*         |           +5
-|       850,000 | Lord Warden             |     14 | 9d6+10*        |           +5
+| Experience | Title                   | Level | Hit Dice       | Damage Bonus
+| :--------- | :---------------------- | :---: | :------------- | :-----------:
+| 0          | Scout                   | 1     | 1d6            |           +1
+| 2,000      | Outrider                | 2     | 2d6            |           +1
+| 4,000      | Forester                | 3     | 3d6            |           +2
+| 8,000      | Explorer                | 4     | 4d6            |           +2
+| 16,000     | Guide                   | 5     | 5d6            |           +2
+| 32,000     | Tracker                 | 6     | 6d6            |           +3
+| 65,000     | Pathfinder              | 7     | 7d6            |           +3
+| 130,000    | Ranger                  | 8     | 8d6            |           +3
+| 250,000    | Warden                  | 9     | 9d6            |           +4
+| 370,000    | Warden, 10th level      | 10    | 9d6+2*         |           +4
+| 490,000    | Warden, 11th level      | 11    | 9d6+4*         |           +4
+| 610,000    | Warden, 12th level      | 12    | 9d6+6*         |           +5
+| 730,000    | Warden, 13th level      | 13    | 9d6+8*         |           +5
+| 850,000    | Lord Warden             | 14    | 9d6+10*        |           +5
 
 *Hit point modifiers from constitution are ignored
 
 
-#### Explorer (Fighter) Attack and Saving Throws
+###### Explorer (Fighter) Attack and Saving Throws
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-| 1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+
-| 2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+
-| 4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+
-| 5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+
-| 7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+
-| 8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+
-| 10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+
-| 11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+
-| 13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
-| 14+   |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
+| :---- | :-----------------------: | :------------: | :------------: | :------------: | :----: | :-----------:
+| 1     | 15+                       | 14+            | 16+            | 16+            | 17+    |          10+
+| 2-3   | 14+                       | 13+            | 15+            | 15+            | 16+    |           9+
+| 4     | 13+                       | 12+            | 14+            | 14+            | 15+    |           8+
+| 5-6   | 12+                       | 11+            | 13+            | 13+            | 14+    |           7+
+| 7     | 11+                       | 10+            | 12+            | 12+            | 13+    |           6+
+| 8-9   | 10+                       | 9+             | 11+            | 11+            | 12+    |           5+
+| 10    | 9+                        | 8+             | 10+            | 10+            | 11+    |           4+
+| 11-12 | 8+                        | 7+             | 9+             | 9+             | 10+    |           3+
+| 13    | 7+                        | 6+             | 8+             | 8+             | 9+     |           2+
+| 14+   | 6+                        | 5+             | 7+             | 7+             | 8+     |           1+
 
-### Freebooter
+## Freebooter
 
 | Prime Requisite: | DEX (plus one ability score determined by path)
 | :--------------- | :----------
 | Requirements:    | None
 | Hit Dice:        | 1d4
 | Maximum Level:   | 14
+| Age:             | 14 + 1d8
 
 Freebooters are a motley assortment of adventurers who live and die for plunder.
 Some freebooters are dauntless expeditionaries who raid tombs for ancient
@@ -604,8 +664,8 @@ willingness to resort to subterfuge and backhanded tactics without hesitation.
 Like thieves, freebooters often belong to a **criminal guild** which offers
 shelter and information between heists. At the Judge’s discretion, a freebooter
 may have to forfeit a portion of his earnings to the guild in exchange for
-protection. In the Auran Empire, freebooters are everywhere, from the slums of
-the ports of Kushtu to the highest halls of the Senate in Aura.
+protection. In the Dunland, freebooters are everywhere, from the slums of
+the ports in Nortwyke to the highest halls of the court in Gleynafon.
 
 Freebooters are ruthless, dirty combatants. At first level, freebooters hit an
 unarmored foe (AC 0) with an attack throw of 10+. Like fighters, they advance in
@@ -613,10 +673,10 @@ attack throws by two points every *three* levels of experience. However they
 advance in saving throws like thieves, by two points every *four* levels of
 experience.
 
-#### Freebooter Level Progression
+###### Freebooter Level Progression
 
 |Experience|Title                         |Level|Hit Dice|Damage Bonus|Backstab
-|---------:|:-----------------------------|----:|-------:|-----------:|---:
+|:---------|:-----------------------------|:---:|:-------|:----------:|:---:
 |0         |Scrounger                     |1    |1d4     |+1          | x2           
 |2,150     |Looter                        |2    |2d4     |+1          | x2           
 |4,300     |Pilferer                      |3    |3d4     |+2          | x2           
@@ -632,7 +692,7 @@ experience.
 |640,000   |Freebooter Captain, 13th level|13   |9d4+8\* |+5          | x5           
 |740,000   |Prince of Plunder             |14   |9d4+10\*|+5          | x5           
 
-\*Hit point modifiers from constitution are ignored
+_\*Hit point modifiers from constitution are ignored_
 
 All freebooters may wear leather armor or lighter, and may wield crossbows,
 daggers, shortbows, short swords, and swords, as well as five other weapons
@@ -668,15 +728,15 @@ has its own prime requisite in addition to DEX.
 |:------------|:---
 |Expeditionary| A looter of tombs and a delver of dungeons, skilled in scouting, trap-finding, and lock-picking.
 |Ruffian      | A cut-throat and killer, skilled in breaking and entering, robbery, and intimidation.
-|Scoundrel    | A gentleman thief, skilled in subterfuge and disguise.
-|Wayfarer     | A highwayman, outrider, or scout, skilled in hunting, trapping, and survival.
+|Scoundrel    | A noble thief, skilled in subterfuge and disguise.
+|Wayfarer     | An outrider, or scout, skilled in hunting, trapping, and survival.
 
 At the Judge’s discretion, a freebooter may follow a unique path, outside of the
 four listed above. The player and Judge should collaborate to choose five
 weapons, four thief skills, and five bonus proficiencies that are appropriate to
 the freebooter.
 
-##### Path of Expeditionary
+### Path of Expeditionary
 
 | Prime Requisite:     | WIS
 | :------------------- | :-----
@@ -693,7 +753,7 @@ enables him to penetrate almost any obstacle in his path to plunder.
 Expeditionaries are also excellent map-makers and most treasure maps are created
 by them.
 
-##### Path of Ruffian
+### Path of Ruffian
 
 | Prime Requisite:     | STR
 | :------------------- | :-----
@@ -707,7 +767,7 @@ and burglarize their valuables, or simply rely on his threatening demeanor and
 martial prowess to rob victims at sword-point. Most freebooters are ruffians,
 and they can be found in great numbers in any den of scum and villainy.
 
-##### Path of Scoundrel
+### Path of Scoundrel
 
 | Prime Requisite:     | CHA
 | :------------------- | :-----
@@ -715,7 +775,7 @@ and they can be found in great numbers in any den of scum and villainy.
 | Thief Skills:        | hide in shadows, move silently, open locks, pick pockets
 | Bonus Proficiencies: | Cat Burglary, Climbing, Disguise, Eavesdropping, Lip Reading
 
-The scoundrel is a gentleman thief. His ability to scale walls, open locks, hide
+The scoundrel is a noble thief. His ability to scale walls, open locks, hide
 in shadows, and move silently enables him to function as nigh-undetectable cat
 burglar, stealing his victims’ most precious treasures without need for
 violence. An expert in disguise, he can blend in to any crowd, where his
@@ -724,7 +784,7 @@ burdensome purses. Skilled eavesdroppers and lip readers, scoundrels often work
 as spies and secret agents, uncovering secrets that the powerful wish to keep
 hidden.
 
-##### Path of Wayfarer
+### Path of Wayfarer
 
 | Prime Requisite: | CON
 | :--------------- | :----
@@ -732,21 +792,15 @@ hidden.
 | Thief Skills:        | climb walls, hear noise, hide in shadows, move silently
 | Bonus Proficiencies:   | Land Surveying, Running, Sniping, Skirmishing, Tracking
 
-The wayfarer is a highwayman, outrider, and scout. He excels at hit-and-run
-attacks, sniping from the cover of darkness and brush, then falling back swiftly
-and silently into the wilderness. He has the ability to move through the
-wilderness at great speed, and can navigate mountainous terrain, climb trees,
-and scale precipices that halt pursuers. If inclined to law, wayfarers may use
-their expertise in tracking and land surveying to discover monster lairs in the
-wilderness for adventuring parties or local garrisons.
+The wayfarer is an outrider, and scout. He excels at hit-and-run attacks, sniping from the cover of darkness and brush, then falling back swiftly and silently into the wilderness. He has the ability to move through the wilderness at great speed, and can navigate mountainous terrain, climb trees, and scale precipices that halt pursuers. If inclined to law, wayfarers may use their expertise in tracking and land surveying to discover monster lairs in the wilderness for adventuring parties or local garrisons.
 
 While each path of freebooter knows different thief skills, all follow the same
 progression of improvement, as shown on the Freebooter (Thief) Skill Progression
 table, below.
 
-#### Freebooter (Thief) Skills
+###### Freebooter (Thief) Skills
 |Level|Open Locks|Find/Remove Traps|Pick Pockets\*|Move Silently|Climb Walls|Hide in Shadows|Hear Noise|
-|:----|---------:|----------------:|-------------:|------------:|----------:|--------------:|---------:|
+|:----|:--------:|:---------------:|:------------:|:-----------:|:---------:|:-------------:|:--------:|
 |1    |18+       |18+              |17+           |17+          |6+         |19+            |14+       |
 |2    |17+       |17+              |16+           |16+          |5+         |18+            |13+       |
 |3    |16+       |16+              |15+           |15+          |5+         |17+            |12+       |
@@ -780,10 +834,10 @@ Sniping, Swashbuckling, Trap Finding, Weapon Finesse, Weapon Focus\*
 
 _\*Modified or new proficiency described on p. XX._
 
-| Template:                    | Spelunker (Expeditionary path)
-| :--------------------------- |:---
-| **Proficiencies:**           | Mountaineering, Caving
-| **Starting&#160;Equipment:** | Crossbow, case with 20 bolts, 10’ pole, short sword, 2 throwing daggers, sturdy leather armor, tanned brown cloak, thick tunic and pants, leather belt, low boots, backpack, 2 large treasure sacks, thieves’ tools, grappling hook, 50’ rope, tinderbox, lantern, small hammer, 12 iron spikes, 2 flasks of military oil, wineskin, 2 weeks’ iron rations
+| Template:                | Spelunker (Expeditionary path)
+| :----------------------- |:---
+| Proficiencies:           | Mountaineering, Caving
+| Starting&#160;Equipment: | Crossbow, case with 20 bolts, 10’ pole, short sword, 2 throwing daggers, sturdy leather armor, tanned brown cloak, thick tunic and pants, leather belt, low boots, backpack, 2 large treasure sacks, thieves’ tools, grappling hook, 50’ rope, tinderbox, lantern, small hammer, 12 iron spikes, 2 flasks of military oil, wineskin, 2 weeks’ iron rations
 
 **Spelunker Template:** This pre-generated template represents a brave
 spelunker, expert in delving into the deepest caves and caverns. The template is
@@ -791,109 +845,50 @@ ready for adventure. However, if your spelunker’s INT is 13 or greater, you ma
 pick one or more additional general proficiencies before play if you’d like (see
 **Starting Proficiencies** in Chapter 4 of *ACKS*).
 
-#### Freebooter Saving Throws
+###### Freebooter Attack & Saving Throws
 
-|Level      |Petrification & Paralysis|Poison & Death|Blast & Breath| Staffs & Wands|Spells|
-|:----------|------------------------:|-------------:|-------------:| -------------:|-----:|
-|1&#8209;2  |13+                      |13+           |16+           | 14+           |15+   |
-|3&#8209;4  |12+                      |12+           |15+           | 13+           |14+   |
-|5&#8209;6  |11+                      |11+           |14+           | 12+           |13+   |
-|7&#8209;8  |10+                      |10+           |13+           | 11+           |12+   |
-|9&#8209;10 |9+                       |9+            |12+           | 10+           |11+   |
-|11&#8209;12|8+                       |8+            |11+           | 9+            |10+   |
-|13- 14     |7+                       |7+            |10+           | 8+            |9+    |
-
-#### Freebooter Attack Throws
-
-|Level      |Attack Throw
-|:----------|---:
-|1          | 10+                           
-|2&#8209;3  | 9+
-|4          | 8+                           
-|5&#8209;6  | 7+ 
-|7          | 6+                            
-|8&#8209;9  | 5+                            
-|10         | 4+ 
-|11&#8209;12| 3+ 
-|13         | 2+       
-|14         | 1+       
+|Level|Petrification & Paralysis|Poison & Death|Blast & Breath|Staffs & Wands|Spells|Attack Throw|
+|:----|:-----------------------:|:------------:|:------------:|:------------:|:----:|:----------:|
+|1    |13+                      |13+           |16+           |14+           |15+   |10+         |
+|2    |13+                      |13+           |16+           |14+           |15+   |9+          |
+|3    |12+                      |12+           |15+           |13+           |14+   |9+          |
+|4    |12+                      |12+           |15+           |13+           |14+   |8+          |
+|5    |11+                      |11+           |14+           |12+           |13+   |7+          |
+|6    |11+                      |11+           |14+           |12+           |13+   |7+          |
+|7    |10+                      |10+           |13+           |11+           |12+   |6+          |
+|8    |10+                      |10+           |13+           |11+           |12+   |5+          |
+|9    |9+                       |9+            |12+           |10+           |11+   |5+          |
+|10   |9+                       |9+            |12+           |10+           |11+   |4+          |
+|11   |8+                       |8+            |11+           |9+            |10+   |3+          |
+|12   |8+                       |8+            |11+           |9+            |10+   |3+          |
+|13   |7+                       |7+            |10+           |8+            |9+    |2+          |
+|14   |7+                       |7+            |10+           |8+            |9+    |1+          |
 
 
-### Loremaster
+## Loremaster
 
 | Prime Requisite: | INT and WIS
 | :--------------- | :----------
 | Requirements:    | None
 | Hit Dice:        | 1d4
 | Maximum Level:   | 14
+| Age:             | 17 + 3d6
 
-Loremasters pursue knowledge and preserve ancient wisdom handed down from time immemorial. Most loremasters live ascetic lives devoted to annotating and
-studying the books and scrolls collected by their predecessors. But the boldest
-and most ambitious become adventurers, delving into the dungeons and tombs of
-past kingdoms in search of knowledge which has been lost. Wielding secrets
-forgotten for centuries, these loremasters become the most powerful of their
-kind, legends whose deeds will become the subject of study by the annalists of
-the future.
+Loremasters pursue knowledge and preserve ancient wisdom handed down from time immemorial. Most loremasters live ascetic lives devoted to annotating and studying the books and scrolls collected by their predecessors. But the boldest and most ambitious become adventurers, delving into the dungeons and tombs of past kingdoms in search of knowledge which has been lost. Wielding secrets forgotten for centuries, these loremasters become the most powerful of their kind, legends whose deeds will become the subject of study by the annalists of the future.
 
-Because of their devotion to study, loremasters receive limited combat training.
-At first level, loremasters hit an unarmored foe (AC 0) with an attack throw of
-10+. They advance in attack throws only two points every *six* levels of
-experience (i.e. half as fast as fighters), though they advance in saving throws
-by two points every four levels (i.e. as clerics). They may only fight with
-quarterstaffs, clubs, daggers, and darts. They are unable to use shields, fight
-with two weapons, or wear any kind of armor. For these reasons, loremasters are
-quite vulnerable to physical danger, and in an adventuring group they should be
-protected.
+Because of their devotion to study, loremasters receive limited combat training. At first level, loremasters hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws only two points every *six* levels of experience (i.e. half as fast as fighters), though they advance in saving throws by two points every four levels (i.e. as clerics). They may only fight with quarterstaffs, clubs, daggers, and darts. They are unable to use shields, fight with two weapons, or wear any kind of armor. For these reasons, loremasters are quite vulnerable to physical danger, and in an adventuring group they should be protected.
 
-The books and scrolls of interest to the loremaster are virtually never written
-in the Common tongue so loremasters soon become familiar with even the most
-obscure scripts, codes, and languages. At 1st level, a loremaster may **read
-languages** unfamiliar to them (including ciphers, treasure maps, and dead
-languages, but not magical writings) with a proficiency throw of 5+ on 1d20. If
-the roll does not succeed, the loremaster may not try to read that particular
-piece of writing until he reaches a higher level of experience.
+The books and scrolls of interest to the loremaster are virtually never written in the Common tongue so loremasters soon become familiar with even the most obscure scripts, codes, and languages. At 1st level, a loremaster may **read languages** unfamiliar to them (including ciphers, treasure maps, and dead languages, but not magical writings) with a proficiency throw of 5+ on 1d20. If the roll does not succeed, the loremaster may not try to read that particular piece of writing until he reaches a higher level of experience. 
 
-From careful study of ancient annals and legends, loremasters can decipher
-occult mysteries, remember ancient history, identify historic artifacts, and
-similar tasks. At 1st level, a loremaster must make a proficiency throw of 18+
-on 1d20 to succeed in **loremastery**. The proficiency throw for loremastery
-reduces by 1 per level.
+From careful study of ancient annals and legends, loremasters can decipher occult mysteries, remember ancient history, identify historic artifacts, and similar tasks. At 1st level, a loremaster must make a proficiency throw of 18+ on 1d20 to succeed in **loremastery**. The proficiency throw for loremastery reduces by 1 per level.
 
-Most importantly, the scholarly pursuits of loremasters allow them to **learn
-and perform eldritch ceremonies** in the **theurgical tradition**. A
-loremaster’s selection of ceremonies is limited to the ceremonies in his
-**repertoire**. A loremaster’s repertoire can include a number of eldritch
-ceremonies up to the number and level of ceremonies listed for his level,
-increased by his Intelligence bonus. A loremaster can use any magic items usable
-by mages or clerics, and can make trinkets to aid his performance of ceremonies.
-More information on ceremonial magic, and individual spell descriptions, can be
-found in the Heroic Magic chapter (p. XX).
+Most importantly, the scholarly pursuits of loremasters allow them to **learn and perform eldritch ceremonies** in the **theurgical tradition**. A loremaster’s selection of ceremonies is limited to the ceremonies in his **repertoire**. A loremaster’s repertoire can include a number of eldritch ceremonies up to the number and level of ceremonies listed for his level, increased by his Intelligence bonus. A loremaster can use any magic items usable by mages or clerics, and can make trinkets to aid his performance of ceremonies. More information on ceremonial magic, and individual spell descriptions, can be found in the Heroic Magic chapter (p. XX).
 
-As they advance in level, loremasters may add new ceremonies to their repertoire
-by visiting an athenaeum or other place of learning (see below) and spending one
-game week per ceremony. Particular athenaeums may only offer particular
-ceremonies at each level, either due to the limitations of their libraries or
-doctrinal beliefs. Loremasters who wish to learn unavailable ceremonies must
-find or research them on their own. The specific ceremonies taught at any given
-athenaeum should be determined by the Judge based on his setting.
+As they advance in level, loremasters may add new ceremonies to their repertoire by visiting an athenaeum or other place of learning (see below) and spending one game week per ceremony. Particular athenaeums may only offer particular ceremonies at each level, either due to the limitations of their libraries or doctrinal beliefs. Loremasters who wish to learn unavailable ceremonies must find or research them on their own. The specific ceremonies taught at any given athenaeum should be determined by the Judge based on his setting.
 
-As part of his training in ceremonial magic, every loremaster creates a
-**personal talisman** to aid him in performing ceremonies. The loremaster’s
-personal talisman provides a +1 bonus to ceremony throws for ceremonies of one
-particular type. (The loremaster may choose from death & necromancy; detection;
-elemental air; elemental earth; elemental fire; elemental water; enchantment &
-illusion; healing; movement; protection; summoning; and transmogrification).
-When the loremaster advances to 3rd level, his personal talisman can increase
-its bonus by +1 for ceremonies of one particular type (e.g. increase the bonus
-to +2 for the current type or add a bonus of +1 with a new type). When the
-loremaster reaches 11th level, his personal talisman can increase its bonus by
-another +1 for ceremonies of one particular type (e.g. increase a +2 bonus to +3
-for a current type, or increase a +1 bonus to +2 for a current type, or add a
-bonus of +1 with a new type). If desired, the loremaster may increase the bonus
-afforded by, or number of ceremony types covered by, his personal talisman by
-selecting the Personal Talisman proficiency (see p. XX). More information on
-talismans can be found in the Ceremonial Talismans section of the Heroic Magic
-chapter (p. XX).
+As part of his training in ceremonial magic, every loremaster creates a **personal talisman** to aid him in performing ceremonies. The loremaster’s personal talisman provides a +1 bonus to ceremony throws for ceremonies of one particular type. (The loremaster may choose from death & necromancy; detection; elemental air; elemental earth; elemental fire; elemental water; enchantment & illusion; healing; movement; protection; summoning; and transmogrification). When the loremaster advances to 3rd level, his personal talisman can increase its bonus by +1 for ceremonies of one particular type (e.g. increase the bonus to +2 for the current type or add a bonus of +1 with a new type). When the loremaster reaches 11th level, his personal talisman can increase its bonus by another +1 for ceremonies of one particular type (e.g. increase a +2 bonus to +3 for a current type, or increase a +1 bonus to +2 for a current type, or add a bonus of +1 with a new type). If desired, the loremaster may increase the bonus afforded by, or number of ceremony types covered by, his personal talisman by selecting the Personal Talisman proficiency (see p. XX). More information on talismans can be found in the Ceremonial Talismans section of the Heroic Magic chapter (p. XX).
+
+###### Loremaster Level Progression
 
 |Loremaster Level Progression| Loremaster Ceremony Progression
 |:---------------------------|----:
@@ -918,78 +913,124 @@ chapter (p. XX).
 *\*Hit point modifiers from constitution are ignored*
 
 
-When a loremaster reaches 5th level (Scholar), he may begin to research
-ceremonies, scribe scrolls, brew potions, and make talismans. Loremasters may
-collect and use divine power as clerics in order to fuel their magical research.
+When a loremaster reaches 5th level (Scholar), he may begin to research ceremonies, scribe scrolls, brew potions, and make talismans. Loremasters may collect and use divine power as clerics in order to fuel their magical research.
 
-When a loremaster reaches 9th level (Loremaster), he is able to create more
-powerful magic items such as weapons, rings, and staffs. A loremaster may also
-build an **athenaeum**, typically a great library, when he reaches 9th level. He
-will then attract 1d6 apprentices of 1st-3rd level plus 2d6 normal men seeking
-to become loremasters. Their intelligence scores will be above average, but many
-will become discouraged from the rigorous mental training and quit after 1d6
-months. While in the loremaster’s service, apprentices must be provided food and
-lodging, but need not be paid wages. If the loremaster builds a **menagerie**
-beneath or near his athenaeum, monsters may be collected therein. Loremaster’s
-athenaeum and menageries are otherwise identical to mages’ sanctums and
-dungeons, as detailed in the **Campaign** chapter of the *ACKS* Rulebook.
+When a loremaster reaches 9th level (Loremaster), he is able to create more powerful magic items such as weapons, rings, and staffs. A loremaster may also build an **athenaeum**, typically a great library, when he reaches 9th level. He will then attract 1d6 apprentices of 1st-3rd level plus 2d6 normal men seeking to become loremasters. Their intelligence scores will be above average, but many will become discouraged from the rigorous mental training and quit after 1d6 months. While in the loremaster’s service, apprentices must be provided food and lodging, but need not be paid wages. If the loremaster builds a **menagerie** beneath or near his athenaeum, monsters may be collected therein. Loremaster’s athenaeum and menageries are otherwise identical to mages’ sanctums and dungeons, as detailed in the **Campaign** chapter of the *ACKS* Rulebook.
 
-At 11th level, a loremaster may create learn and cast ritual eldritch spells of
-great power (7th, 8th, and 9th level), craft magical constructs, and create
-magical cross-breeds. If chaotic, the loremaster may create necromantic servants
-and become undead.
+At 11th level, a loremaster may create learn and cast ritual eldritch spells of great power (7th, 8th, and 9th level), craft magical constructs, and create magical cross-breeds. If chaotic, the loremaster may create necromantic servants and become undead.
 
-**Loremaster Proficiency List**: Alchemy\*, Battle Magic, Beast Friendship,
-Black Lore of Zahar, Bright Lore of Aura\*, Ceremonial Magic\*, Collegiate
-Wizardry, Contemplation\*, Craft\*, Diplomacy, Elementalism, Elven Bloodline,
-Engineering, Familiar, Farseeing\*, Healing, Knowledge, Magical Engineering,
-Mystic Aura, Naturalism, Personal Talisman\*, Prestidigitation, Prophecy\*,
-Second Sight\*, Sensing Power, Transmogrification, Soothsaying\*, Unflappable
-Casting
+**Loremaster Proficiency List**: Alchemy\*, Battle Magic, Beast Friendship, Black Lore of Zahar, Bright Lore of Aura\*, Ceremonial Magic\*, Collegiate Wizardry, Contemplation\*, Craft\*, Diplomacy, Elementalism, Elven Bloodline, Engineering, Familiar, Farseeing\*, Healing, Knowledge, Magical Engineering, Mystic Aura, Naturalism, Personal Talisman\*, Prestidigitation, Prophecy\*, Second Sight\*, Sensing Power, Transmogrification, Soothsaying\*, Unflappable Casting
 
 _\*Modified or new proficiency described on p. XX._
 
-|Template:                    |Magical Scholar
-|---------------------------- |------
-|**Proficiencies:**           |Magical Engineering, Collegiate Wizardry
-|**Starting&#160;Equipment:** |Well-kept ceremonial codex with **slumber**, rune-etched staff, blue mage’s cassock, leather belt, low boots, backpack, theurgical implements (level 1), quill and ink, 1 week’s iron rations, 55gp
+|Template:               |Magical Scholar
+|------------------------|------
+|Proficiencies:          |Magical Engineering, Collegiate Wizardry
+|Starting&#160;Equipment:|Well-kept ceremonial codex with **slumber**, rune-etched staff, blue mage’s cassock, leather belt, low boots, backpack, theurgical implements (level 1), quill and ink, 1 week’s iron rations, 55gp
 
-**Magical Scholar:** This pre-generated template represents a curious magical
-scholar from an organized guild of mages. The template is ready for adventure.
-However, if your loremaster’s INT is 13 or greater, you may pick one or more
-additional general proficiencies and starting spells before play if you’d like
-(see **Starting Proficiencies** in Chapter 4 and **Spell Repertoire** in Chapter
-5 of *ACKS*).
+**Magical Scholar:** This pre-generated template represents a curious magical scholar from an organized guild of mages. The template is ready for adventure. However, if your loremaster’s INT is 13 or greater, you may pick one or more additional general proficiencies and starting spells before play if you’d like (see **Starting Proficiencies** in Chapter 4 and **Spell Repertoire** in Chapter 5 of *ACKS*).
 
-#### Loremaster Saving Throws
+###### Loremaster  Attack & Saving Throws
 
-|Level       |Petrification & Paralysis|Poison & Death|Blast & Breath| Staffs & Wands|Spells
-|:---------- |------------------------:|-------------:|-------------:| -------------:|------:
-|1&#8209;2   |13+                      |10+           |16+           | 13+           |15+   
-|3&#8209;4   |12+                      |9+            |15+           | 12+           |14+   
-|5&#8209;6   |11+                      |8+            |14+           | 11+           |13+   
-|7&#8209;8   |10+                      |7+            |13+           | 10+           |12+   
-|9&#8209;10  |9+                       |6+            |12+           | 9+            |11+   
-|11&#8209;12 |8+                       |5+            |11+           | 8+            |10+   
-|13- 14      |7+                       |4+            |10+           | 7+            |9+    
+|Level       |Petrification & Paralysis|Poison & Death|Blast & Breath| Staffs & Wands|Spells  |Attack Throw |
+|:---------- |:-----------------------:|:------------:|:------------:| :------------:|:------:|:-----------:|
+|1&#8209;2   |13+                      |10+           |16+           | 13+           |15+     |10+          |
+|3           |12+                      |9+            |15+           | 12+           |14+     |10+          |
+|4           |12+                      |9+            |15+           | 12+           |14+     |9+           |
+|5&#8209;6   |11+                      |8+            |14+           | 11+           |13+     |9+           |
+|7&#8209;8   |10+                      |7+            |13+           | 10+           |12+     |8+           |
+|9           |9+                       |6+            |12+           | 9+            |11+     |8+           |
+|10          |9+                       |6+            |12+           | 9+            |11+     |7+           |
+|11&#8209;12 |8+                       |5+            |11+           | 8+            |10+     |7+           |
+|13&#8209;14 |7+                       |4+            |10+           | 7+            |9+      |6+           |                           
 
-#### Loremaster Attack Throws
+## Paladin
 
-| **Level**  | **Attack Throw**              
-| :----------|---:
-| 1&#8209;3  | 10+                           
-| 4&#8209;6  | 9+                           
-| 7&#8209;9  | 8+
-| 10&#8209;12| 7+                           
-| 13+        | 6+                            
+| Prime Requisite: | STR and CHA
+| :--------------- | :----------
+| Requirements:    | None
+| Hit Dice:        | 1d6
+| Maximum Level:   | 14
+| Age:             | 17 + 1d6
 
-### Venturer 
+Paladins are champions of Law who crusade unceasingly against those who seek to extinguish the light of civilization. Wherever the forces of Chaos marshal to threaten man, Paladins can be found, battling back the darkness with courage and steel. In and around Dunland, most Paladins are found in service to the Nine or one of the individual gods which make up the Nine. 
+
+As holy warriors, Paladins are highly trained combatants. At first level, Paladins hit an unarmored foe (AC 0) with an attack throw of 10+. Like fighters, they advance in attack throws and saving throws by two points every *three* levels of experience. Knights increase their base damage roll from missile and melee attacks by +1 at 1st level and by an additional +1 at 3rd, 6th, 9th, and 12th level.
+
+They may wear any armor, and may fight with a broad array of weapons, namely the battle axe, flail, lance, mace, morning star, pole arm, spear, sword, two-handed sword, and war hammer. All paladins may fight wielding a weapon and shield, wielding a weapon two-handed, or wielding a weapon in each hand, as desired. They may use any magic item usable by fighters. 
+
+All paladins must be of Lawful alignment. A paladin who changes to Neutral or
+Chaotic alignment loses his class powers.
+
+###### Paladin Level Progression
+
+|Experience|Title                   |Level|Hit Dice|Damage Bonus|
+|:---------|:-----------------------|:---:|:-------|:----------:|
+|0         |Bulwark                 |1    |1d6     |\+1         |
+|1,850     |Warder                  |2    |2d6     |\+1         |
+|3,700     |Defender                |3    |3d6     |\+2         |
+|7,400     |Protector               |4    |4d6     |\+2         |
+|14,800    |Guardian                |5    |5d6     |\+2         |
+|29,600    |Sentinel                |6    |6d6     |\+3         |
+|60,000    |Justiciar               |7    |7d6     |\+3         |
+|120,000   |Paladin                 |8    |8d6     |\+3         |
+|240,000   |Paladin Lord            |9    |9d6     |\+4         |
+|360,000   |Paladin Lord, 10th level|10   |9d6+2\* |\+4         |
+|480,000   |Paladin Lord, 11th level|11   |9d6+4\* |\+4         |
+|600,000   |Paladin Lord, 12th level|12   |9d6+6\* |\+5         |
+|720,000   |Paladin Lord, 13th level|13   |9d6+8\* |\+5         |
+|840,000   |Lord Protector          |14   |9d6+10\*|\+5         |
+
+_\*Hit point modifiers from constitution are ignored_
+
+If he later reverts to Lawful alignment and atones for any misdeeds (possibly through a **quest** or **atonement** spell) he can regain his lost powers. (A paladin who becomes Chaotic might be permitted to become an **anti-paladin**, at the Judge’s discretion. Such a black hearted traitor will be hated throughout
+civilized lands, of course.)
+
+In exchange for their devotion to Law, paladins receive many powers to aid them in their crusades against Chaos. Foremost among these is their **aura of protection**, which gives them a +1 bonus to AC and a +1 bonus on saving throws against attacks made or effects created by evil creatures. The paladin’s aura of protection appears as a golden halo when viewed with **detect good**, **detect magic**, or **true seeing**.
+
+Paladins also possess **sanctified bodies** that are completely immune to the ravages of disease, including magical diseases. This enables them to go on long crusades without succumbing to the diseases that kill many soldiers, as well as to face dread foes such as mummies or werewolves without fear of corruption.
+
+In order to defeat the enemies of Law, the paladin must find them. To this end, a paladin can **detect evil** (as the spell) up to 60’ away simply by concentrating. Each use takes a turn. (For purposes of the paladin’s aura and detection abilities, “evil” creatures include all undead, all summoned creatures, and any Chaotic creatures intending harm the paladin. Sinkholes of evil and magic items harmful to those of Lawful alignment will also be detected by the paladin’s power.)
+
+Finally, paladins may **lay on hands**, on others or on their own person, in order to heal injuries. A paladin will heal 2 points of damage per level when the power is used. A paladin may use his power to lay on hands once per day. A paladin may select the Laying on Hands proficiency to gain additional uses of the power per day.
+
+When a paladin reaches 5th level (Guardian), his **holy fervor** inspires others to follow him. Any hirelings of the same religion as the paladin gain a +1 bonus to their morale score whenever he is present. This bonus stacks with any modifiers from the paladin’s Charisma or proficiencies.
+
+At 9th level (Paladin Lord), a paladin can found or capture a **fortress** and become a protector of men. When he does so, up to 1d4+1x10 0th level mercenaries and 1d6 paladins of 1st-3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. Paladins’ dark fortresses are otherwise identical to fighters’ castles, as detailed in the **Campaign** chapter of the *ACKS* Rulebook.
+
+**Paladin Proficiency List:** Alertness, Blind Fighting, Combat Reflexes, Combat Trickery (force back, incapacitate, overrun, sunder), Command, Diplomacy, Divine Blessing, Dungeon Bashing, Endurance, Fighting Style, Goblin-Slaying, Healing, Knowledge (history), Illusion Resistance, Laying on Hands, Leadership, Manual of Arms, Military Strategy, Martial Training, Mystic Aura, Profession (judge), Riding, Running, Theology, Weapon Focus
+
+| Template:           | Champion                                                                                                                                                                     |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Proficiencies:      | Divine Blessing, Theology                                                                                                                                                    |
+| Starting Equipment: | Holy symbol (The Nine Stars), sword, steel shield bearing the Nine Stars, banded plate armor, wool tunic and pants, leather belt, low boots, backpack, 1 week’s iron rations |
+
+**Champion Template:** This pre-generated template represents a blessed champion of the Nine. The template is ready for adventure. However, if your Paladin’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see **Starting Proficiencies** in Chapter 4 of *ACKS*).
+
+###### Paladin Attack and Saving Throws
+
+|Level|Petrification & Paralysis|Poison & Death|Blast & Breath|Staffs & Wands|Spells|Attack Throw|
+|:----|:-----------------------:|:------------:|:------------:|:------------:|:----:|:----------:|
+|1    |15+                      |14+           |16+           |16+           |17+   |10+         |
+|2-3  |14+                      |13+           |15+           |15+           |16+   |9+          |
+|4    |13+                      |12+           |14+           |14+           |15+   |8+          |
+|5-6  |12+                      |11+           |13+           |13+           |14+   |7+          |
+|7    |11+                      |10+           |12+           |12+           |13+   |6+          |
+|8-9  |10+                      |9+            |11+           |11+           |12+   |5+          |
+|10   |9+                       |8+            |10+           |10+           |11+   |4+          |
+|11-12|8+                       |7+            |9+            |9+            |10+   |3+          |
+|13   |7+                       |6+            |8+            |8+            |9+    |2+          |
+|14   |6+                       |5+            |7+            |7+            |8+    |1+          |
+
+
+## Venturer 
 
 | Prime Requisite: | CHA
 | :--------------- | :----------
 | Requirements:    | None
 | Hit Dice:        | 1d6
 | Maximum Level:   | 14
+| Age:             | 17 + 2d4
 
 Commerce is the great wheel upon which the world turns. From the fleshy fingers
 of slave traders to jewel-clad guild masters, the coin and commodities of the
@@ -1000,10 +1041,10 @@ unknown lands, seeking out exotic goods and new markets. Every venturer is, by
 definition, an adventurer, and interested in any expedition that promises riches
 and reward.
 
-##### Venturer Level Progression
+###### Venturer Level Progression
 
 |Experience|Level|Title                      |Hit Dice
-|---------:|----:|:--------------------------|----------:
+|:---------|:---:|:--------------------------|:----------
 |0         |1    |Tinker                     |1d4        
 |1,250     |2    |Trader                     |2d4        
 |2,500     |3    |Arbitrager                 |3d4        
@@ -1037,11 +1078,11 @@ in mercantile ventures in a market they have previously visited, they treat the
 market as if it were one market class larger than its actual size. (Class I
 markets remain Class I markets.)
 
-EXAMPLE: Cain, a 5th level venturer, is in Cyfaraun (a Class IV market). He
+EXAMPLE: Cain, a 5th level venturer, is in Lingmell (a Class IV market). He
 wishes to purchase a heavy warhorse (700gp). According to the Equipment
 Availability by Market Class table, there is only a 25% chance for 1 heavy
 warhorse to be available in a Class IV market. However, Cain has visited
-Cyfaraun before, so he may treat it as a Class III market. There is a 100%
+Lingmell before, so he may treat it as a Class III market. There is a 100%
 chance for 1 heavy warhorse available in a Class III market, so Cain is able to
 purchase the heavy warhorse. His party members shake their heads in amazement
 that he’s found such a fine steed in an outpost town. “I know people,” he
@@ -1061,64 +1102,29 @@ Venturers know that business empires can rise and fall on information, so they
 learn to keep their ears open at all times. All venturers can **hear noises** as
 thieves of their level.
 
-They likewise become conversant in the tongues of their trading partners.
-Venturers begin play with four **bonus languages** selected from among those in
-common use in the campaign setting (Judge’s discretion). Venturers are also
-experts in **reading languages***.* On a proficiency throw of 5+ on 1d20, the
-venturer can decipher a document (including ciphers, treasure maps, and dead
-languages, but not magical writings). If the roll does not succeed, the venturer
-may not try to read that particular piece of writing until he reaches a higher
-level of experience.
+They likewise become conversant in the tongues of their trading partners. Venturers begin play with four **bonus languages** selected from among those in common use in the campaign setting (Judge’s discretion). Venturers are also experts in **reading languages**, on a proficiency throw of 5+ on 1d20, the venturer can decipher a document (including ciphers, treasure maps, and dead languages, but not magical writings). If the roll does not succeed, the venturer may not try to read that particular piece of writing until he reaches a higher level of experience.
 
-While most merchants consider risk a financial term, venturers lead their own
-caravans or fleets, and do so with considerable skill. As **expert**
-t**ravelers**, venturers begin play with Riding or Seafaring proficiency (their
-choice). Any time the venturer’s party is in terrain familiar to the venturer,
-they get a +4 bonus on proficiency throws to **avoid getting lost**.
+While most merchants consider risk a financial term, venturers lead their own caravans or fleets, and do so with considerable skill. As **expert travellers**, venturers begin play with Riding or Seafaring proficiency (their choice). Any time the venturer’s party is in terrain familiar to the venturer, they get a +4 bonus on proficiency throws to **avoid getting lost**.
 
-In order to open new markets and establish trade with unknown tribes, venturers
-study **diplomacy**. They receive a +2 bonus on all reaction rolls when they
-attempt to parley with intelligent creatures (as per the Diplomacy proficiency).
-Of course, not every market obeys the rule of law, so venturers also become
-exceptionally skilled at the art of **bribery**. Offering a bribe permits an
-additional reaction roll during encounters, with the throw modified by the size
-of the bribe. As a general rule, a bribe equal to one day’s pay for the target
-provides a +1 bonus, a week’s pay provides a +2 bonus, and a month’s pay
-provides a +3 bonus. Only one bribe can be attempted per target in any given
-situation.
+In order to open new markets and establish trade with unknown tribes, venturers study **diplomacy**. They receive a +2 bonus on all reaction rolls when they attempt to parley with intelligent creatures (as per the Diplomacy proficiency). Of course, not every market obeys the rule of law, so venturers also become exceptionally skilled at the art of **bribery**. Offering a bribe permits an additional reaction roll during encounters, with the throw modified by the size of the bribe. As a general rule, a bribe equal to one day’s pay for the target provides a +1 bonus, a week’s pay provides a +2 bonus, and a month’s pay provides a +3 bonus. Only one bribe can be attempted per target in any given situation. 
 
-When a venturer attains 9th level (Merchant Prince), he can establish a
-**guildhouse**, and 2d6 venturer apprentices of 1st level will offer to work for
-him. If hired, they must be paid standard rates for ruffians. Many venturers use
-these followers to start a syndicate, expanding their wealth through legitimate
-and illegitimate channels. Except as noted, a venturer’s guildhouse follows the
-rules for hideouts detailed in the **Hideouts & Hijinks** section of Chapter 7
-of *ACKS.*
+When a venturer attains 9th level (Merchant Prince), he can establish a **guildhouse**, and 2d6 venturer apprentices of 1st level will offer to work for him. If hired, they must be paid standard rates for ruffians. Many venturers use these followers to start a syndicate, expanding their wealth through legitimate and illegitimate channels. Except as noted, a venturer’s guildhouse follows the rules for hideouts detailed in the **Hideouts & Hijinks** section of Chapter 7 of *ACKS.*
 
-**Venturer Proficiency List:** Alertness, Ambushing, Arcane Dabbling\*,
-Bargaining, Climbing, Combat Reflexes, Combat Trickery (disarm, incapacitate),
-Command, Gambling, Intimidation, Language, Leadership, Lip Reading, Magical
-Engineering, Mapping, Mountaineering, Navigation, Passing Without Trace, Precise
-Shooting, Profession, Riding, Running, Seafaring, Signaling, Skirmishing,
-Swashbuckling, Weapon Finesse
+**Venturer Proficiency List:** Alertness, Ambushing, Arcane Dabbling\*, Bargaining, Climbing, Combat Reflexes, Combat Trickery (disarm, incapacitate), Command, Gambling, Intimidation, Language, Leadership, Lip Reading, Magical Engineering, Mapping, Mountaineering, Navigation, Passing Without Trace, Precise Shooting, Profession, Riding, Running, Seafaring, Signaling, Skirmishing, Swashbuckling, Weapon Finesse
 
 _\*Modified or new proficiency described on p. XX._
 
-|Template:               | Merchant Traveler 
+|Template:               | Merchant Traveller 
 |:-----------------------|:---
 |Proficiencies:          | Alertness, Navigation
 |Starting&#160;Equipment:| Crossbow, case with 20 bolts, short sword, 2 throwing daggers, sturdy leather armor, tanned brown cloak, thick tunic and pants, leather belt, low boots, backpack, 2 large treasure sacks, 50’ rope, tinderbox, lantern, small hammer, 12 iron spikes, 2 flasks of military oil, wineskin, 2 weeks’ iron rations, 3gp
 
-**Merchant Traveler Template:** This pre-generated template represents a
-merchant traveler focused on long-distance trade. The Template is ready for
-adventure. However, if your venturer’s INT is 13 or greater, you may pick one or
-more additional general proficiencies before play if you’d like (see **Starting
-Proficiencies** in Chapter 4 of *ACKS*).
+**Merchant Traveller Template:** This pre-generated template represents a merchant traveller focused on long-distance trade. The Template is ready for adventure. However, if your venturer’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see **Starting Proficiencies** in Chapter 4 of *ACKS*). 
 
-##### Venturer Attack and Saving Throws
+###### Venturer Attack and Saving Throws
 
 |Level      |Petrification & Paralysis|Poison & Death|Blast & Breath|Staffs & Wands|Spells|Attack Throw
-|:----------|------------------------:|-------------:|-------------:|-------------:|-----:|------------:
+|:----------|:-----------------------:|:------------:|:------------:|:------------:|:----:|:------------:
 |1&#8209;2  |13+                      |13+           |16+           |14+           |15+   |10+         
 |3&#8209;4  |12+                      |12+           |15+           |13+           |14+   |9+          
 |5&#8209;6  |11+                      |11+           |14+           |12+           |13+   |8+          
@@ -1127,13 +1133,14 @@ Proficiencies** in Chapter 4 of *ACKS*).
 |11&#8209;12|8+                       |8+            |11+           |9+            |10+   |5+          
 |13&#8209;14|7+                       |7+            |10+           |8+            |9+    |4+          
 
-### Witch
+## Witch
 
 | Prime Requisite: | WIS and CHA
 | :--------------- | :----------
 | Requirements:    | None
 | Hit Dice:        | 1d4
 | Maximum Level:   | 14
+| Age:             | 17 + 1d6
 
 The ignorant will often refer to any female spellcaster as a witch. Actual witches, however, are practitioners of a distinct craft of magic. Like priestesses and shamans, witches invoke ceremonial eldritch magic, but they do not organize into communities of faith nor do they dedicate themselves to the service of their gods or goddesses. Rather, the relationship of a witch to her divine patron is that of student to teacher, rooted in ancient pacts and secretive traditions. The witch seeks to gain personal knowledge and strength by accepting the guidance and patronage of ancient powers. This quest for knowledge and power often drives witches to become adventurers.
 
@@ -1180,59 +1187,41 @@ Different traditions are practiced in different countries, the table below shows
 |Chthonic   | ~~Shadowmire~~, ~~Far&#160;Isles~~,                 | Malefic practitioners who consort with the darkest of powers, reveling in the seduction and corruption of the innocent.                     
 |Sylvan     | ~~Acernai&#160;Tribes~~, ~~Viccada~~                | Reclusive witches who travel the borderlands between human settlements and fey forests.
 |Voudon     | ~~Viccada~~, ~~Anduria~~, ~~Far&#160;Isles~~        | Tribal witches who barter with ancestral spirits and animistic powers to gain power over the living and the dead.                            
+_\* Struck through lands are not available to players yet._
 
-\* Struck through lands are not available to players yet.
+### Antiquarian Witch
 
-#### Antiquarian Witch
+1st level: With simple herbs and medicinal folklore, the antiquarian witch learns to treat ailments and injuries. The witch gains one rank of the **Healing** proficiency.
 
-1st level: With simple herbs and medicinal folklore, the antiquarian witch
-learns to treat ailments and injuries. The witch gains one rank of the
-**Healing** proficiency.
+3rd level: The antiquarian witch knows much that has been lost about the healing arts. She gains the power to **cure moderate wounds** by touch once every 8 hours. Each use takes 1 turn (10 minutes).
 
-3rd level: The antiquarian witch knows much that has been lost about the healing
-arts. She gains the power to **cure moderate wounds** by touch once every 8
-hours. Each use takes 1 turn (10 minutes).
+5th level: The antiquarian witch expands her knowledge of herbs and brews into truly arcane formulations. She gains one rank of Alchemy proficiency.
 
-5th level: The antiquarian witch expands her knowledge of herbs and brews into
-truly arcane formulations. She gains one rank of Alchemy proficiency.
+7th level: Poisons are much studied and little feared by the antiquarian witch. She gains the power to **neutralize poison** once per day. Each use takes 1 turn (10 minutes).
 
-7th level: Poisons are much studied and little feared by the antiquarian witch.
-She gains the power to **neutralize poison** once per day. Each use takes 1 turn
-(10 minutes).
+### Chthonic Witch
 
-#### Chthonic Witch
+1st level: The chthonic witch learns depraved arts of pleasure from the dark powers. She gains the **Seduction** proficiency.
 
-1st level: The chthonic witch learns depraved arts of pleasure from the dark
-powers. She gains the **Seduction** proficiency.
+3rd level: The mysteries of death are unlocked for the chthonic witch. She gains the **Black Lore of Zahar** proficiency.
 
-3rd level: The mysteries of death are unlocked for the chthonic witch. She gains
-the **Black Lore of Zahar** proficiency.
+5th level: Few can resist the chthonic witch’s ravishing glamour. The witch gains the **Mystic Aura** proficiency.
 
-5th level: Few can resist the chthonic witch’s ravishing glamour. The witch
-gains the **Mystic Aura** proficiency.
+7th level: With dark whispers the chthonic witch can dominate the weak-willed. The witch gains the power to **charm person** once per day. Each use takes 1 round (10 seconds).
 
-7th level: With dark whispers the chthonic witch can dominate the weak-willed.
-The witch gains the power to **charm person** once per day. Each use takes 1
-round (10 seconds).
+### Sylvan Witch
 
-#### Sylvan Witch
+1st level: From long years in the company of wild and fey things, the sylvan witch gains the **Beast Friendship** proficiency.
 
-1st level: From long years in the company of wild and fey things, the sylvan
-witch gains the **Beast Friendship** proficiency.
+3rd level: Through fey glamours and bewitching dweomers, the witch can appear however she desires. She gains the power to **change shape** (as a warlock) once per day. Each use takes 1 turn (10 minutes).
 
-3rd level: Through fey glamours and bewitching dweomers, the witch can appear
-however she desires. She gains the power to **change shape** (as a warlock) once per day. Each use takes 1 turn (10 minutes).
+5th level: The sylvan witch becomes one with the forests around her. She gains the **Passing Without Trace** proficiency.
 
-5th level: The sylvan witch becomes one with the forests around her. She gains
-the **Passing Without Trace** proficiency.
+7th level: No longer bound by the humanoid form, the sylvan witch can take on fantastical shapes. The witch gains the power to **polymorph self** once per week. Each use takes 1 turn (10 minutes).
 
-7th level: No longer bound by the humanoid form, the sylvan witch can take on
-fantastical shapes. The witch gains the power to **polymorph self** once per
-week. Each use takes 1 turn (10 minutes).
+### Voudon Witch
 
-#### Voudon Witch
-
-1st level: The witch gains a **Craft** proficiency of her choice. Voudon witches craft a wide variety of symbols and talismans to be used when casting their spells, with individual witches choosing a single craft with which to make their talismans.
+1st level: The witch gains a **Craft** proficiency of her choice. Voudon witches craft a wide variety of symbols and talismans to be used when casting their spells, with individual witches choosing a single craft with which to make their talismans. 
 
 3rd level: The witch has learned **grey lore**, straddling darkness and light. She gains the ability to turn undead as a cleric of one half her class level. When the witch casts spells that inflict fear effects (such as **cause fear**), the spell effects are calculated as if she were two class levels higher than her actual level of experience, and are resisted with a -2 penalty on the saving throw.
 
@@ -1242,8 +1231,7 @@ week. Each use takes 1 turn (10 minutes).
 
 Upon attaining 9th level (Witch), a witch of any tradition may establish a **coven**, usually in a remote and desolate location. If she does so, he will attract 1d6 apprentices of her tradition between 1st-3rd level plus 2d6 normal women seeking to become witches. Their Wisdom scores will be above average, but many will become fearful of the sacrifices involved and quit after 1d6 months. While in the witch’s service, apprentices must be provided food and lodging, but need not be paid wages. If the witch builds a **dungeon** beneath or near her coven, monsters will start to arrive to dwell within, followed shortly by adventurers seeking to fight them. Witches’ covens are otherwise identical to mages’ sanctums, as detailed in the **Campaign** chapter of the *ACKS* Rulebook.
 
-**Witch Proficiency List:** Alchemy, Apostasy, Arcane Dabbling, Beast
-Friendship, Black Lore of Zahar, Contemplation, Craft, Divine Blessing, Divine
+**Witch Proficiency List:** Alchemy, Apostasy, Arcane Dabbling, Beast Friendship, Black Lore of Zahar, Contemplation, Craft, Divine Blessing, Divine
 Health, Elementalism, Elven Bloodline, Familiar, Healing, Illusion Resistance,
 Laying on Hands, Loremastery, Magical Engineering, Magical Music, Mystic Aura,
 Naturalism, Prestidigitation, Prophecy, Quiet Magic, Seduction, Sensing Power,
@@ -1254,43 +1242,31 @@ Theology, Transmogrification, Unflappable Casting
 |Proficiencies:     | Laying on Hands Healing *Healing 2*
 |Starting Equipment:| Holy symbol (pair of horns around lunar disc), slender oak staff, freeholder’s dress, leather belt, leather shoes, backpack, 1lb birthwort, 2lb comfrey, 1lb goldenrod, 1lb woundwort, 5 scented wax candles, flask of holy water, 2 weeks’ iron rations, 7gp 
 
-**Village Witch Template:** This pre-generated template represents a rural witch
-from the antiquarian tradition. The template is ready for adventure. However, if
-your witch’s INT is 13 or greater, you may pick one or more additional general
-proficiencies before play if you’d like (see **Starting Proficiencies** in
-Chapter 4 of *ACKS*).
+**Village Witch Template:** This pre-generated template represents a rural witch from the antiquarian tradition. The template is ready for adventure. However, if your witch’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see **Starting Proficiencies** in Chapter 4 of *ACKS*).
 
-#### Witch Saving Throws
+###### Witch Attack & Saving Throws
 
-|Level      |Petrification & Paralysis|Poison & Death|Blast & Breath|Staffs & Wands|Spells
-|:----------|------------------------:|-------------:|-------------:|-------------:|-----:
-|1&#8209;2  |13+                      |10+           |16+           |13+           |15+   
-|3&#8209;4  |12+                      |9+            |15+           |12+           |14+   
-|5&#8209;6  |11+                      |8+            |14+           |11+           |13+   
-|7&#8209;8  |10+                      |7+            |13+           |10+           |12+   
-|9&#8209;10 |9+                       |6+            |12+           |9+            |11+   
-|11&#8209;12|8+                       |5+            |11+           |8+            |10+   
-|13&#8209;14|7+                       |4+            |10+           |7+            |9+    
+|Level      |Petrification & Paralysis|Poison & Death|Blast & Breath|Staffs & Wands|Spells|Attack Throw|
+|:----------|:-----------------------:|:------------:|:------------:|:------------:|:----:|:----------:|
+|1&#8209;2  |13+                      |10+           |16+           |13+           |15+   |10+         |
+|3          |12+                      |9+            |15+           |12+           |14+   |10+         |
+|4          |12+                      |9+            |15+           |12+           |14+   |9+          |
+|5&#8209;6  |11+                      |8+            |14+           |11+           |13+   |9+          |
+|7&#8209;8  |10+                      |7+            |13+           |10+           |12+   |8+          |
+|9          |9+                       |6+            |12+           |9+            |11+   |8+          |
+|10         |9+                       |6+            |12+           |9+            |11+   |7+          |
+|11&#8209;12|8+                       |5+            |11+           |8+            |10+   |7+          |
+|13&#8209;14|7+                       |4+            |10+           |7+            |9+    |6+          |         
 
 
-#### Witch Attack Throws
-
-|Level|Attack Throw
-|:----|---:
-|1-3  |10+                   
-|4-6  |9+                     
-|7-9  |8+                     
-|10-12|7+                   
-|13-14|6+                   
-
-
-### Dwarven Vaultguard
+## Dwarven Vaultguard
 
 | Prime Requisite: | STR
 | :--------------- | :----
 | Requirements:    | CON 9
 | Hit Dice:        | 1d8
 | Maximum Level:   | 13
+| Age:             | 23 + 3d4
 
 Dwarves are stout, short, bearded demi-humans who average a height of approximately 4' and weigh about 150lb. Perhaps not surprisingly, they have skin, hair and eye colors in earth tones. Dwarves have a reputation for having surly attitudes, and are particularly gruff with elves. They value precious metals and stones, and live in deep underground vaults, where they endure constant raids from the orcs, trolls, and even worse denizens of the darkness below.
 
@@ -1300,9 +1276,9 @@ Dwarven vaultguards are highly trained combatants. At first level, dwarven vault
 
 Dwarves gain a +1 bonus to surprise rolls when underground due to sensitivity to the rock and stone around them. Because of their experience underground, dwarves may detect traps, false walls, hidden construction, or sloped passages with a proficiency throw of 14+ on 1d20. Dwarves must be actively searching for these abilities to function.
 
-In addition to these abilities, dwarves are particularly hardy people. The target values for all their saving throws versus Blast/Breath are reduced by 3, while the target values for all their other saving throws are reduced by 4. These adjustments are already factored into the saving throws on the [Dwarven Vaultguard Attack and Saving Throws](Chapter02.md#dwarven-vaultguard-fighter-attack-and-saving-throws) table below. Dwarf characters will speak the Common and Dwarvish tongue and, because of their frequent interaction underground with these monsters, dwarves can also speak Goblin, Gnome, and Kobold.
+In addition to these abilities, dwarves are particularly hardy people. The target values for all their saving throws versus Blast/Breath are reduced by 3, while the target values for all their other saving throws are reduced by 4. These adjustments are already factored into the saving throws on the Dwarven Vaultguard Attack and Saving Throws table below. Dwarven characters speak the Dwarvish tongue and, because of their frequent interaction with other races they can also speak Frost Giant, Dunish, Hendrical, and the Dark tounge of the Beastmen.
 
-When a dwarven vaultguard reaches 9th level (Vaultlord), he can attract dwarves from far and wide by constructing his own underground vault. Dwarves usually live in clans, so dwarves of the character's clan will be the first to live under his roof, but dwarves from other clans will also come and live nearby to be ruled by the character. A total of 3d6x10 1st level NPCs of the same race will move in to help maintain and defend the vault at no cost to the character. A dwarven vaultguard is expected to employ only soldiers of dwarven descent, but may hire members of other races for other tasks. Additional rules for dwarven vaults are detailed in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
+When a dwarven vaultguard reaches 9th level (Vaultlord), he can attract dwarves from far and wide by constructing his own underground vault. Dwarves usually live in clans, so dwarves of the character's clan will be the first to live under his roof, but dwarves from other clans will also come and live nearby to be ruled by the character. A total of 3d6x10 1st level NPCs of the same race will move in to help maintain and defend the vault at no cost to the character. A dwarven vaultguard is expected to employ only soldiers of dwarven descent, but may hire members of other races for other tasks. Additional rules for dwarven vaults are detailed in the Campaigns chapter.
 
 
 | Template:           | Goblin Slayer
@@ -1310,52 +1286,53 @@ When a dwarven vaultguard reaches 9th level (Vaultlord), he can attract dwarves 
 | Proficiencies:      | Goblin-Slaying, Caving
 | Starting Equipment: | Dwarven battle axe, brace of 3 hand axes, rust-free banded plate armor, large steel shield with painted vault insignia, backpack, 2 week's iron rations, lantern, 2 flasks of military oil, 3 flasks of common oil, tinder box
 
-This pre-generated template represents a dwarven vaultguard specializing in fighting goblins, kobolds, and other denizens of the darkness below. The template is ready for adventure. However, if your dwarven vaultguard's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
+This pre-generated template represents a dwarven vaultguard specializing in fighting goblins, kobolds, and other denizens of the darkness below. The template is ready for adventure. However, if your dwarven vaultguard's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
 
 
-#### Dwarven Vaultguard Level Progression
+###### Dwarven Vaultguard Level Progression
 
 | Experience | Title               | Level | Hit Dice | Damage Bonus
-| ---------: | :------------------ | ----: | :------- | -----------:
-|          0 | Sentry              |     1 | 1d8      |           +1
-|      2,200 | Warden              |     2 | 2d8      |           +1
-|      4,400 | Shieldbearer        |     3 | 3d8      |           +2
-|      8,800 | Defender            |     4 | 4d8      |           +2
-|     17,500 | Sentinel            |     5 | 5d8      |           +2
-|     35,000 | Guardian            |     6 | 6d8      |           +3
-|     70,000 | Champion            |     7 | 7d8      |           +3
-|    140,000 | Vaultguard          |     8 | 8d8      |           +3
-|    270,000 | Vaultlord           |     9 | 9d8      |           +4
-|    400,000 | Vaultlord, 10th lvl |    10 | 9d8+3*   |           +4
-|    530,000 | Vaultlord, 11th lvl |    11 | 9d8+6*   |           +4
-|    660,000 | Vaultlord, 12th lvl |    12 | 9d8+9*   |           +5
-|    790,000 | Vaultlord, 13th lvl |    13 | 9d8+12*  |           +5
+| :--------- | :------------------ | :---: | :------- | :----------:
+| 0          | Sentry              | 1     | 1d8      |           +1
+| 2,200      | Warden              | 2     | 2d8      |           +1
+| 4,400      | Shieldbearer        | 3     | 3d8      |           +2
+| 8,800      | Defender            | 4     | 4d8      |           +2
+| 17,500     | Sentinel            | 5     | 5d8      |           +2
+| 35,000     | Guardian            | 6     | 6d8      |           +3
+| 70,000     | Champion            | 7     | 7d8      |           +3
+| 140,000    | Vaultguard          | 8     | 8d8      |           +3
+| 270,000    | Vaultlord           | 9     | 9d8      |           +4
+| 400,000    | Vaultlord, 10th lvl | 10    | 9d8+3*   |           +4
+| 530,000    | Vaultlord, 11th lvl | 11    | 9d8+6*   |           +4
+| 660,000    | Vaultlord, 12th lvl | 12    | 9d8+9*   |           +5
+| 790,000    | Vaultlord, 13th lvl | 13    | 9d8+12*  |           +5
 
 *Hit point modifiers from constitution are ignored
 
 
-#### Dwarven Vaultguard (Fighter) Attack and Saving Throws
+###### Dwarven Vaultguard (Fighter) Attack and Saving Throws
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-| 1     |                       11+ |            10+ |            13+ |            12+ |    13+ |          10+
-| 2-3   |                       10+ |             9+ |            12+ |            11+ |    12+ |           9+
-| 4     |                        9+ |             8+ |            11+ |            10+ |    11+ |           8+
-| 5-6   |                        8+ |             7+ |            10+ |             9+ |    10+ |           7+
-| 7     |                        7+ |             6+ |             9+ |             8+ |     9+ |           6+
-| 8-9   |                        6+ |             5+ |             8+ |             7+ |     8+ |           5+
-| 10    |                        5+ |             4+ |             7+ |             6+ |     7+ |           4+
-| 11-12 |                        4+ |             3+ |             6+ |             5+ |     6+ |           3+
-| 13    |                        3+ |             2+ |             5+ |             4+ |     5+ |           2+
+| :---- | :-----------------------: | :------------: | :------------: | :------------: | :----: | :-----------:
+| 1     | 11+                       | 10+            | 13+            | 12+            | 13+    |          10+
+| 2-3   | 10+                       | 9+             | 12+            | 11+            | 12+    |           9+
+| 4     | 9+                        | 8+             | 11+            | 10+            | 11+    |           8+
+| 5-6   | 8+                        | 7+             | 10+            | 9+             | 10+    |           7+
+| 7     | 7+                        | 6+             | 9+             | 8+             | 9+     |           6+
+| 8-9   | 6+                        | 5+             | 8+             | 7+             | 8+     |           5+
+| 10    | 5+                        | 4+             | 7+             | 6+             | 7+     |           4+
+| 11-12 | 4+                        | 3+             | 6+             | 5+             | 6+     |           3+
+| 13    | 3+                        | 2+             | 5+             | 4+             | 5+     |           2+
 
 
-### Dwarven Craftpriest
+## Dwarven Craftpriest
 
 | Prime Requisite: | WIS
 | :--------------- | :----
 | Requirements:    | CON 9
 | Hit Dice:        | 1d6
 | Maximum Level:   | 10
+| Age:             | 25 + 2d8
 
 Nothing is so revered among the dwarven people as craftsmanship. A dwarf's work is his life, and the spirits of great dwarven artisans are believed to live on forever in their masterpieces. The veneration of these relics falls to the care of a caste of dwarves known as craftpriests. While most craftpriests attend to the shrines and monuments of their clan, young craftpriests are sometimes sent forth to recover monuments to the glorious past from the ancient ruins and wastelands of the world. This class represents such a craftpriest.
 
@@ -1365,7 +1342,7 @@ Starting at 2nd level (Craft-Acolyte), a craftpriests begins to **learn and perf
 
 Because of their **religious training**, a craftpriest can automatically identify religious symbols, trappings, and holy days of the dwarven faith, and recognizes those of other faiths with a proficiency throw of 8+ on 1d20. In addition, each dwarven craftpriest is a **master in a particular type of craft**, such as armor-making, leatherworking, weapon-smithing, etc. With access to craftsman’s tools, the character can produce 40gp worth of items per month, and supervise 2 journeyman and 4 apprentices in his craft. When examining works of his craft, the craftpriest can identify masterwork items, rare materials, and famous artisans with a proficiency throw of 8+ on 1d20. Their **attention to detail** gives craftpriests a +3 bonus on proficiency rolls for other proficiencies they learn as well.
 
-Dwarves gain a +1 bonus to surprise rolls when underground due to **sensitivity to the rock and stone** around them. Because of their experience underground, dwarves may **detect traps**, false walls, hidden construction, or sloped passages with a proficiency throw of 14+ on 1d20. Dwarves must be actively searching for these abilities to function. In addition to these abilities, dwarves are particularly **hardy people**. The target values for all their saving throws versus Blast/Breath are reduced by 3, while the target values for all their other saving throws are reduced by 4. These adjustments are already factored into the saving throws on the Dwarven Craftpriest Attack and Saving Throws table below. Dwarven characters speak the Common and Dwarvish tongue and, because of their frequent interaction underground with these monsters, also speak Goblin, Gnome, and Kobold.
+Dwarves gain a +1 bonus to surprise rolls when underground due to **sensitivity to the rock and stone** around them. Because of their experience underground, dwarves may **detect traps**, false walls, hidden construction, or sloped passages with a proficiency throw of 14+ on 1d20. Dwarves must be actively searching for these abilities to function. In addition to these abilities, dwarves are particularly **hardy people**. The target values for all their saving throws versus Blast/Breath are reduced by 3, while the target values for all their other saving throws are reduced by 4. These adjustments are already factored into the saving throws on the Dwarven Craftpriest Attack and Saving Throws table below. Dwarven characters speak the Dwarvish tongue and, because of their frequent interaction with other races they can also speak Frost Giant, Dunish, Hendrical, and the Dark tounge of the Beastmen.
 
 Starting at 5th level (Craft-Vicar), a craftpriest may begin to research spells, scribe scrolls, and brew potions. At 9th level (Craft-Lord), he is able to create more powerful magic items such as weapons, rings, and staffs, and craft magical constructs such as golems. At 9th level, he also can construct a **vault** that will attract dwarves from far and wide. Dwarves of the character’s clan will be the first to live under his roof, but dwarves from other clans will also come and live nearby to be ruled by the character. A total of 3d6x10 1st level NPCs of the same race will move in to help maintain and defend the vault at no cost to the character. A Craft-Lord is expected to employ only soldiers of dwarven descent, but may hire members of other races for other tasks. Additional rules for dwarven vaults are detailed in the **Campaign** chapter.
 
@@ -1376,54 +1353,55 @@ Starting at 5th level (Craft-Vicar), a craftpriest may begin to research spells,
 | Proficiencies:         | Magical Engineering, Knowledge (History)
 | Starting Equipment:    | Warhammer with carved head, engraved banded plate armor, steel shield with craft insignia, steel holy symbol (craft insignia), backpack, 2 week's iron rations, craftsman's tools
 
-This pre-generated template represents a craftpriest focused on reclaiming lost artifacts from evil forces. The template is ready for adventure. However, if your dwarven craftpriest's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
+This pre-generated template represents a craftpriest focused on reclaiming lost artifacts from evil forces. The template is ready for adventure. However, if your dwarven craftpriest's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
 
 
-#### Craftpriest Level and Spell Progression
+###### Craftpriest Level and Spell Progression
 
-| Experience | Title                        | Level | Hit Dice |   1 |   2 |   3 |   4 |   5
-| ---------: | :--------------------------- | ----: | :------- | --: | --: | --: | --: | --:
-|          0 | Dwarven Craft-Catechist      |     1 | 1d6      |   0 |   0 |   0 |   0 |   0
-|      2,400 | Dwarven Craft-Acolyte        |     2 | 2d6      |   1 |   0 |   0 |   0 |   0
-|      4,800 | Dwarven Craftpriest          |     3 | 3d6      |   2 |   0 |   0 |   0 |   0
-|      9,600 | Dwarven Craft-Curate         |     4 | 4d6      |   2 |   1 |   0 |   0 |   0
-|     19,200 | Dwarven Craft-Vicar          |     5 | 5d6      |   2 |   2 |   0 |   0 |   0
-|     38,400 | Dwarven Craft-Rector         |     6 | 6d6      |   2 |   2 |   1 |   1 |   0
-|     75,000 | Dwarven Craft-Prelate        |     7 | 7d6      |   2 |   2 |   2 |   1 |   1
-|    150,000 | Dwarven Craft-Bishop         |     8 | 8d6      |   3 |   3 |   2 |   2 |   1
-|    280,000 | Dwarven Craft-Lord           |     9 | 9d6      |   3 |   3 |   3 |   2 |   2
-|    410,000 | Dwarven Craft-Lord, 10th lvl |    10 | 9d6+2*   |   4 |   4 |   3 |   3 |   2
+|Experience|Title                       |Level|Hit Dice|   1 |   2 |   3 |   4 |   5|
+|:---------|:---------------------------|:---:|:-------|:--:| :--: | :--: | :--: | :--:|
+|0         |Dwarven Craft-Catechist     |1    |1d6     |   0 |   0 |   0 |   0 |   0|
+|2,400     |Dwarven Craft-Acolyte       |2    |2d6     |   1 |   0 |   0 |   0 |   0|
+|4,800     |Dwarven Craftpriest         |3    |3d6     |   2 |   0 |   0 |   0 |   0|
+|9,600     |Dwarven Craft-Curate        |4    |4d6     |   2 |   1 |   0 |   0 |   0|
+|19,200    |Dwarven Craft-Vicar         |5    |5d6     |   2 |   2 |   0 |   0 |   0|
+|38,400    |Dwarven Craft-Rector        |6    |6d6     |   2 |   2 |   1 |   1 |   0|
+|75,000    |Dwarven Craft-Prelate       |7    |7d6     |   2 |   2 |   2 |   1 |   1|
+|150,000   |Dwarven Craft-Bishop        |8    |8d6     |   3 |   3 |   2 |   2 |   1|
+|280,000   |Dwarven Craft-Lord          |9    |9d6     |   3 |   3 |   3 |   2 |   2|
+|410,000   |Dwarven Craft-Lord, 10th lvl|10   |9d6+2*  |   4 |   4 |   3 |   3 |   2|
 
 *Hit point modifiers from constitution are ignored
 
 
-#### Dwarven Craftpriest (Cleric) Attack and Saving Throws
+###### Dwarven Craftpriest (Cleric) Attack and Saving Throws
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-| 1-2   |                        9+ |             6+ |            13+ |             9+ |    11+ |          10+
-| 3-4   |                        8+ |             5+ |            12+ |             8+ |    10+ |           9+
-| 5-6   |                        7+ |             4+ |            11+ |             7+ |     9+ |           8+
-| 7-8   |                        6+ |             3+ |            10+ |             6+ |     8+ |           7+
-| 9-10  |                        5+ |             2+ |             9+ |             5+ |     7+ |           6+
+| :---- | :-----------------------: | :------------: | :------------: | :------------: | :----: | :-----------:
+| 1-2   | 9+                        | 6+             | 13+            | 9+             | 11+    |          10+
+| 3-4   | 8+                        | 5+             | 12+            | 8+             | 10+    |           9+
+| 5-6   | 7+                        | 4+             | 11+            | 7+             | 9+     |           8+
+| 7-8   | 6+                        | 3+             | 10+            | 6+             | 8+     |           7+
+| 9-10  | 5+                        | 2+             | 9+             | 5+             | 7+     |           6+
 
 
-#### Dwarven Delver
+## Dwarven Delver
 
 | Prime Requisite: | DEX
 | :--------------- | :----
 | Requirements:    | CON 9
 | Hit Dice:        | 1d6
 | Maximum Level:   | 11
+| Age:             | 21 + 3d4
 
-Deep into Middle Earth the dwarves have delved, there discovering labyrinthine caverns and winding tunnels stretching hundreds and perhaps thousands of miles under the earth. Even the most exhaustive of dwarven maps has charted only a fraction of these tunnels, and most have never been trod by dwarven boots. The dwarven delver is one of the brave few dwarves that explore and map these sepulchral lands, so far from the warm forges of home. Confronted by the perils of cave-ins, beastmen, and dark threats unknown to the light of day, few delvers survive their first expedition. This only adds to the renown of those who do, attracting a new generation of foolhardy young dwarves to the perils of the darkness below.
+Deep into the earth the dwarves have delved, there discovering labyrinthine caverns and winding tunnels stretching hundreds and perhaps thousands of miles under the earth. Even the most exhaustive of dwarven maps has charted only a fraction of these tunnels, and most have never been trod by dwarven boots. The dwarven delver is one of the brave few dwarves that explore and map these sepulchral lands, so far from the warm forges of home. Confronted by the perils of cave-ins, beastmen, and dark threats unknown to the light of day, few delvers survive their first expedition. This only adds to the renown of those who do, attracting a new generation of foolhardy young dwarves to the perils of the darkness below.
 
 Dwarven delvers are able combatants. Like thieves, they advance in attack throws and saving throws by two points every *four* levels of experience. At first level, delvers hit an unarmored foe (AC 0) with an attack throw of 10+. They may fight wielding a weapon in either hand or a wielding a weapon two-handed, but cannot use shields. Valuing mobility and stealth over the false security of heavy armor, delvers wear only leather armor or lighter. They are trained to fight with all missile weapons and all axes, hammers, flails, and maces. They may use any magic item usable by thieves.
 
-##### Dwarven Delver Level Progression
+###### Dwarven Delver Level Progression
 
 |Experience|Title                      |Level|Hit Dice|Hide in Shadows|Move Silently|Climb Walls|Find Traps|Hear Noises|Back Stab|
-|---------:|:--------------------------|----:|-------:|--------------:|------------:|----------:|---------:|----------:|--------:|
+|:---------|:--------------------------|:---:|:------:|:-------------:|:-----------:|:---------:|:--------:|:---------:|:-------:|
 |0         |Dwarven Caver              |1    |1d6     |17+            |15+          |4+         |14+       |12+        |x2       |
 |2,000     |Dwarven Tunneler           |2    |2d6     |16+            |14+          |3+         |14+       |11+        |x2       |
 |4,000     |Dwarven Excavator          |3    |3d6     |15+            |13+          |3+         |14+       |10+        |x2       |
@@ -1443,7 +1421,7 @@ By necessity, all dwarven delver are **expert cavers**, able to keep maps in the
 
 Dwarven delvers gain a +1 bonus on all surprise rolls when underground due to **sensitivity to the rock and stone** around them. When underground a delver can **detect false walls**, **hidden construction**, **or sloped passages** with a proficiency throw of 14+ on 1d20, if actively searching.
 
-Like all dwarves, delvers are **hardy people**. The target values for all their saving throws versus Blast/Breath are reduced by 3, while the target values for all their other saving throws are reduced by 4. These adjustments are already factored into the saving throws on the Dwarven Delver Attack and Saving Throws table below. Dwarven delvers will speak the Common and Dwarvish tongue and, because of their frequent interaction underground with these monsters, will also speak Goblin, Gnome, and Kobold.
+Like all dwarves, delvers are **hardy people**. The target values for all their saving throws versus Blast/Breath are reduced by 3, while the target values for all their other saving throws are reduced by 4. These adjustments are already factored into the saving throws on the Dwarven Delver Attack and Saving Throws table below. Dwarven characters speak the Dwarvish tongue and, because of their frequent interaction with other races they can also speak Frost Giant, Dunish, Hendrical, and the Dark tounge of the Beastmen.
 
 When a dwarven delver reaches 9th level (Dwarven Pioneer), his reputation is such that he can attract dwarves from far and wide by constructing a new underground **vault** in an unsettled region. Dwarves usually live in clans, so dwarves of the character’s clan will be the first to live under his roof, but dwarves from other clans will also come and live nearby to be ruled by the character. A total of 3d6x10 1st level NPCs of the same race will move in to help maintain and defend the vault at no cost to the character. A dwarven delver is expected to employ only soldiers of dwarven descent, but may hire members of other races for other tasks. A delver’s vault follows all the rules for dwarven vaults detailed in the **Dwarven Vaults** section of Chapter 7 of *ACKS.*
 
@@ -1458,16 +1436,202 @@ _\*New proficiencies described in Chapter 6._
 
 **Tunnel Runner Template:** This pre-generated template represents a highly mobile dwarven tunnel runner, skilled at scouting and maneuver in the underdark. The template is ready for adventure. However, if your delver’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see **Starting Proficiencies** in Chapter 4 of *ACKS*).
 
-#### Dwarven Delver Attack and Saving Throws
+###### Dwarven Delver Attack and Saving Throws
  
 |Level|Petrification & Paralysis|Poison & Death|Blast & Breath|Staffs & Wands|Spells|Attack Throw
-|:----|------------------------:|-------------:|-------------:|-------------:|-----:|------------:
+|:----|:-----------------------:|:------------:|:------------:|:------------:|:----:|:------------:
 |1-2  |9+                       |9+            |13+           |10+           |11+   |10+         
 |3-4  |8+                       |8+            |12+           |9+            |10+   |9+          
 |5-6  |7+                       |7+            |11+           |8+            |9+    |8+          
 |7-8  |6+                       |6+            |10+           |7+            |8+    |7+          
 |9-10 |5+                       |5+            |9+            |6+            |7+    |6+          
 |11   |4+                       |4+            |8+            |5+            |6+    |5+          
+
+
+## Dwarven Machinist
+
+| Prime Requisite: | INT and DEX
+| :--------------- | :----
+| Requirements:    | CON 9
+| Hit Dice:        | 1d6
+| Maximum Level:   | 10
+| Age:             | 28 + 2d8
+
+While all dwarves share a predilection for mechanical devices, in some dwarves
+this predilection is honed to an obsession. Dwarven machinists work wonders with
+wood, metal, steam, and fire, crafting marvelous machines that move on their
+own, lift great weights, and even fight their race’s foes.
+
+The reasons why machinists leave the safety of the dwarven vaults to become
+adventurers are varied. Some evil machinists are exiled for using their vaults
+as personal laboratories for their capricious creations. At the other extreme,
+some machinists use their devices to protect and serve the causes of Law where
+it is most threatened. But most adventuring machinists are merely enterprising
+sorts who seek to acquire resources, test experimental machines, and recover
+lost devices.
+
+###### Dwarven Machinist Level Progression
+
+|Experience|Title                               |Level|Hit Dice|Open Locks|Find/Remove Traps|Design/Build/Repair Automaton|
+|:---------|:-----------------------------------|:---:|:-------|:--------:|:---------------:|:---------------------------:|
+|0         |Dwarven Apprentice                  |1    |1d6     |15+       |15+              |14+                          |
+|2,300     |Dwarven Mechanic                    |2    |2d6     |14+       |14+              |13+                          |
+|4,600     |Dwarven Shaper                      |3    |3d6     |13+       |13+              |12+                          |
+|9,200     |Dwarven Forger                      |4    |4d6     |12+       |12+              |11+                          |
+|18,400    |Dwarven Maker                       |5    |5d6     |11+       |11+              |10+                          |
+|36,800    |Dwarven Engineer                    |6    |6d6     |9+        |10+              |9+                           |
+|75,000    |Dwarven Artificer                   |7    |7d6     |7+        |8+               |8+                           |
+|150,000   |Dwarven Machinist                   |8    |8d6     |5+        |6+               |7+                           |
+|280,000   |Dwarven Master Machinist            |9    |9d6     |3+        |4+               |6+                           |
+|410,000   |Dwarven Master Machinist, 10th level|10   |9d6+3\* |1+        |2+               |5+                           |
+
+_\*Hit point modifiers from constitution are ignored_
+
+Relative to the renowned vaultguards of their race, dwarven machinists are only mediocre combatants. At first level, machinists hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws and saving throws by two points every *four* levels of experience (i.e. the same as thieves). They may fight wielding a weapon and shield or a wielding a weapon two-handed, but cannot dual wield. Machinists may wear chain mail or lighter armor, but wield only a small range of weapons, including the arbalest, crossbow, dagger, hand axe, mace, and war hammer. They may use any magic item usable by thieves. 
+
+It is not in combat, but in the construction and engineering of mechanical devices, that the true mastery of the dwarven machinist becomes evident.
+
+At 1st level, every dwarven machinist is already a master craftsman in a particular type of mechanical craft, such as armor-making, clock-making, jewelling, weaponsmithing, etc. With access to craftsman’s tools, the character can produce 40gp worth of items per month, and supervise 2 journeymen and 3 apprentices in his craft. When examining works of his craft, the dwarven machinist can identify masterwork items, rare materials, and famous artisans with a proficiency throw of 9+ on 1d20. Their **attention to detail** gives dwarven machinists a +3 bonus on proficiency rolls for other proficiencies they learn as well. (This bonus has already been factored in to the machinist’s class abilities.)
+
+Regardless of their particular craft, all machinists are able to **open locks** and **find/remove traps** in the same manner as thieves, but doing so with a superior rate of success due to their attention to detail. Use the target values for these skills shown on the Dwarven Machinist Level Progression table, but otherwise apply all of the normal rules for these tasks (i.e. thieves’ tools are required and only one attempt is permitted per level). Note that a 1st level machinist will have a minimum chance of detecting traps of 14+ due to his default racial ability (described below), but will remove traps with a throw of 15+.
+
+The most precious and valued secret of the dwarven machinist is his ability to **design, build, and repair automatons**. Automatons are machines similar to magical constructs, but using clockwork, steam engines, gears, and valves in place of dweomercraft.
+
+**Designing Automatons:** Dwarven machinists may design new automatons. A successful design creates a **blueprint** that can guide their own or another machinist’s building process. The power of an automaton is measured by its Hit Dice and number of special abilities. Automatons must have a minimum of ½ HD. The machinist is limited to designing automatons with HD no more than twice his class level. Automatons may be designed with any number of special abilities up to the machinist’s class level.
+
+Automatons have a default Armor Class equal to ½ their Hit Dice (rounded down). Increasing AC by two points counts as a special ability. Most automatons are immune to poison, gas, **charm**, **hold**, and **sleep** spells. These collectively count as one special ability. The automaton can be given additional immunities, such as immunity to fire, with each extra immunity counting as another special ability. Unlike constructs, automatons cannot be made immune to non-magical weapons. By default, automatons are mindless drones, simply following instructions in the same manner as a golem or animated undead. Some automatons actually require an operator; these are effectively equipment or vehicles, unable to act independently at all. If the automaton only functions with an operator, it may be treated as if it had one *less* special ability (to a minimum of zero; an automaton may not have ‘negative’ abilities).
+
+By default, automatons have an exploration movement rate of 60’. The automaton may be designed to move faster if desired; each doubling of movement rate count as a special ability, to a maximum of 480’. If the automaton cannot move under its own power, it may be treated as if it had one *less* ability (to a minimum of zero). Movement is normally over land, via wheels, legs, or other mechanism. The automaton may be designed to burrow, climb, fly, and/or swim, but each of these counts as a special ability. If an automaton can hover while flying, it counts as 2 special abilities.
+
+An automaton which requires an operator but moves under its own power must be built to carry at least one passenger (the operator). Adding the ability for the automaton to carry one passenger counts as one special ability; each doubling of passenger capacity counts as another special ability. Passengers are assumed to be carried in the open, as if mounted on an animal. The automaton may carry its passengers in a protected compartment, but this counts as an additional special ability. Characters in a protected compartment receive the AC of the automaton, or a +4 bonus to their own AC, whichever is better. 
+
+Automatons normally have from one to four attacks per round. Their attacks may inflict up to three times their HD in maximum damage per round. For example, a 4 HD automaton may inflict up to 12 points of damage per round. This damage may  be divided among all their attacks as desired. Any special attacks or powers count as special abilities. An attack may be given a range of 10’ per point of maximum damage, but this counts as a special ability. An automaton that has no attacks at all may be treated as if it had one *less* special ability (minimum of zero). 
+
+An automaton’s default weight is its Hit Dice squared x 10 stone. For instance, a ½ HD automaton will weigh 2.5 stone (25lb) while a 4 HD automaton will weigh 160 stone (1,600lb). Each doubling or halving of weight counts as a special ability. An automaton’s carrying capacity is equal to ½ its weight. Passengers, if any, count against this carrying capacity. 
+
+Designing an automaton requires 2,000gp per Hit Die of the automaton, plus an additional 5,000gp for each special ability the automaton possesses. The design process takes one week, plus one day per 1,000gp of cost. Designing an automaton requires a proficiency throw against the target value listed on the Dwarven Machinist Level Progression table. The target value for this throw is increased by +1 for every 5,000gp of automaton cost.
+
+To design an automaton, the dwarven machinist must have access to a research library at least equal in value to the cost of the automaton throughout the design process. For every 10,000gp of value above the minimum required for the automaton, the machinist receives a +1 bonus on his proficiency throw. A successful design creates a blueprint that the machinist can use to build the automaton (described below). 
+
+EXAMPLE: Grimm, a 5th level dwarven machinist, wants to design a flying automaton, an ornithopter. He chooses to design it with only 2 HD, although the maximum permitted for his level is 10 HD. This gives the automaton a base cost of (2,000gp x 2) 4,000gp. At 2 HD, it has a default AC of 1. He assigns it standard automaton immunities, which counts as one special ability. Its default movement rate is 60’, but he increases this to 120’ (one special ability) with flying (one special ability). He adds the ability for his automaton to carry one passenger (one special ability). The automaton can inflict a maximum of 6 damage per round, but Grimm decides to forgo giving his automaton any attacks, which means his automaton will count as having one less special ability. To keep his automaton affordable, he requires it to have an operator, again meaning the automaton will count as having one less special ability. His automaton has a total of (1+1+1+1-1-1) 2 special abilities.
+
+The cost to design the automaton with its special abilities is (4,000gp + 5,000gp x 2) 14,000gp. It will take 21 days to design the construct (1 week + 14,000/1,000). The proficiency throw value to design the ornithopter is 12+ (base 10+ plus 14,000/5,000). Grimm will need to seek out a research library worth at least 14,000gp to complete the design, and can gain a bonus to his throw if the library is of great worth.
+
+When designed, the ornithopter has the following characteristics: AC 1, Move 120’ flying, HD 2, \# AT -, Dmg -; immune to poison, gas, charm, hold, sleep; carry one passenger; requires operator; weight 40 stone (400 lbs); carrying capacity 20 stone.
+
+**Building Automatons:** Building an automaton requires 2,000gp per Hit Die of the automaton, plus an additional 5,000gp for each special ability the automaton possesses. The machinist is limited to creating automatons with HD no more than twice his class level and with a number of special abilities no greater than his class level. The machinist must have either a blueprint or a sample of the type of automaton he wishes to create. Blueprints can be found as treasure in rare manuals, or developed by the machinists (as described above). The remains of an automaton destroyed in battle can serve as a sample.
+
+The construction takes one week, plus one day per 1,000gp of cost. Building an automaton requires a proficiency throw against the target value listed on the Dwarven Machinist Level Progression table. The target value for this throw is increased by +1 for every 5,000gp of automaton cost. 
+
+To build an automaton, the machinist must have access to a workshop at least equal in value to the cost of the automaton throughout the construction. For every 10,000gp of value above the minimum required for the automaton, the machinist receives a +1 bonus on his proficiency throw. For every 10,000gp of quality materials (precious metals, specially treated woods, etc.) added to the construction process, the machinist receives a +1 bonus on his proficiency throw. A machinist may not spend more on quality materials than the base cost of the automaton.
+
+EXAMPLE: Ravik, a 7th level dwarven machinist, finds the wrecked remains of Grimm’s ornithopter. He uses this as a sample to build an ornithopter of his own. The cost to construct the ornithopter is (2,000gp x 2) + (5,000gp x 2) 14,000gp, and the time required is (7 + 14,000gp/1,000) 21 days. Ravik’s proficiency throw to build the ornithopter is 10+ (8+ base plus 14,000/5,000). Being quite wealthy, Ravik has a workshop worth 35,000gp. This gives him a +2 bonus on his proficiency throw (35,000 – 14,000)/(10,000). He decides to lavish 10,000gp on rare hardwood for the construction, gaining an additional +1. Ravik will be able to construct the ornithopter on a roll of 7+.
+
+**Repairing Automatons:** Being machines, automatons do not heal naturally and cannot be magically cured. However, the dwarven machinist can repair his class level of damage with a successful proficiency throw. Performing repairs takes one hour. An automaton reduced to 0hp or less is destroyed and cannot be repaired.
+
+When a dwarven machinist reaches 9th level (Master Machinist), he can establish a **manufactory** and begin training apprentices. He will then attract 1d6 apprentice machinists of 1st-3rd level plus 2d6 dwarves seeking to become machinists. Their Intelligence and Dexterity scores will be above average, but many will find they lack the talent and quit after 1d6 months. Apprentices function like assistants in magical research (see *ACKS* p. 119). While in the dwarven machinist’s service, apprentices must be provided food and lodging, but need not be paid wages. If the dwarven machinist builds a **dungeon** beneath or near his manufactory, monsters will start to arrive to dwell within. These are often used to test new automatons. Machinists’ manufactories are otherwise identical to mages’ sanctums, as detailed in the **Campaign** chapter of the *ACKS* Rulebook.
+
+Like other dwarves, machinists gain a +1 bonus to surprise rolls when underground due to **sensitivity to the rock and stone** around them. Because of their experience underground, dwarves may **detect traps**, false walls, hidden construction, or sloped passages with a proficiency throw of 14+ on 1d20. Dwarves must be actively searching for these abilities to function. 
+
+As dwarves, machinists are particularly **hardy**. The target values for all their saving throws versus Blast/Breath are reduced by 3, while the target values for all their other saving throws are reduced by 4. These adjustments are already factored into the saving throws on the Dwarven Machinist Attack and Saving Throws table below. Dwarven characters speak the Dwarvish tongue and, because of their frequent interaction with other races they can also speak Frost Giant, Dunish, Hendrical, and the Dark tounge of the Beastmen.
+
+**Dwarven Machinist Proficiency List:** Alchemy, Armor Training\*, Art, Bargaining, Caving, Craft, Dungeon Bashing, Dwarven Brewing, Engineering, Illusion Resistance, Inventing,\* Jury-Rigging,\* Knowledge, Lockpicking, Loremastery, Magical Engineering, Mapping, Martial Training, Mechanical Engineering\*, Military Strategy, Navigation, Personal Automaton\*, Precise Shooting, Riding, Scavenging\*, Seafaring, Signaling, Siege Engineering, Tinkering\*, Trap Finding, Trapping, Weapon Finesse 
+
+_\*New proficiencies described in Chapter 6._
+
+|Template:          |Engineer                                                                                                                                                                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Proficiencies:     |Tinkering, Engineering, Craft (stonemasonry) 3                                                                                                                                                                                                       |
+|Starting Equipment:|War hammer, steel shield, chain mail armor, workman’s apron, wool tunic and pants, leather belt, low boots, backpack, tinderbox, 12 torches, crowbar, small hammer, 12 iron spikes, machinist’s tools, stonemason’s tools, 1 week’s iron rations, 1gp|
+
+**Engineer Template:** This pre-generated template represents a resourceful engineer and architect. The template is ready for adventure. However, if your dwarven machinist’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see **Starting Proficiencies** in Chapter 4 of *ACKS*).
+
+###### Dwarven Machinist Attack and Saving Throws
+
+|Level|Petrification & Paralysis|Poison & Death|Blast & Breath|Staffs & Wands|Spells|Attack Throw|
+|:----|:-----------------------:|:------------:|:------------:|:------------:|:----:|:----------:|
+|1-2  |9+                       |9+            |13+           |10+           |11+   |10+         |
+|3-4  |8+                       |8+            |12+           |9+            |10+   |9+          |
+|5-6  |7+                       |7+            |11+           |8+            |9+    |8+          |
+|7-8  |6+                       |6+            |10+           |7+            |8+    |7+          |
+|9-10 |5+                       |5+            |9+            |6+            |7+    |6+          |
+|11   |4+                       |4+            |8+            |5+            |6+    |5+          |
+
+## Giantkin Bastard
+
+| Prime Requisite: | STR and CON
+| :--------------- | :----
+| Requirements:    | STR 10, CON 10
+| Hit Dice:        | 1d10
+| Maximum Level:   | 11
+| Age:             | 14 + 1d4
+
+Savage yet noble, brutal yet heroic, the Mok hails from the forested mountains
+of northern Kanahu. He resembles a massive human – standing two and a half
+meters high – covered with fur and possessing great might. Curiously enough, he
+is a mammal, like men and cats, but unlike any other creature in Kanahu. The
+reason beyond this lies in the breeding vats of the Visitors. Experimenting with
+human abductees, they triggered dormant genetic sequences in them, recalling
+many of their ancestral ape traits. The Visitors' goal in this case was to
+produce a strong foot-soldier and bodyguard to supplement their dwindling robot
+armies. Some Moks do serve in this function, but many others escaped into the
+mountains where they lead a primitive existence.
+
+Giantkin are widely feared and reviled after the war. Giantking bastards suffer a -2 penalty to the reactions, loyalty, and morale of humans and demi-humans they interact with. 
+
+Giantkin Bastards are monstrously powerful combatants. At first level, a giantkin bastard hits an unarmored foe (AC 0) with an attack throw of 10+. Thereafter he advances in attack throws by one point every level of experience up until 9th level (i.e. he fights as a monster). He advances in saving throws as a normal fighter, by two points every three levels of experience. Like a fighter, a giantkin bastard increases his base damage roll from successful missile and melee attacks by +1 at 1st level and by an additional +1 at 3rd, 6th, and 9th level. He may also perform one cleave attack per each level of experience. 
+
+A giantkin bastard, as his name suggests, is renowned for his **brutality**. An unarmed giantkin can perform the Wrestling, Knock Down, and Sunder special maneuvers (ACKS Chapter 6) at no attack penalty, representing great might and brutality in hand-to-hand combat (custom power, essentially doubled Combat Trickery for these three maneuvers, but with Knock Down and Sunder restricted to unarmed combat only. Furthermore, he possesses **bone-breaking strength**. The giantkin does 1d6-1 unarmed damage and may make two attacks per round. 
+
+When the character reaches 5th level, these natural weapons become capable of harming creatures only harmed by magical weapons. He can also enter a **fighting fury** at will; while furious, the character gains a +2 bonus to damage rolls and becomes immune to fear. However, the character cannot retreat from combat. Once it has begun, a fighting fury cannot be ended until combat ends. Finally, he is skilled in **pugilism** and thus knows how to defend himself in a brawl even when not wearing armor. When unarmored, the giantkin enjoys a +1 bonus to his armor class on level 1, which grows to +2 when he reaches level 7.
+
+At 9th level (Brutal Warlord), a giantkin bastard can build a **war camp** and attract fighters, both giantkin and human, with his sheer battle prowess. When he does so, up to 1d4+1x10 0th level human mercenaries and 1d6 giantkin bastards of 1st-3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. Additional rules for castles are detailed in the ACKS
+**Campaign** chapter.
+
+Giantkin Bastard Proficiency List: Acrobatics, Alertness, Ambushing, Berserkergang, Blind Fighting, Climbing, Combat Reflexes, Command, Dungeon Bashing, Endurance, Gambling, Intimidation, Kin-Slaying (from the ACKS Player's Companion), Manual of Arms, Military Strategy, Performance, Precise Shooting, Running, Skirmishing, Survival, Swashbuckling, Tracking, Weapon Finesse, Weapon Focus.
+
+|Template:           |Thug                                                                                                                                                 |
+|------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------- |
+|Proficiencies:      |Dungeon Bashing, Intimidation                                                                                                                        |
+|Starting Equipment: |Shortbow, quiver with 20 arrows, morning star, scarred leather armor, wool tunic and pants, leather belt, low boots, backpack, 1 week’s iron rations |
+
+**Thug Template**: This pre-generated template represents a Giantkin Bastard
+who grew up in the rough portside of Nortwyke and now seek his fame and fortune. The template is ready for adventure. However, if your giantkin bastard’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see **Starting Proficiencies** in Chapter 4 of *ACKS*).
+
+
+###### Giantkin Bastard Level Progression
+
+|Experience|Title                     |Level|Hit Dice|Damage Bonus|
+|:---------|:-------------------------|:---:|:-------|:----------:|
+|0         |Grunt                     |1    |1d10    |\+1         |
+|3,500     |Brawler                   |2    |2d10    |\+1         |
+|7,000     |Fist                      |3    |3d10    |\+2         |
+|14,000    |Brave                     |4    |4d10    |\+2         |
+|28,000    |Brute                     |5    |5d10    |\+2         |
+|56,000    |Savage                    |6    |6d10    |\+3         |
+|112,000   |Riever                    |7    |7d10    |\+3         |
+|224,000   |Ravager                   |8    |8d10    |\+3         |
+|392,000   |Brutal Warlord            |9    |9d10    |\+4         |
+|560,000   |Brutal Warlord, 10th level|10   |9d10+2\*|\+4         |
+|728,000   |Juggernaut                |11   |9d10+4\*|\+4         |
+
+_\* Hit point modifiers from Constitution are ignored._
+
+###### Giantkin Bastard Attack & Saving Throws
+
+|Level|Petrification & Paralysis|Poison & Death|Blast & Breath|Staffs & Wands|Spells|Attack Throw|
+|:----|:-----------------------:|:------------:|:------------:|:------------:|:----:|:----------:|
+|1    |15+                      |14+           |16+           |16+           |17+   |10+         |
+|2    |14+                      |13+           |15+           |15+           |16+   |9+          |
+|3    |14+                      |13+           |15+           |15+           |16+   |8+          |
+|4    |13+                      |12+           |14+           |14+           |15+   |7+          |
+|5    |12+                      |11+           |13+           |13+           |14+   |6+          |
+|6    |12+                      |11+           |13+           |13+           |14+   |5+          |
+|7    |11+                      |10+           |12+           |12+           |13+   |4+          |
+|8    |10+                      |9+            |11+           |11+           |12+   |3+          |
+|9    |10+                      |9+            |11+           |11+           |12+   |2+          |
+|10   |9+                       |8+            |10+           |10+           |11+   |2+          |
+|11   |8+                       |7+            |9+            |9+            |10+   |2+          |
 
 
 ## Alignment
@@ -1486,8 +1650,8 @@ Human vices, such as greed, lust, and vanity, are widespread and common even in 
 
 ## Adventuring Parties
 
-The worlds of Adventurer Conqueror King are dangerous and hostile. For the sake of survival, characters team up to undertake adventures because any number or type of monsters could lie in wait. Such groups, known as adventuring parties, are generally composed of a diverse array of classes, so that different characters are able to contribute their specific talents for any given situation. A thief can check for traps, for instance, and fighters are good for muscle. Clerics have spells for healing and divination, while mages are capable of powerful offensive and defensive magic.
+The worlds is dangerous and hostile, for the sake of survival, characters team up to undertake adventures because any number or type of monsters could lie in wait. Such groups, known as adventuring parties, are generally composed of a diverse array of classes, so that different characters are able to contribute their specific talents for any given situation. A thief can check for traps, for instance, and fighters are good for muscle. Clerics have spells for healing and divination, while mages are capable of powerful offensive and defensive magic.
 
-Occasionally, there are not enough party members to take on the challenges of an adventure. The party may hire NPCs, such as henchmen or mercenaries, for extra hands. The rules for hiring henchmen and mercenaries are discussed in [Chapter 3, Equipment](Chapter03.md#chapter-3-equipment).
+Occasionally, there are not enough party members to take on the challenges of an adventure. The party may hire NPCs, such as henchmen or mercenaries, for extra hands. The rules for hiring henchmen and mercenaries are discussed in Chapter 3, Equipment.
 
 When there are only a small number of players, the Judge may allow them to each play more than one character. Nevertheless, in these cases characters belonging to the same player cannot offer each other special treatment, such as trading or giving away riches or magical items, unless the Judge rules it acceptable.
