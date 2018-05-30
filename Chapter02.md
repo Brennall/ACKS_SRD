@@ -121,43 +121,39 @@ At 9th level (Warlord), a fighter can, assuming enough gold is at hand, build a 
 
 This pre-generated template represents a wary sellsword. The template is ready for adventure. However, if your fighter's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
 
-
-###### Fighter Level Progression
-
-| Experience | Title             | Level | Hit Dice | Damage Bonus
-| :--------- | :---------------- | :---: | :------- | :----------:
-| 0          | Man-at-Arms       | 1     | 1d8      |           +1
-| 2,000      | Warrior           | 2     | 2d8      |           +1
-| 4,000      | Swordmaster       | 3     | 3d8      |           +2
-| 8,000      | Hero              | 4     | 4d8      |           +2
-| 16,000     | Exemplar          | 5     | 5d8      |           +2
-| 32,000     | Myrmidon          | 6     | 6d8      |           +3
-| 65,000     | Champion          | 7     | 7d8      |           +3
-| 130,000    | Epic Hero         | 8     | 8d8      |           +3
-| 250,000    | Warlord           | 9     | 9d8      |           +4
-| 370,000    | Warlord, 10th lvl | 10    | 9d8+2*   |           +4
-| 490,000    | Warlord, 11th lvl | 11    | 9d8+4*   |           +4
-| 610,000    | Warlord, 12th lvl | 12    | 9d8+6*   |           +5
-| 730,000    | Warlord, 13th lvl | 13    | 9d8+8*   |           +5
-| 850,000    | Overlord          | 14    | 9d8+10*  |           +5
+| Fighter Level Progression  |  |  |  |  |
+| :------------------------- | :---------------- | :---: | :------- | :----------: |
+| Experience                 | Title             | Level | Hit Dice | Damage Bonus |
+| 0                          | Man-at-Arms       | 1     | 1d8      |           +1 |
+| 2,000                      | Warrior           | 2     | 2d8      |           +1 |
+| 4,000                      | Swordmaster       | 3     | 3d8      |           +2 |
+| 8,000                      | Hero              | 4     | 4d8      |           +2 |
+| 16,000                     | Exemplar          | 5     | 5d8      |           +2 |
+| 32,000                     | Myrmidon          | 6     | 6d8      |           +3 |
+| 65,000                     | Champion          | 7     | 7d8      |           +3 |
+| 130,000                    | Epic Hero         | 8     | 8d8      |           +3 |
+| 250,000                    | Warlord           | 9     | 9d8      |           +4 |
+| 370,000                    | Warlord, 10th lvl | 10    | 9d8+2*   |           +4 |
+| 490,000                    | Warlord, 11th lvl | 11    | 9d8+4*   |           +4 |
+| 610,000                    | Warlord, 12th lvl | 12    | 9d8+6*   |           +5 |
+| 730,000                    | Warlord, 13th lvl | 13    | 9d8+8*   |           +5 |
+| 850,000                    | Overlord          | 14    | 9d8+10*  |           +5 |
 
 *Hit point modifiers from constitution are ignored
 
-
-###### Fighter Attack and Saving Throws
-
-| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-| :---- | :-----------------------: | :------------: | :------------: | :------------: | :----: | :-----------:
-| 1     | 15+                       | 14+            | 16+            | 16+            | 17+    |          10+
-| 2-3   | 14+                       | 13+            | 15+            | 15+            | 16+    |           9+
-| 4     | 13+                       | 12+            | 14+            | 14+            | 15+    |           8+
-| 5-6   | 12+                       | 11+            | 13+            | 13+            | 14+    |           7+
-| 7     | 11+                       | 10+            | 12+            | 12+            | 13+    |           6+
-| 8-9   | 10+                       | 9+             | 11+            | 11+            | 12+    |           5+
-| 10    | 9+                        | 8+             | 10+            | 10+            | 11+    |           4+
-| 11-12 | 8+                        | 7+             | 9+             | 9+             | 10+    |           3+
-| 13    | 7+                        | 6+             | 8+             | 8+             | 9+     |           2+
-| 14    | 6+                        | 5+             | 7+             | 7+             | 8+     |           1+
+| Fighter Attack and Saving Throws |                           |                |                |                |        |             |
+| :------------------------------- | :-----------------------: | :------------: | :------------: | :------------: | :----: | :----------:|
+| Level                            | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw|
+| 1                                | 15+                       | 14+            | 16+            | 16+            | 17+    | 10+         |
+| 2-3                              | 14+                       | 13+            | 15+            | 15+            | 16+    | 9+          |
+| 4                                | 13+                       | 12+            | 14+            | 14+            | 15+    | 8+          |
+| 5-6                              | 12+                       | 11+            | 13+            | 13+            | 14+    | 7+          |
+| 7                                | 11+                       | 10+            | 12+            | 12+            | 13+    | 6+          |
+| 8-9                              | 10+                       | 9+             | 11+            | 11+            | 12+    | 5+          |
+| 10                               | 9+                        | 8+             | 10+            | 10+            | 11+    | 4+          |
+| 11-12                            | 8+                        | 7+             | 9+             | 9+             | 10+    | 3+          |
+| 13                               | 7+                        | 6+             | 8+             | 8+             | 9+     | 2+          |
+| 14                               | 6+                        | 5+             | 7+             | 7+             | 8+     | 1+          |
 
 
 
@@ -304,10 +300,7 @@ Crusader Proficiency List: Apostacy, Armor Training, Battle Magic, Beast Friends
 
 _\*Modified or new proficiency described on p._ 
 
-###### Crusader Level Progression
-
-|Crusader Level Progression|Crusader Spell Progression|
-|:---|---:|
+###### Crusader Level Progression, Crusader Spell Progression
 
 |Experience|Title|Level|Hit Dice|Special Abilities|1|2|3|4|5|6|
 |:---------|:----|:---:|:-------|----------------:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -894,7 +887,7 @@ As part of his training in ceremonial magic, every loremaster creates a **person
 |:---------------------------|----:
 
 |Experience|Title               |Level|Hit Dice|Special Abilities                             | 1|2|3|4|5|6
-|---------:|:-------------------|----:|-------: |---------------------------------------------:|---:|---:|---:|---:|---:|---:
+|---------:|:-------------------|:---:|-------: |---------------------------------------------:|---:|---:|---:|---:|---:|---:
 |0         |Learner             |1    |1d4      |Loremastery, personal talisman, read languages| 2| \-    | \-    | \-    | \-    | \-    
 |2,000     |Disciple            |2    |2d4      |\-                                            | 3| \-    | \-    | \-    | \-    | \-    
 |4,000     |Scholastic          |3    |3d4      |Personal talisman 2                           | 3| 1     | \-    | \-    | \-    | \-    
@@ -926,7 +919,7 @@ _\*Modified or new proficiency described on p. XX._
 |Template:               |Magical Scholar
 |------------------------|------
 |Proficiencies:          |Magical Engineering, Collegiate Wizardry
-|Starting&#160;Equipment:|Well-kept ceremonial codex with **slumber**, rune-etched staff, blue mage’s cassock, leather belt, low boots, backpack, theurgical implements (level 1), quill and ink, 1 week’s iron rations, 55gp
+|Starting&#160;Equipment:|Well-kept ceremonial codex with slumber, rune-etched staff, blue mage’s cassock, leather belt, low boots, backpack, theurgical implements (level 1), quill and ink, 1 week’s iron rations, 55gp
 
 **Magical Scholar:** This pre-generated template represents a curious magical scholar from an organized guild of mages. The template is ready for adventure. However, if your loremaster’s INT is 13 or greater, you may pick one or more additional general proficiencies and starting spells before play if you’d like (see **Starting Proficiencies** in Chapter 4 and **Spell Repertoire** in Chapter 5 of *ACKS*).
 
@@ -1144,25 +1137,24 @@ _\*Modified or new proficiency described on p. XX._
 
 The ignorant will often refer to any female spellcaster as a witch. Actual witches, however, are practitioners of a distinct craft of magic. Like priestesses and shamans, witches invoke ceremonial eldritch magic, but they do not organize into communities of faith nor do they dedicate themselves to the service of their gods or goddesses. Rather, the relationship of a witch to her divine patron is that of student to teacher, rooted in ancient pacts and secretive traditions. The witch seeks to gain personal knowledge and strength by accepting the guidance and patronage of ancient powers. This quest for knowledge and power often drives witches to become adventurers.
 
-|Witch Level Progression|Witch Spell Progression
-|:----------------------|-------------------------:
+###### Witch Level  & Spell Progression
 
-|Experience|Title            |Level|Hit Dice|   |1|2 |3 |4 |5 |6
-|----------|-----------------|-----|--------|---|-|--|--|--|--|--
-|0         |Initiate         |1    |1d4     |   |2|\-|\-|\-|\-|\-
-|2,000     |Seeress          |2    |2d4     |   |3|\-|\-|\-|\-|\-
-|4,000     |Siren            |3    |3d4     |   |3|1 |\-|\-|\-|\-
-|8,000     |Pythoness        |4    |4d4     |   |3|2 |\-|\-|\-|\-
-|16,000    |Sibyl            |5    |5d4     |   |3|2 |1 |\-|\-|\-
-|32,000    |Enchantress      |6    |6d4     |   |3|3 |2 |\-|\-|\-
-|65,000    |Sorceress        |7    |7d4     |   |4|3 |2 |1 |\-|\-
-|130,000   |Incantrix        |8    |8d4     |   |4|3 |3 |2 |\-|\-
-|230,000   |Witch            |9    |9d4     |   |4|4 |3 |2 |1 |\-
-|430,000   |Witch, 11th level|11   |9d4+2\* |   |5|4 |3 |3 |2 |\-
-|330,000   |Witch, 10th level|10   |9d4+1\* |   |4|4 |4 |3 |2 |1
-|530,000   |Witch, 12th level|12   |9d4+3\* |   |5|4 |4 |3 |3 |2
-|630,000   |Witch, 13th level|13   |9d4+4\* |   |5|5 |4 |4 |3 |2
-|730,000   |Witch Queen      |14   |9d4+5\* |   |6|5 |4 |4 |3 |3
+|Experience|Title            |Level|Hit Dice||1|2 |3 |4 |5 |6
+|:---------|:----------------|:---:|:-------||-|--|--|--|--|--;
+|0         |Initiate         |1    |1d4     ||2|\-|\-|\-|\-|\-
+|2,000     |Seeress          |2    |2d4     ||3|\-|\-|\-|\-|\-
+|4,000     |Siren            |3    |3d4     ||3|1 |\-|\-|\-|\-
+|8,000     |Pythoness        |4    |4d4     ||3|2 |\-|\-|\-|\-
+|16,000    |Sibyl            |5    |5d4     ||3|2 |1 |\-|\-|\-
+|32,000    |Enchantress      |6    |6d4     ||3|3 |2 |\-|\-|\-
+|65,000    |Sorceress        |7    |7d4     ||4|3 |2 |1 |\-|\-
+|130,000   |Incantrix        |8    |8d4     ||4|3 |3 |2 |\-|\-
+|230,000   |Witch            |9    |9d4     ||4|4 |3 |2 |1 |\-
+|430,000   |Witch, 11th level|11   |9d4+2\* ||5|4 |3 |3 |2 |\-
+|330,000   |Witch, 10th level|10   |9d4+1\* ||4|4 |4 |3 |2 |1
+|530,000   |Witch, 12th level|12   |9d4+3\* ||5|4 |4 |3 |3 |2
+|630,000   |Witch, 13th level|13   |9d4+4\* ||5|5 |4 |4 |3 |2
+|730,000   |Witch Queen      |14   |9d4+5\* ||6|5 |4 |4 |3 |3
 
 
 _\*Hit point modifiers from constitution are ignored_
@@ -1239,7 +1231,7 @@ Theology, Transmogrification, Unflappable Casting
 
 |Template:          |Village Witch
 |:------------------|:---
-|Proficiencies:     | Laying on Hands Healing *Healing 2*
+|Proficiencies:     | Laying on Hands Healing Healing-2
 |Starting Equipment:| Holy symbol (pair of horns around lunar disc), slender oak staff, freeholder’s dress, leather belt, leather shoes, backpack, 1lb birthwort, 2lb comfrey, 1lb goldenrod, 1lb woundwort, 5 scented wax candles, flask of holy water, 2 weeks’ iron rations, 7gp 
 
 **Village Witch Template:** This pre-generated template represents a rural witch from the antiquarian tradition. The template is ready for adventure. However, if your witch’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see **Starting Proficiencies** in Chapter 4 of *ACKS*).
@@ -1561,34 +1553,20 @@ _\*New proficiencies described in Chapter 6._
 
 | Prime Requisite: | STR and CON
 | :--------------- | :----
-| Requirements:    | STR 10, CON 10
-| Hit Dice:        | 1d10
-| Maximum Level:   | 11
+| Requirements:    | STR 11, CON 11
+| Hit Dice:        | 1d8
+| Maximum Level:   | 13
 | Age:             | 14 + 1d4
 
-Savage yet noble, brutal yet heroic, the Mok hails from the forested mountains
-of northern Kanahu. He resembles a massive human – standing two and a half
-meters high – covered with fur and possessing great might. Curiously enough, he
-is a mammal, like men and cats, but unlike any other creature in Kanahu. The
-reason beyond this lies in the breeding vats of the Visitors. Experimenting with
-human abductees, they triggered dormant genetic sequences in them, recalling
-many of their ancestral ape traits. The Visitors' goal in this case was to
-produce a strong foot-soldier and bodyguard to supplement their dwindling robot
-armies. Some Moks do serve in this function, but many others escaped into the
-mountains where they lead a primitive existence.
+The last remnant of the Giantkin invasion, unloved and resented by those around them are the bastards left behind. The giantkin are massive specimens of humanity – standing seven feet tall and possessing great might. Given their origin giantkin are widely feared and reviled after the war. Giantkin bastards suffer a -2 penalty to the reactions, loyalty, and morale of humans and demi-humans they interact with. 
 
-Giantkin are widely feared and reviled after the war. Giantking bastards suffer a -2 penalty to the reactions, loyalty, and morale of humans and demi-humans they interact with. 
+Giantkin Bastards are monstrously powerful combatants. Enormously strong they get an extra +1 damage with melee weapons with another +1 at 5th and 9th level, +4 bonus to break things and similar feats of strength. With their great frame and stride, they can move 30' faster than normal and carry an extra 5 stone in weight. However there are drawbacks to this, with Armor costing double normal and weighing 25% more. With such endurance a giantkin is nearly tireless. He does not need to rest every 6 turns. He can force march for one day without penalty, plus one additional day for each point of Constitution bonus. Finally a thickened skin gives a bonus +1 AC, but slows down their response time which gives a -1 initiative.
 
-Giantkin Bastards are monstrously powerful combatants. At first level, a giantkin bastard hits an unarmored foe (AC 0) with an attack throw of 10+. Thereafter he advances in attack throws by one point every level of experience up until 9th level (i.e. he fights as a monster). He advances in saving throws as a normal fighter, by two points every three levels of experience. Like a fighter, a giantkin bastard increases his base damage roll from successful missile and melee attacks by +1 at 1st level and by an additional +1 at 3rd, 6th, and 9th level. He may also perform one cleave attack per each level of experience. 
+The bastard advances in attack throws by two points every three levels. The giantkin bastard can use an unrestricted selection of weapons and armor, and may fight in any style, including two weapons, weapons and shields, and two-handed weapons. The class gains +1 to damage rolls at level 1, and +1 every three levels thereafter. The Bastard may perform one cleave attack per level, this is in addition to the +1 damage earlier.
 
-A giantkin bastard, as his name suggests, is renowned for his **brutality**. An unarmed giantkin can perform the Wrestling, Knock Down, and Sunder special maneuvers (ACKS Chapter 6) at no attack penalty, representing great might and brutality in hand-to-hand combat (custom power, essentially doubled Combat Trickery for these three maneuvers, but with Knock Down and Sunder restricted to unarmed combat only. Furthermore, he possesses **bone-breaking strength**. The giantkin does 1d6-1 unarmed damage and may make two attacks per round. 
+At 9th level (Brutal Warlord), a giantkin bastard can build a **war camp** and attract fighters, both giantkin and human, with his sheer battle prowess. When he does so, up to 1d4+1x10 0th level human mercenaries and 1d6 giantkin bastards of 1st-3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. Additional rules for castles are detailed in the ACKS **Campaign** chapter.
 
-When the character reaches 5th level, these natural weapons become capable of harming creatures only harmed by magical weapons. He can also enter a **fighting fury** at will; while furious, the character gains a +2 bonus to damage rolls and becomes immune to fear. However, the character cannot retreat from combat. Once it has begun, a fighting fury cannot be ended until combat ends. Finally, he is skilled in **pugilism** and thus knows how to defend himself in a brawl even when not wearing armor. When unarmored, the giantkin enjoys a +1 bonus to his armor class on level 1, which grows to +2 when he reaches level 7.
-
-At 9th level (Brutal Warlord), a giantkin bastard can build a **war camp** and attract fighters, both giantkin and human, with his sheer battle prowess. When he does so, up to 1d4+1x10 0th level human mercenaries and 1d6 giantkin bastards of 1st-3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. Additional rules for castles are detailed in the ACKS
-**Campaign** chapter.
-
-Giantkin Bastard Proficiency List: Acrobatics, Alertness, Ambushing, Berserkergang, Blind Fighting, Climbing, Combat Reflexes, Command, Dungeon Bashing, Endurance, Gambling, Intimidation, Kin-Slaying (from the ACKS Player's Companion), Manual of Arms, Military Strategy, Performance, Precise Shooting, Running, Skirmishing, Survival, Swashbuckling, Tracking, Weapon Finesse, Weapon Focus.
+Giantkin Bastard Proficiency List: Acrobatics, Alertness, Ambushing, Berserkergang, Blind Fighting, Bribery, Climbing, Combat Reflexes, Combat Trickery (Force Back), Combat Trickery (Knockdown) Command, Dungeon Bashing, Gambling, Intimidation, Kin-Slaying, Manual of Arms, Military Strategy, Performance, Precise Shooting, Running, Skirmishing, Survival, Swashbuckling, Tracking, Unarmed Fighting, Weapon Finesse, Weapon Focus.
 
 |Template:           |Thug                                                                                                                                                 |
 |------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1603,18 +1581,20 @@ who grew up in the rough portside of Nortwyke and now seek his fame and fortune.
 
 |Experience|Title                     |Level|Hit Dice|Damage Bonus|
 |:---------|:-------------------------|:---:|:-------|:----------:|
-|0         |Grunt                     |1    |1d10    |\+1         |
-|3,500     |Brawler                   |2    |2d10    |\+1         |
-|7,000     |Fist                      |3    |3d10    |\+2         |
-|14,000    |Brave                     |4    |4d10    |\+2         |
-|28,000    |Brute                     |5    |5d10    |\+2         |
-|56,000    |Savage                    |6    |6d10    |\+3         |
-|112,000   |Riever                    |7    |7d10    |\+3         |
-|224,000   |Ravager                   |8    |8d10    |\+3         |
-|392,000   |Brutal Warlord            |9    |9d10    |\+4         |
-|560,000   |Brutal Warlord, 10th level|10   |9d10+2\*|\+4         |
-|728,000   |Juggernaut                |11   |9d10+4\*|\+4         |
-
+|0         |Grunt                     |1    |1d8     |\+2         |
+|2250      |Brawler                   |2    |2d8     |\+2         |
+|4500      |Fist                      |3    |3d8     |\+3         |
+|9000      |Brave                     |4    |4d8     |\+3         |
+|18000     |Brute                     |5    |5d8     |\+4         |
+|36000     |Savage                    |6    |6d8     |\+5         |
+|72000     |Riever                    |7    |7d8     |\+5         |
+|145000    |Ravager                   |8    |8d8     |\+5         |
+|290000    |Brutal Warlord            |9    |9d8     |\+7         |
+|410000    |Brutal Warlord, 10th level|10   |9d8+2\* |\+7         |
+|530000    |Brutal Warlord, 11th level|11   |9d8+4\* |\+7         |
+|650000    |Brutal Warlord, 12th level|12   |9d8+6\* |\+7         |
+|770000    |Juggernaut                |13   |9d8+8\* |\+7         |
+  
 _\* Hit point modifiers from Constitution are ignored._
 
 ###### Giantkin Bastard Attack & Saving Throws
@@ -1632,6 +1612,87 @@ _\* Hit point modifiers from Constitution are ignored._
 |9    |10+                      |9+            |11+           |11+           |12+   |2+          |
 |10   |9+                       |8+            |10+           |10+           |11+   |2+          |
 |11   |8+                       |7+            |9+            |9+            |10+   |2+          |
+|12   |7+                       |6+            |8+            |8+            |9+    |2+          |
+|13   |6+                       |5+            |7+            |7+            |8+    |2+          |
+
+## Giantkin Misbegotten
+
+| Prime Requisite: | STR, CON AND DEX
+| :--------------- | :----
+| Requirements:    | STR 10, CON 10, DEX 10
+| Hit Dice:        | 1d6
+| Maximum Level:   | 11
+| Age:             | 14 + 1d4
+
+Left behind, the smaller and more cunning of the giantkin have found a niche as the enforcers and thugs for criminals. On the small side for Giantkin at a mere six foot six inches tall with might to match these giantkin are threatening to all around them. Given their origin giantkin are widely feared and reviled after the war. Giantkin misbegotten suffer a -2 penalty to the reactions, loyalty, and morale of humans and demi-humans they interact with. 
+
+Giantkin misbegotten are powerful combatants. Enormously strong they get an extra +1 damage with melee weapons with another +1 at 5th and 9th level, +4 bonus to break things and similar feats of strength. With their great frame and stride, they can move 30' faster than normal and carry an extra 5 stone in weight. However there are drawbacks to this, with Armor costing double normal and weighing 25% more. With such endurance a giantkin is nearly tireless. He does not need to rest every 6 turns. He can force march for one day without penalty, plus one additional day for each point of Constitution bonus. Finally a thickened skin gives a bonus +1 AC, but slows down their response time which gives a -1 initiative.
+
+Giantkin Misbegotten are ruthless, dirty combatants. At first level, misbegotten hit an unarmored foe (AC 0) with an attack throw of 10+. Like thieves, they advance in attack throws by two points every *four* levels of experience. In addition they advance in saving throws like thieves, by two points every *four* levels of experience. The can make 1 cleave per two levels of experience.
+
+All giantkin misbegotten may wear leather armor or lighter, and may wield bows / crossbows and Swords / Daggers, but may not use shields. They may only use magic items usable by thieves.
+
+Lacking the staying power of fighters, misbegotten prefer to strike from ambush and finish their foes quickly. A giantkin misbegotten whose opponent is unaware of his presence can **backstab** him. When backstabbing, the freebooter receives an attack bonus of +4 and, if successful, deals additional damage for every four levels he has attained. A freebooter at 1st through 4th levels does double the normal damage, at 5th-8th levels does triple the normal damage, at 9th-12th levels does quadruple the normal damage, and at 13th level or higher does quintuple the normal damage.
+
+Due to his exposure to the seedy life of the streets, the misbegotten has a number of thief-like skills such as hideingin shadows, moving silently, opening locks, climbing Walls, hearing noises and picking pockets. The misbegotten is a cut-throat and killer. He can cut the purses of passersby, skulk in the shadows to waylay unsuspecting victims, break into homes and burglarize their valuables, or simply rely on his threatening demeanor and martial prowess to rob victims at sword-point. Most misbegotten can be found in any den of scum and villainy.
+
+**Hiding in Shadows**: A thief may attempt to skulk unseen in the cover of darkness. A thief will always think he is successful in this skill, and will not know otherwise until others react to his presence. A thief will remain hidden so long as he stays motionless. If he moves, he must make a new proficiency throw to hide.
+
+**Opening Locks**: With the aid of thieves' tools, a thief may pick mechanical locks. He may only try to pick a particular lock once, and if he fails, he may not try the same lock again until he reaches a higher experience level. The Judge may apply bonuses or penalties to the roll, depending on the complexity of the lock.
+
+**Picking Pockets**: This skill is the bread and butter of non-adventuring thieves for it is a quick source of income - though not without peril. A throw that is less than half the target value means that the intended target notices the thieving attempt. The Judge will then make a reaction roll with a -3 penalty to determine the intended victim's reaction.
+
+**Moving Silently**: Thieves may move with total silence. When successful, even keen eared guards will not hear the movements of a thief. However, the thief always thinks he is successful in this skill, and will not know otherwise unless and until others react to his presence. Thieves may move silently at  1/2  their standard combat movement rate without penalty. If they move greater than  1/2  speed, they take a -5 penalty to the proficiency throw. If they run, they take a -10 penalty.
+
+**Hearing Noises**: Thieves can attempt to listen for noises in a cave or hallway and at a door or other locations. The thief must be quiet and in a quiet environment.
+
+**Climbing Walls**: Thieves are adept at scaling sheer surfaces, including walls or steep cliffs. They require a proficiency throw for each 100' they intend to climb. If the roll fails, they fall a distance equal to half the attempted distance, plus the distance covered by any previous throws, taking 1d6 points of damage per 10 feet. Thieves climb at ¼ their standard combat movement rate.
+
+When a misbegotten attains 9th level (ThiefLord), he can establish a hideout, and 2d6 misbegotten or human thief apprentices of 1st level will come to work with the character. If hired, they must be paid standard rates for ruffians. A successful character might use these followers to start a Thieves’ Guild. Additional rules for hideouts are detailed in the Campaign chapter.
+
+Giantkin Misbegotten Proficiency List: Acrobatics, Alertness, Ambushing, Berserkergang, Blind Fighting, Bribery, Climbing, Combat Reflexes, Command, Endurance, Gambling, Kin-Slaying, Manual of Arms, Military Strategy, Performance, Precise Shooting, Running, Skirmishing, Skulking, Survival, Trap Finding, Unarmed Fighting, Vermin Slaying, Weapon Finesse, Weapon Focus.
+
+|Template:           |Minerstown Ruffian                                                                                                                                                 |
+|------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------- |
+|Proficiencies:      |Dungeon Bashing, Intimidation|                                                                                  |
+|Starting Equipment: |Shortbow, quiver with 20 arrows, dagger, scarred leather armor, wool tunic and pants, leather belt, low boots, backpack, 1 week’s iron rations |
+
+**Ruffian Template**: This pre-generated template represents a Giantkin misbegotten who grew up in the shady minerstown areas of Blenby and now seek his fame and fortune. The template is ready for adventure. However, if your giantkin misbegotten’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see **Starting Proficiencies** in Chapter 4 of *ACKS*).
+
+
+###### Giantkin Misbegotten Level Progression
+
+|Experience|Title                            |Level|Hit Dice|Open Locks|Pick Pockets\*|Move Silently|Hide in Shadows|Hear Noise|
+|:---------|:--------------------------------|:---:|:-------|:--------:|:------------:|:-----------:|:-------------:|:--------:|
+|0         |Scrounger                        |1    |1d6     |18+       |17+           |17+          |19+            |14+       |
+|1555	   |Looter                           |2    |2d6     |17+       |16+           |16+          |18+            |13+       |
+|3110	   |Brawler                          |3    |3d6     |16+       |15+           |15+          |17+            |12+       |
+|6220	   |Purloiner                        |4    |4d6     |15+       |14+           |14+          |16+            |11+       |
+|12440	   |Riever                           |5    |5d6     |14+       |13+           |13+          |15+            |10+       |
+|24880	   |Ransacker                        |6    |6d6     |12+       |12+           |12+          |14+            |9+        |
+|49760	   |Plunderer                        |7    |7d6     |10+       |10+           |10+          |12+            |8+        |
+|100000	   |Misbegotten                      |8    |8d6     |8+        |8+            |8+           |10+            |7+        |
+|200000	   |Misbegotten Thieflord            |9    |9d6     |6+        |6+            |6+           |8+             |6+        |
+|300000	   |Misbegotten Thieflord, 10th level|10   |9d6+2\* |4+        |4+            |4+           |6+             |5+        |
+|400000	   |Misbegotten Thieflord, 11th level|11   |9d6+4\* |3+        |2+            |2+           |4+             |4+        |
+|500000	   |Misbegotten Thieflord, 12th level|12   |9d6+6\* |2+        |-1+           |2+           |3+             |3+        |
+|600000	   |Misbegotten Thieflord, 13th level|13   |9d6+8\* |1+        |-3+           |1+           |2+             |2+        |
+      
+_\* Hit point modifiers from Constitution are ignored._
+
+
+###### Giantkin Misbegotten Attack & Saving Throws
+
+| Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :----- | :-----------------------: | :------------: | :------------: | :------------: | :----: | :-----------:
+| 1-2    | 13+                       | 13+            | 16+            | 14+            | 15+    |          10+
+| 3-4    | 12+                       | 12+            | 15+            | 13+            | 14+    |           9+
+| 5-6    | 11+                       | 11+            | 14+            | 12+            | 13+    |           8+
+| 7-8    | 10+                       | 10+            | 13+            | 11+            | 12+    |           7+
+| 9-10   | 9+                        | 9+             | 12+            | 10+            | 11+    |           6+
+| 11     | 8+                        | 8+             | 11+            | 9+             | 10+    |           5+
+
+
 
 
 ## Alignment
